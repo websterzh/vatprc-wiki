@@ -16,48 +16,91 @@ VATSIM不希望对其会员进行持续性的监管。为此，当会员之间�
 
 >## A.	General Rules of Conduct  
 
+## A. 通则  
+
 >A1 - Members shall, at all times, be courteous and respectful to one another.  
+
+A1 – 会员在任何时候都应互相礼让，互相尊重。  
 
 >A2(a) - To use VATSIM, you must first register as a member of VATSIM. Only registered members in good standing may observe, fly as a pilot, and/or provide ATC as a controller.  
 
+A2(a) – VATSIM仅供VATSIM注册会员使用。只有信誉良好的注册会员才可以作为观察员，飞行员或管制员连线。  
+
 >A2(b) - Only registered members in good standing may connect to VATSIM or a VATSIM service, except as a guest where applicable.  
+
+A2(b) – 除在特定情况下以访客的身份外，只有信誉良好的注册会员才会被允许使用VATSIM连飞网络或VATSIM服务。  
 
 >A3 - Without exception, a member may not permit or knowingly allow their VATSIM account to be used by anyone else.  
 
+A3 – VATSIM会员在任何情况下，都不能与其他人共享自己的账号。  
+
 >A4(a) - During the registration process with VATSIM, you must provide your real full name. Nicknames, callsigns or abbreviations are not permitted to be associated with a member’s registered account. VATSIM reserves the right, in its discretion, to require proof of real name and proof of age from a member.  
+
+A4(a) – 在注册成为VATSIM会员的过程中，必须使用真实的全名。会员的账号不可以使用昵称，呼号或姓名缩写。VATSIM保留其要求会员提供证明该会员姓名及年龄的文件的权力。  
 
 >A4(b) - Members shall connect to VATSIM using only one of the following name conventions:   
 
+A4(b) – 会员在连接到VATSIM时需要使用下列名称组合之一：  
+
 >(1) Their real, FULL NAME (ie Joseph Smith), as registered.  
+
+(1) 会员在注册时所提交的真实的全名，如：Joseph Smith  
 
 >(2) An appropriate shortening of their given name, followed by their surname (ie Joe Smith).  
 
+(2) 会员名字的合理缩写，以及会员的姓，如：Joe Smith  
+
 >(3) Their real given name. (ie Joseph).  
+
+(3) 会员的名字（不含姓），如：Joseph  
 
 >(4) An appropriate shortening of their given name (ie Joe).  
 
+(4) 会员名字的合理缩写（不含姓），如：Joe  
+
 >(5) Their certificate ID number.  
 
+(5) 会员的VATSIM账号ID（CID）.  
 
 >A5 - During your time as a member of VATSIM, you must provide and maintain a valid e-mail address. This means that you must notify VATSIM of any changes to your e-mail address. Your e-mail address will not be shared outside the VATSIM organization without your express prior permission. Failure to maintain your e-mail address is grounds for immediate suspension of your VATSIM account, without notice.  
 
+A5 - 在您作为VATSIM的会员期间，您必须提供一个有效的电子邮件地址，并且需要在您电子邮件地址变更时告知VATSIM。未经您事先许可，VATSIM不会与任何第三方组织分享您的电子邮件地址。如果未能保持您账号关联的电子邮箱地址的可用性，VATSIM会在不进行通知的情况下禁用您的账号。  
+
 >A6 - A member may register for and hold only one VATSIM account.  
+
+A6 - 会员仅可注册及使用一个VATSIM账号。（或：会员不可以注册或使用多个VATSIM账号）  
 
 >A7 - A member shall only use software approved by VATSIM to connect to, or interface with the network. (https://www.vatsim.net/documents/approved-software) A member shall become familiar with the basic use of these programs prior to logging on to the VATSIM network.  
 
+A7 - 会员仅限使用VATSIM许可的软件连接到VATSIM网络。 (https://www.vatsim.net/documents/approved-software) 会员在连接到VATSIM网络之前需要确保已经了解了所使用软件的基本使用方法。  
+
 >A8 - A member shall only make one connection to the VATSIM network during any given session, except as may be otherwise provided for in this Code of Conduct.  
+
+A8 - 除本行为准则另有规定外，会员在任何时候只能与VATSIM网络创建一个连接。  
 
 >A9 - Except as provided for in Section B3(b) of this Code of Conduct, members shall not leave their connections unattended. Members not actively participating in the network (ie connected as an observer) shall not log on for excessive periods of time.  
 
+A9 - 除本行为准则第B3(b)条所规定的情况外，会员不得在连线时离开电脑。没有积极参与网络活动的会员（如以观察员身份连线的会员）不得长时间登录VATSIM网络。  
+
 >A10 - Members shall exercise patience and tolerance towards other members, especially where a member is less familiar with an area, or learning new skills.  
+
+A10 - 会员应当对其他会员保持耐心和宽容，尤其是当对方对某些领域还不太熟悉，或是正在学习新的技能时。  
 
 >A11 - Members are prohibited from using any software, forums, newsgroups, social media streams, or mailing lists utilized by VATSIM and its officially recognized Regions, Divisions and their subdivisions to threaten, harass, stalk, or to otherwise violate the legal rights of others including expectations of privacy and publicity. This includes using the above resources to find, locate, or otherwise discover methods of contacting members for the purpose of threatening, harassing, stalking, or otherwise violating the legal rights of them. Further, members shall not publish, post, distribute, disseminate, or use any kind of defamatory, infringing, obscene, vulgar, profane, unlawful, or other types of communications, materials, or information. Individuals violating this rule are subject to the procedures set forth in Article I of the VATSIM.net Code of Regulations, which may result in removal from VATSIM and revocation of their membership privileges.  
 
+A11 - 会员不可以在任何VATSIM所使用的软件、论坛、新闻组、社交媒体或电子邮件名单，以及VATSIM所认可的地区、分部及其分支机构对他人进行威胁、骚扰、跟踪、或以其他方式侵犯他人的合法权益（包括但不限于隐私权和公开权）。这包括以威胁、骚扰、跟踪或以其他方式侵犯他人合法权益为目的，使用上述资源寻找、定位或以其他方式发现会员的联系方法。此外，会员不得发表、张贴、分发、散布或者使用任何类型的诽谤、侵权、淫秽、粗俗、亵渎、非法、或其他任何形式的通信、材料或信息。VATSIM将会依据VATSIM.net规章守则中第一条所规定的程序对违反本规则的个人进行处理，这可能会导致其被VATSIM除名并撤销其会员资格。  
+
 >A12 - Members shall not connect to VATSIM with a callsign, or other identifier, that implies or designates a status they do not hold including, but not limited to, those reserved for, or generally used by, Founders, members of the Board of Governors, members of the Executive Committee, Supervisors, and/or any staff members. Furthermore, members shall not state, imply, or otherwise communicate that they hold a status they do not.  
+
+A12 - 会员不得使用任何暗示或指定他们所不持有的身份的呼号或其他标识符连接到VATSIM，包括但不限于为创始人、理事会成员、执行委员会成员、监察员和/或工作人员保留的或者常用的呼号或标识符。此外，会员不得声明、暗示或以其他方式传达他们持有一个并不拥有的身份。  
 
 >A13 - Members shall only connect to VATSIM as an observer, a pilot, or an air traffic controller. No other connection is permitted. Military, paramilitary or civilian government agency operations and/or activities must be authorized by an approved Special Operations Organization. Special Operations restrictions and procedures are defined in the Special Operations Policy. https://www.vatsim.net/documents/special-operations-policy)  
 
+A13 - 会员不得以观察员、飞行员或管制员以外的身份连接到VATSIM。任何涉及到军事、准军事或文职政府机构的行动和/或活动必须由经VATSIM批准的特别行动组织授权方可进行。特别行动的限制及程序可以在特别行动政策中找到。(https://www.vatsim.net/documents/special-operations-policy)  
+
 >A14 - Voice is the preferred method of communication on VATSIM, though all members shall accommodate, with the same level of service, those communicating only by text. There shall be no rules preventing or discouraging the use of either voice or text. Only unaltered speech is permitted to be transmitted.  
+
+A14 - 语音是VATSIM首选的通讯方式，但仅使用文字进行通讯的会员也应受到与其他会员相同水平的服务。***
 
 >A15 - While connected to VATSIM, and when requested to do so, members shall respond to messages from, and comply with all instructions issued by VATSIM Administrators and/or VATSIM Supervisors.  
 
