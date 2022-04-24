@@ -276,9 +276,9 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 管制员一般会在TD前几十海里就会发布下高指令，请务必注意守听。
 
-> *“国航4115， 下到标压8400米保持。”*
+> *“国航4115， 下到8400米保持。”*
 
-> *"Air China 4115, descend and maintain 8400m on standard."*
+> *"Air China 4115, descend and maintain 8400m."*
 
 在某些时候，为了更好的掌握机组的下高情况，管制员会给出以下的限制性指令：
 
