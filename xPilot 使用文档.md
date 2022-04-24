@@ -110,19 +110,15 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20Settings.png)
 
-xPilot Settings.png
-
 在连接到Vatsim之前，您必须配置xPilot。
 
-VATSIM ID                    填写您的VATSIM ID
-
-VATSIM Password      填写您的VATSIM密码
-
-Your Name                  填写您的姓名
-
-Home Airport              填写您的主基地（选填）
-
-VATSIM Server            选择合适的VATSIM服务器 
+|                   |                        |
+| ----------------- | :--------------------- |
+| `VATSIM ID  `     | 填写您的VATSIM ID      |
+| `VATSIM Password` | 填写您的VATSIM密码     |
+| `Your Name`       | 填写您的姓名           |
+| `Home Airport`    | 填写您的主基地（选填） |
+| `VATSIM Server `  | 选择合适的VATSIM服务器 |
 
 如果启用**Automatically set transponder to Mode C on takeoff**，则您的飞机的应答机将在起飞后自动更改为Mode C
 
@@ -136,19 +132,15 @@ Keep xPilot window visible       xPilot客户端窗口始终置顶
 
 ### 音频设备
 
-Audio API                     显示可用于xPilot的音频驱动程序
-
-Microphone Device   选择您的麦克风设备
-
-Listen Device              选择您的声音输出设备
-
-Mic Volume                 输入音量设置
-
-COM1&COM2             输出音量设置
+|                     |                                |
+| ------------------- | :----------------------------- |
+| `Audio API  `       | 显示可用于xPilot的音频驱动程序 |
+| `Microphone Device` | 选择您的麦克风设备             |
+| `Listen Device`     | 选择您的声音输出设备           |
+| `Mic Volume`        | 输入音量设置                   |
+| `COM1&COM2 `        | 输出音量设置                   |
 
 Microphone Device下的颜色条 请确保您的音量在**绿色**范围内 蓝色表示音量太小 红色表示音量太大
-
-
 
 
 
@@ -372,7 +364,7 @@ xPilot没有需要安装或配置的复杂或特殊模型匹配规则。 在使x
  --=={This application has crashed because of the plugin: xPilot}==--
 
 每次重新启动X-Plane时，日志都会被覆盖，因此在重新启动X-Plane之前保存日志的副本非常重要。
-X-Plane通常还会在 X-Plane 11\Output\crash_reports 中创建闪退报告。
+X-Plane通常还会在  `X-Plane 11\Output\crash_reports` 中创建闪退报告。
 包括事故报告和日志是非常重要的。当报告崩溃时。没有这些信息，就不可能知道X-Plane闪退的具体原因。
 
 
