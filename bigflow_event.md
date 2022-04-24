@@ -107,3 +107,27 @@ CBJ629: Unable,the earliest/latest time we can cross DM at 1022Z
 ```
 #### 3.雷達引導
 + 雷達引導包含航向引導以及直飛，如果不清楚直飛點的點名請向管制員證實
+```
+吉祥1245，左/右轉航向360(雷達引導)
+DKH1245, turn right/left heading 360(Radar Vector)
+
+吉祥1245，(左/右轉)直飛大王莊/直飛ELKUR
+DKH1245, (turn left/right)Direct VYK/ELKUR
+
+吉祥1245，直飛AVBOX，恢復自主領航
+DKH1245, Direct AVBOX,Resume own nevigation
+
+吉祥1245，右轉航向020，可以盲降進近35L，航向道建立報
+DKH1245,Turn right heading 020,Clear ILS 35L approach,Report Localizer estabulished
+
+吉祥1245，右轉直飛PD063，可以盲降進近35L，航向道建立報
+DKH1245,Right turn direct PD073,Clear ILS 35L approach,Report Localizer estabulished
+
+吉祥1245：證實直飛哪個點
+DKH1245: Comfirm Direct to which waypoint?
+
+吉祥1245：證實大王莊/ELKUR怎麼拼
+DKH1245: Comfirm How to spell VYK/ELKUR?
+
+
+```
