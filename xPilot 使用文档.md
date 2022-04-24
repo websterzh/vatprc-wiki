@@ -128,7 +128,7 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 | Home Airport    | 填写您的主基地（选填） |
 | VATSIM Server   | 选择合适的VATSIM服务器 |
 | Keep xPilot window visible    | xPilot客户端窗口始终置顶 |
-| Automatically set transponder to Mode C on takeoff    | 应答机在起飞后自动Mode C |
+| Automatically set transponder to Mode C on takeoff    | 应答机起飞后自动Mode C |
 
 右侧的第2-7个选项供您选择哪些事件会导致提示音通知。
 
@@ -376,3 +376,6 @@ X-Plane通常还会在  `X-Plane 11\Output\crash_reports` 中创建闪退报告�
 ### 错误：Error connecting to voice server. Please check your VATSIM credentials and try again.
 
 如果您最近创建或重新激活了您的VATSIM帐户，您需要等待几分钟，以便您的帐户与服务器同步；在某些情况下，同步时长长达24小时。在同步您的帐户之前，您将无法使用语音，仅可使用文本。您还必须参加并通过**P0 : Basic VATSIM会员**考试。否则，请检查您的凭据并重试；密码区分大小写。
+
+
+
