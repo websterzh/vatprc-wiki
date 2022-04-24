@@ -249,7 +249,7 @@ Make sure you have listened to the valid ATIS before requesting a clearance
   
   > *“东方519，在庵东进行标准等待，保持高度4500米。”* 
   
-  > *"China Eastern 519, hold at AND, maintain 4500 meters."*
+  > *"China Eastern 519, hold at AND as published, maintain 4500 meters."*
   
   非公开等待指令的标准格式为 
   
