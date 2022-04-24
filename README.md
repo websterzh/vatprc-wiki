@@ -3,6 +3,8 @@
 本项目旨在更新并整合 VATPRC 现有的各种教程，此仓库仅为雏形，最终大致会以一个知识库的方式集中展现。该内容面向的对象为新手，针对“快餐化”的流行趋势，在包含对内容详细解释的同时，也可适当加入一些简单概括性的内容。项目使用众包机制，任何有经验的 VATPRC 成员都可以根据目录中的内容编写对应部分的教程，并通过 Pull Request 将他们的内容合并到本仓库中。
 
 ## 编写要求
++ 需要编写的内容和各内容的状态参见本仓库的 Issues 和目录
+  + 如果想到了新的需要编写的内容，也可以开新的 Issue 讨论决定
 + 使用 [Markdown 语法](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 + 每个文件均使用 `.md` 的后缀保存
 + 对于每个人编写的每一个话题，开新分支进行编辑
