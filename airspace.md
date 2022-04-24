@@ -35,7 +35,7 @@ will implement [RNAV] procedures.
 #### 查看管制员的ATC info
 很多管制员反映机组在首次联系时很少查看ATC info,造成了不必要的频率占用。事实上ATC info是很重要的信息，它告诉了机组联系该管制席位的一些注意事项。举一个最简单的例子，经常有机组把ZSSS_APP叫成虹桥进近，把ZGJD_APP叫成深圳进近。然而实际上这些席位的管制员在上线时都在其ATC info中明确的写出了他们的呼号该怎么念，但是很多机组并没有看ATC info的习惯。
 
-机组可以通过双击vPilot或xPilot左侧列表中的席位名称来获取该席位的ATC info。请注意，实际上线时，每个管制员的ATC info格式可能各不相同。如果发现有信息看不懂，请直接向管制员咨询。以下是一些较为典型的ATC info样例：
+机组可以通过双击vPilot或xPilot左侧列表中的席位名称来获取该席位的ATC info。请注意，实际上线时，每个管制员的ATC info格式可能各不相同。如果对信息感到困惑，请直接向管制员咨询。以下是一些较为典型的ATC info样例：
 ```
 "Shanghai Control" CN/EN | CPDLC ZSHA
 Real Radar Correlation, Squawk Mode C When Airbourne
@@ -177,7 +177,7 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 > *“Air China 4115, surface wind 170 degrees, 3 meters per second, qnh 1011, runway 17L, cleared for takeoff.”*
 
-大多数主要机场的细则规定，航空器从等待位置到对正跑道时间应控制在 60s 以内，如航空器驾驶员无法执行上述要求应当及时通知塔台管制员（湿跑道或污染跑道除外）。此规则在模拟飞行中同样适用。由于航空器间存在尾流间隔限制，且区域管制员可能会根据航路运行情况和目的地机场运行情况给出航路间隔限制，两架飞机放飞的间隔时间可能较长，请机组耐心等候。
+大多数主要机场的细则规定，航空器从等待位置到对正跑道时间应控制在 60s 以内，如航空器驾驶员无法执行上述要求应当及时通知塔台管制员（湿跑道或污染跑道除外）。此规则在模拟飞行中同样适用。由于航空器间存在尾流间隔限制，且区域管制员可能会根据航路运行情况和目的地机场运行情况给出航路间隔限制，两架飞机放飞的间隔时间可能较长，请耐心等候。
 
 飞机离地后，机组应主动报告。
 
@@ -344,4 +344,17 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 > *“国航4115，减速最小，前机5海里，目视前机报告。”*
 
-> *"Air China 4115, reduce speed minium, traffic 5miles ahead of you, report in sight."* 
+> *"Air China 4115, reduce speed minimum, traffic 5miles ahead of you, report in sight."* 
+
+在落地后，请从最近的快速脱离道尽快脱离，不要长时间占用跑道，这会导致不必要的间隔浪费。落地后联系地面并滑行到位的流程和前面介绍过的没有大的不同，此处省略。
+
+#### 复飞
+复飞分为两种情况，一种是机组自行决定的复飞，一种是塔台管制员指令的复飞。
+
+对于第一种复飞，标准通话格式为（以遭遇风切变为例）：
+> *“塔台，国航4115复飞，由于风切变告警。”*
+> *"Tower, Air China 4115 going around due to windshear."*
+
+塔台管制员会对复飞机组发布下一步指令：
+>*“国航4115，沿标准复飞程序上到900米，联系进近120.6”*
+>*"Air China 4115, follow standard missed approach prodecure, climb and maintain 900 meters, contact Approach on 120.6"*
