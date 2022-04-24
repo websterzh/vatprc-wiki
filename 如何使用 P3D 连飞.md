@@ -24,16 +24,16 @@
      - Airbus 空客
      - Boeing 波音
 4. 地景
-   - 下载
-   - 安装
 
 ## 连飞软件
 
 vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一个免费软件。
 
+本教程只介绍了 vPilot 的基本操作。您可以通过阅读 [vPilot 官方文档](https://vpilot.rosscarlson.dev/Documentation)或[本 wiki 中的 vPilot 官方文档翻译](https://github.com/websterzh/vatprc-wiki/blob/vPilot/vPilot%20使用文档.md)以获取更详细的信息。
+
 ### 下载
 
-进入[官网下载页面](https://vpilot.rosscarlson.dev/Download)，点击 Download Stable 按钮即可下载最新版本的 vPilot 客户端安装包。
+进入[官网下载页面](https://vpilot.rosscarlson.dev/Download)，点击 `Download Stable` 按钮即可下载最新版本的 vPilot 客户端安装包。
 
 ### 安装
 
@@ -66,6 +66,8 @@ vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一�
 
 #### Airbus 空客
 
+
+
 #### Boeing 波音
 
 ### 简单教程
@@ -82,8 +84,9 @@ vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一�
 
 地景是模拟飞行的基础之一，一般分为机场地景和城市地景两种类型。一个最新、细节丰富、位置正确的地景能够显著提升您的飞行体验，让您的模拟飞行更加贴近真实。
 
-### 下载
+最新、位置正确对于连飞而言是最重要的。如果您的地景是过时的乃至是系统的默认机场，您可能会发现其他机组的位置会与您模拟器中的位置有亿点点偏差（在上海浦东和部分相对较小的机场中尤为严重）。这时，因为地景的偏差，您可能无法完全正确地执行管制员的指令，这会让您的飞行体验有所折扣，也管制和其他机组带来一定的困扰。
 
-
-
-### 安装
+为了让您拥有良好的飞行体验与活动体验，我们强烈建议您在开始飞行或参与连飞活动之前通过以下方式检查、获取并安装最新的活动机场地景：
+- 从第三方插件商处购买。
+- 从 [VATPRC 飞行员中心](https://pilot.vatprc.net/#/scenery)下载地景。
+- 从其他渠道获取地景。
