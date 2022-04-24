@@ -49,7 +49,7 @@
 
 要启动 vPilot，请双击桌面图标（如果您选择在安装过程中创建一个）或在程序列表中找到 vPilot 并从那里启动它。 vPilot 会在 模拟飞行软件 外部运行，因此它不像其他一些插件客户端那样从模拟器菜单启动
 
-第一次运行 vPilot 时，您将看到一个窗口弹出，该消息表明您尚未完全配置 vPilot，单击` 是(Y)` 打开设置窗口并配置 vPilot
+第一次运行 vPilot 时，您将看到一个窗口弹出，该消息表明您尚未完全配置 vPilot，单击 `是(Y)` 打开设置窗口并配置 vPilot
 
 vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 sim 尚未运行，它将每 10 秒尝试一次，并在最终建立连接时在主消息区域显示一条消息（以Lockheed Martin Prepar3D v5为例）
 
@@ -68,43 +68,43 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 
 ### Fonts
 字体选项卡用于选择管制列表与文本消息的字体
 ### Audio
-在这里，您可以选择您希望使用的麦克风设备，以及用作收听管制和其他飞行员的音频的设备。 如果设备尚未插入，您需要关闭` settings` 窗口，插入设备，然后重新打开` settings` 窗口
+在这里，您可以选择您希望使用的麦克风设备，以及用作收听管制和其他飞行员的音频的设备。 如果设备尚未插入，您需要关闭 `settings` 窗口，插入设备，然后重新打开 `settings` 窗口
 
 选择音频输出设备后，调整音量滑块，使音量处于自己听起来舒适的区域
 
 选择麦克风设备后，调整麦克风音量滑块，同时以正常声音讲话。 使音量大部分处于绿色区域。 这将有助于确保您可以被网络上的其他飞行员和管制员清楚地听到。这一操作很重要！！！请不要伤害管制员和其他机组的耳朵！！！
 
-如果您选中` Disable realistic ATC audio effects` 的框，则传入的声音将不会有 VHF 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，如果您很难理解 ATC 所说的内容，选中此框可能会对您有所帮助
+如果您选中 `Disable realistic ATC audio effects` 的框，则传入的声音将不会有 VHF 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，如果您很难理解 ATC 所说的内容，选中此框可能会对您有所帮助
 
-如果您选中` Disable HF background noise` 的框，则传入的声音将不会有 HF 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，如果您很难理解 ATC 所说的内容，选中此框可能会对您有所帮助
+如果您选中 `Disable HF background noise` 的框，则传入的声音将不会有 HF 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，如果您很难理解 ATC 所说的内容，选中此框可能会对您有所帮助
 ### Push-To-Talk (PTT)
-在此部分，您可以选择要用于 PTT 的键盘键或操纵杆/轭按钮。 只需按下标有` Set new PTT Key or Button` 的按钮，然后按下要用于 PTT 的键盘键或操纵杆/轭按钮。 vPilot 将检测击键或按钮按下并相应地更新` Current PTT Assignment` 
+在此部分，您可以选择要用于 PTT 的键盘键或操纵杆/轭按钮。 只需按下标有 `Set new PTT Key or Button` 的按钮，然后按下要用于 PTT 的键盘键或操纵杆/轭按钮。 vPilot 将检测击键或按钮按下并相应地更新 `Current PTT Assignment` 
 
 请注意，如果您设置键盘键用于 PTT ，并且您以管理员身份运行 FSX/P3D/MSFS，则还必须以管理员身份运行 vPilot 才能识别按键
 
-如果您不想在 VATSIM 上使用语音，请按` Clear Current PTT Assignment` 按钮
+如果您不想在 VATSIM 上使用语音，请按 `Clear Current PTT Assignment` 按钮
 ### The Model Matching Tabs
 有关模型匹配如何在 vPilot 中工作的更多信息，请参阅下面的模型匹配部分。 对于在您系统上每个受支持的模拟器，您将拥有一个选项卡
 #### The Model Matching - Advanced
-此部分允许您在模型匹配中排除模型（单独或作为整个文件夹）。 您还可以通过使用` Move Up` 和` Move Down` 按钮在此列表中重新排列文件夹来确定文件夹的优先级。 vPilot 将首先搜索列表中较高的文件夹用于显示您在 VATSIM 上飞行时遇到的飞机的模型
+此部分允许您在模型匹配中排除模型（单独或作为整个文件夹）。 您还可以通过使用 `Move Up` 和 `Move Down` 按钮在此列表中重新排列文件夹来确定文件夹的优先级。 vPilot 将首先搜索列表中较高的文件夹用于显示您在 VATSIM 上飞行时遇到的飞机的模型
 #### The Model Matching - Custom Rules
 在这里，您可以通过从计算机硬盘加载文件来添加自定义模型匹配规则。 如果您创建了自己的文件，或者您从其他用户那里收到了文件，或者从您的 VA 网站下载了该文件，您可能会这样做。 自定义规则文件可以重新排序，以设置它们用于模型匹配的优先级。 当 vPilot 自动扫描您已安装的模型时，自定义规则始终优先于找到的模型
 ### Performance
 在这里，您可以限制 vPilot 显示在您模拟器里的飞机数量。 如果您在拥挤的区域发现帧率下降，你可以降低这些数字
 ### Updates
-如果勾选` Check for vPilot updates` 的选框， vPilot 将会在启用时自动版本检查。 有关更新的详细信息，请参阅下载更新部分。 此选项应保持启用状态，以确保您知道何时发布新版本的 vPilot 。注：由于 Velocity 的实施，请确保您的 vPilot 版本为 v3.x ，否则将无法连线
+如果勾选 `Check for vPilot updates` 的选框， vPilot 将会在启用时自动版本检查。 有关更新的详细信息，请参阅下载更新部分。 此选项应保持启用状态，以确保您知道何时发布新版本的 vPilot 。注：由于 Velocity 的实施，请确保您的 vPilot 版本为 v3.x ，否则将无法连线
 
-此选项卡还允许您选择从` Stable` 还是` Beta` 更新下载。 大多数用户因选择` Stable` 。 如果您想获得最新可用的 vPilot 版本，您可以将此设置更改为` Beta` ，但 vPilot 的 Beta 版本尚未经过彻底测试，可能存在BUG
+此选项卡还允许您选择从 `Stable` 还是 `Beta` 更新下载。 大多数用户因选择 `Stable` 。 如果您想获得最新可用的 vPilot 版本，您可以将此设置更改为 `Beta` ，但 vPilot 的 Beta 版本尚未经过彻底测试，可能存在BUG
 ### Miscellaneous
 在这里，您可以选择让 vPilot 在您的飞机离地时自动将应答机 C 模式。 如果您的飞机集成有 SquawkBox 转发器，则应不选中此复选框，因为 vPilot 将能够直接从飞机面板读取应答机模式
 
-勾选` Keep window visible` 可以将您的 vPilot 主窗口置顶。 请注意，如果 FSX 在全屏模式下运行，这将不起作用
+勾选 `Keep window visible` 可以将您的 vPilot 主窗口置顶。 请注意，如果 FSX 在全屏模式下运行，这将不起作用
 
 ## 连接到 VATSIM
 
-要连接到 VATSIM ，请单击` Connect` 按钮。 您将看到` Connect` 窗口。 输入您的呼号和机型。 SELCAL 代码是可选的
+要连接到 VATSIM ，请单击 `Connect` 按钮。 您将看到 `Connect` 窗口。 输入您的呼号和机型。 SELCAL 代码是可选的
 
-当您准备好接入 VATSIM 时，按下` Connect` 按钮。 如果连接成功，您将在主消息区域看到一条消息，` Connect` 按钮此时将呈绿色亮起，并显示为` Disconnect` 。 如果您所在位置范围内有管制员在线，它们将出现在管制员列表中，您可以调整频率以便与管制员通信
+当您准备好接入 VATSIM 时，按下 `Connect` 按钮。 如果连接成功，您将在主消息区域看到一条消息， `Connect` 按钮此时将呈绿色亮起，并显示为 `Disconnect` 。 如果您所在位置范围内有管制员在线，它们将出现在管制员列表中，您可以调整频率以便与管制员通信
 
 有关使用共享驾驶舱/ shared cockpit mode（observer）模式的详细信息，请参见下文
 
@@ -113,11 +113,11 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 
 在 VATSIM 上飞行时，您需要将应答机在 Standby 模式和 C 模式之间切换。 C 模式在您进入开放跑道和空中时使用，开启 C 模式后管制员将能够在其范围内查看您的高度。如果由于机场运行要求，飞行器在地面移动时需要将应答机 C 模式，将在对应管制员的ATC info或通波中标注
 
 您可以通过三种方式使用 vPilot 设置转发器模式
-- 如果飞行器集成了 SquawkBox 应答器，则当您在 sim 中的飞机面板切换模式时，vPilot 将检测应答器模式的变化。也是就，当 sim 应答机处于 C 模式时，您会看到 vPilot 主窗口上的` mode C` 按钮绿色亮起
-- 如果飞行器不支持 SquawkBox 集成，那么您需要手动在 vPilot 管理应答器模式，只需单击 vPilot 主窗口上的` mode C` 按钮即可。` mode C` 按钮绿色表示应答机已经处于 C 模式，否则则处于 Standby 模式
-- 最后一种方法是使用 sim 中的菜单 Add-ons 。当 vPilot 运行时，此菜单中会出现` Squawk Mode C``  Squawk Standby` 选项
+- 如果飞行器集成了 SquawkBox 应答器，则当您在 sim 中的飞机面板切换模式时，vPilot 将检测应答器模式的变化。也是就，当 sim 应答机处于 C 模式时，您会看到 vPilot 主窗口上的 `mode C` 按钮绿色亮起
+- 如果飞行器不支持 SquawkBox 集成，那么您需要手动在 vPilot 管理应答器模式，只需单击 vPilot 主窗口上的 `mode C` 按钮即可。 `mode C` 按钮绿色表示应答机已经处于 C 模式，否则则处于 Standby 模式
+- 最后一种方法是使用 sim 中的菜单 Add-ons 。当 vPilot 运行时，此菜单中会出现 `Squawk Mode C`  `Squawk Standby` 选项
 
-这三个选项也适用于 squawk ident。当您第一次联系某个频率时，管制员可能会要求您 应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求 应答机识别，您可以按飞机面板上的 ident 按钮（如果飞机具有 SquawkBox 转发器集成），或者点击 vPilot 主窗口上的 Ident 按钮，或者您可以单机 sim 菜单栏 Add-ons 中的` Squawk Ident` 。当 vPilot 将 ident 信号发送到网络时，vPilot 主窗口上的 Ident 按钮将亮起绿色
+这三个选项也适用于 squawk ident。当您第一次联系某个频率时，管制员可能会要求您 应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求 应答机识别，您可以按飞机面板上的 ident 按钮（如果飞机具有 SquawkBox 转发器集成），或者点击 vPilot 主窗口上的 Ident 按钮，或者您可以单机 sim 菜单栏 Add-ons 中的 `Squawk Ident` 。当 vPilot 将 ident 信号发送到网络时，vPilot 主窗口上的 Ident 按钮将亮起绿色
 
 ## 与管制员沟通
 
@@ -139,7 +139,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 
 
 ## SELCAL
 
-如果您在接入 VATSIM 时输入了 SELCAL 代码，那么管制员可以使用该代码向您的飞机发送 SELCAL 提示音。 SELCAL主要使用在嘈杂的 HF 频率。 飞行员通常会调低音量，这样他就不会受到 HF 噪音的干扰，当管制员需要通过 HF 与他交流时，管制员会发送 SELCAL 提示音以引起他的注意。 VATSIM 不开设 HF 频率，但出于现实目的，会通过VHF模拟HF频率且海洋管制员仍将模拟 SELCAL 过程
+如果您在接入 VATSIM 时输入了 SELCAL 代码，那么管制员可以使用该代码向您的飞机发送 SELCAL 提示音。 SELCAL主要使用在嘈杂的 HF 频率。 飞行员通常会调低音量，这样他就不会受到 HF 噪音的干扰，当管制员需要通过 HF 与他交流时，管制员会发送 SELCAL 提示音以引起他的注意。 VATSIM 不开设 HF 频率，但出于现实目的，通过VHF模拟HF频率且海洋管制员仍将模拟 SELCAL 过程
 
 如果您收到管制员发送的 SELCAL 消息，vPilot 将发出提示音并在主消息区域显示一条消息
 
@@ -148,3 +148,6 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 
 VATSIM 上的每个管制员都有管制员信息，同时部分管制员在线的机场会有 ATIS。 要查看此信息，可以双击管制员列表中的管制员。 该信息将在主消息区域中以绿色文字显示
 
 您还可以使用 .atis 命令请求管制员信息
+
+
+
