@@ -54,13 +54,13 @@ X-Plane 11 目录
 
 xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Plane呈现在模拟器中其他飞机的飞机模型。 如果没有安装这些模型，xPilot将无法在模拟器渲染其他VATSIM用户。
 
-首次启动xPilot时，xPilot将提示您安装CSL模型。 建议您单击 **Yes** 以自动安装和配置Bluebell CSL模型。 如果您选择否，则需要手动安装模型。
+首次启动xPilot时，xPilot将提示您安装CSL模型。 建议您单击 `Yes` 以自动安装和配置Bluebell CSL模型。 如果您选择否，则需要手动安装模型。
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/DownloadModels.png)
 
 下载约为560 MB，进度栏将显示下载进度。
 
-在下载开始之前，您必须使用VATSIM网络对自己进行身份验证。 单击 **Get Token** 按钮以生成一次性下载令牌。 您的浏览器将跳转至网页。
+在下载开始之前，您必须使用VATSIM网络对自己进行身份验证。 单击 `Get Token` 按钮以生成一次性下载令牌。 您的浏览器将跳转至网页。
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/ModelDownloadGetToken.png)
 
@@ -82,9 +82,17 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 
 
-选择X-Plane路径并单击 **OK** 后，模型开始安装。 这会需要几分钟。 过程完成后，模型安装窗口会自动关闭，并在主窗口中显示一条消息，告诉您CSL飞机模型软件包已成功安装。 **您需要重新启动xPilot和X-plane**。
+选择X-Plane路径并单击 `OK` 后，模型开始安装。 这会需要几分钟。 过程完成后，模型安装窗口会自动关闭，并在主窗口中显示一条消息，告诉您CSL飞机模型软件包已成功安装。 **您需要重新启动xPilot和X-plane**。
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/ModelsInstalling.png)
+
+
+
+## 启动xPilot
+
+请您务必~~务必务必~~使用管理员身份运行xPilot
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20ADM.png)
 
 
 
@@ -106,7 +114,7 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 ### 登录设置
 
-要配置xPilot客户端，请单击 **SETTINGS** 。 您将看到如下界面。
+要配置xPilot客户端，请单击 `SETTINGS` 。 您将看到如下界面。
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20Settings.png)
 
@@ -119,12 +127,10 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 | `Your Name`       | 填写您的姓名           |
 | `Home Airport`    | 填写您的主基地（选填） |
 | `VATSIM Server `  | 选择合适的VATSIM服务器 |
-
-如果启用**Automatically set transponder to Mode C on takeoff**，则您的飞机的应答机将在起飞后自动更改为Mode C
+| `Keep xPilot window visible  `  | xPilot客户端窗口始终置顶 |
+| `Automatically set transponder to Mode C on takeoff  `  | 应答机在起飞后自动Mode C |
 
 右侧的第2-7个选项供您选择哪些事件会导致提示音通知。
-
-Keep xPilot window visible       xPilot客户端窗口始终置顶
 
 如果xPilot不是当前活动窗口，任务栏中的xPilot图标也会闪烁以引起您的注意。
 
@@ -154,15 +160,15 @@ Microphone Device下的颜色条 请确保您的音量在**绿色**范围内 蓝
 
 ### 连接到VATSIM网络
 
-要连接到Vatsim，请单击xPlot上方的 **CONNECT** 按钮。 您将看到连接窗口。 需要填写呼号和飞机ICAO代码。 SELCAL代码为选填项。
+要连接到Vatsim，请单击xPlot上方的 `CONNECT` 按钮。 您将看到连接窗口。 需要填写呼号和飞机ICAO代码。 SELCAL代码为选填项。
 
 Type Code是您正在飞行的飞机的3至4个字符ICAO代码。 这将使其他Vatsim用户可以在其模拟器中看到您作为正确的飞机类型。 xPilot会根据您在Type Code中键入的内容建议代码。 您可以通过ICAO代码，飞机模型或制造商进行搜索，xPilot将为您提供供您选择的结果列表。
 
 如果填写了无效的飞机ICAO代码，xPilot将发出警告消息，提示您确认您的选择。 您可以继续使用未知ICAO代码连接。但是，其他用户可能无法在模拟器中看到您的飞机。
 
-准备好连接到网络时按连接按钮。 如果连接成功，您将在主留言区域中看到一条消息，连接按钮将浅蓝色，按钮将更改为**Disconnect**。 您位置范围内的管制将出现在客户端左侧的**Nearby ATC**列表中。
+准备好连接到网络时按连接按钮。 如果连接成功，您将在主留言区域中看到一条消息，连接按钮将浅蓝色，按钮将变更为`Disconnect`。 您位置范围内的管制将出现在客户端左侧的**Nearby ATC**列表中。
 
-成功连接后，您的呼号将显示在**Settings**按钮的右侧。
+成功连接后，您的呼号将显示在`Settings`按钮的右侧。
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20main%20connected.png)
 
@@ -200,7 +206,7 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 
 ### 提交飞行计划
 
-您必须使用My Vatsim飞行计划服务网站提交飞行计划。 如果您单击客户端中的**Flight Plan**按钮，则默认网络浏览器将打开到My Vatsim网站
+您必须使用My Vatsim飞行计划服务网站提交飞行计划。 如果您单击客户端中的`Flight Plan`按钮，则默认网络浏览器将打开到My Vatsim网站
 
 [飞行计划规范](https://forum.vatprc.net/topic/2888-vatsim%E6%96%B0%E7%89%88%E9%A3%9E%E8%A1%8C%E8%AE%A1%E5%88%92%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%8D%97/)
 
@@ -212,9 +218,9 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 
 要回复私聊信息，请在聊天选项卡底部的命令行中输入您的消息，然后按Enter。您的传出消息将以青色颜色出现在消息区域中。传入消息将以白色出现。
 
-您可以通过在管制员列表中的管制员上右键单击，然后从菜单中选择**Open Private Chat**。这将创建一个新选项卡。您可以输入消息，然后按Enter发送它。
+您可以通过在管制员列表中的管制员上右键单击，然后从菜单中选择`Open Private Chat`。这将创建一个新选项卡。您可以输入消息，然后按Enter发送它。
 
-您还可以使用.chat 命令来启动私聊信息会话。有关详细信息，请参阅点命令的部分。
+您还可以使用 .chat 命令来启动私聊信息会话。有关详细信息，请参阅点命令的部分。
 
 
 
@@ -239,7 +245,7 @@ xPilot支持以下点命令，可以在任何选项卡中的消息历史记录�
 
 ### 断开与VATSIM网络的连接
 
-当您准备断开与Vatsim的连接时，单击xPilot客户端上的**DISCONNECT**按钮。 
+当您准备断开与Vatsim的连接时，单击xPilot客户端上的`DISCONNECT`按钮。 
 
 如果关闭模拟器，xPilot将自动断开从网络的连接。 如果在模拟器中切换机场或加载不同的飞机，您也将被断开连接。
 
@@ -311,7 +317,7 @@ X-Plane Settings Joystick.png
 
 X-Plane Settings Joystick PTT.png
 
-然后单击**Apply** 
+然后单击`Apply`
 
 操纵杆PTT绑定就完成啦
 
@@ -319,7 +325,7 @@ X-Plane Settings Joystick PTT.png
 
 #### 绑定键盘按钮
 
-在X-Plane设置中打开Ketboard菜单。 在搜索栏中属于”xPilot“并在搜索结果中查找xPilot：Radio Push-to-Talk（PTT） 单击 **+** 按钮，然后按键盘键。设置键盘键后，单击**Done** 
+在X-Plane设置中打开Ketboard菜单。 在搜索栏中属于”xPilot“并在搜索结果中查找xPilot：Radio Push-to-Talk（PTT） 单击 **+** 按钮，然后按键盘键。设置键盘键后，单击`Done` 
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/X-Plane%20Settings%20Keyboard%20PTT.png)
 
