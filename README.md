@@ -44,18 +44,18 @@
 4. 选择 Commit directly to the `*****` branch.
 5. 提交
 
-### Pull Request 处理流程
+## Pull Request 处理流程
 审核人员会定期处理现有的 Pull Request，提出改进意见或通过 Pull Request 将分支合并进入主分支。任何编写人员都可以在 Pull Request 下留言并且进行讨论。
 
-#### 如果你的 Pull Request 被要求修改：
+### Pull Request 被要求修改
 1. **不需要**关闭 Pull Request 重新开，可直接在该分支里直接修改文件并提交即可，新的提交会自动同步进 Pull Request 中
 2. 修改完成后，建议留言等待下一次审核
 
-#### 如果你的 Pull Request 获得通过：
+### Pull Request 获得通过
 1. 通常分支会随着 Pull Request 通过而被删除
 2. 如果需要再次修改，请按照 **第一次新增/修改话题** 中的步骤开启新的 Pull Request。
 
-#### 下列情况可关闭 Pull Request：
+### 下列情况可关闭 Pull Request
 1. 完全放弃该分支，不再进行进一步修改
 2. 打算放弃该次修改，完全重新开始进行修改，在此情况下，可关闭 Pull Request 后按照  **第一次新增/修改话题** 中的步骤开启新 Pull Request
 
