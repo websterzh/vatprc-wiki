@@ -216,7 +216,7 @@ xPilot支持以下点命令，可以在任何选项卡中的消息历史记录�
 | `.x <Squawk-Code>`  | 将您的应答器设置为指定的应答机代码。 你也可以使用 `.xpdr`, `.xpndr`  `.squawk` |
 | `.com1 <Frequency>` | 将COM1无线电设置为指定的频率。                               |
 | `.com2 <Frequency>` | 将COM2无线电设置为指定的频率。.                              |
-| `.rx com# On|Off`   | 切换在指定的COM无线电上接收。 例如：`.rx com1 on`            |
+| `.rx com# On/Off`   | 切换在指定的COM无线电上接收。 例如：`.rx com1 on`            |
 | `.tx com#`          | 启用COM1或COM2无线电进行传输。 例如： `.tx com2`             |
 
 
