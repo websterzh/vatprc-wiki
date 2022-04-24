@@ -23,6 +23,9 @@
 
 由图中DUMAP-9ZA进场程序可知，起始进近点（IAF）为AA421。进一步找到01号的RNAV盲降仪表进近图，如图所示，DUMAP-9ZA可以接到RNAV ILS/DME z 01号进近上。因此，此时需要选择的过渡点（Trans/Transition）即为AA421。当你选择进近方式时，你的FMC/FMGC会提示你选择过渡点。
 
+![image](https://user-images.githubusercontent.com/40542435/164969046-77209dd4-b5c6-4a17-b62a-019895928d6b.png)
+
+
 以下为一些不同机型的举例。
 
 ![548CDDF8EECCE026532AEFD3949A1925](https://user-images.githubusercontent.com/40542435/164958898-b32185f4-efac-41db-9741-f5dfe669a86e.png)
