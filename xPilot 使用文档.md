@@ -146,7 +146,7 @@ Mic Volume                 输入音量设置
 
 COM1&COM2             输出音量设置
 
-Microphone Device下的颜色条 请确保您的声音在**绿色**范围内
+Microphone Device下的颜色条 请确保您的音量在**绿色**范围内 蓝色表示音量太小 红色表示音量太大
 
 
 
