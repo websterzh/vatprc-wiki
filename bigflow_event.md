@@ -89,3 +89,21 @@ CSN1354,Resume normal speed
 南方1354：無法執行指令，我們能接受馬赫速XX/表速XXX
 CSN1354:Unable,we can accept Mach 0.XX/XXXkt
 ```
+
+#### 2.通過特定點時間
++ 此類方式一般應用於程序管制機場，如果無法執行指令請告知管制員，並告知能夠達成的最快/最慢時間
+```
+神鹿629，證實通過澤當時間
+CBJ629,report Estimated time at DM.
+
+神鹿629，通過澤當時間1020分
+CBJ629, Cross DM at 1020Z.
+
+神鹿629，通過澤當時間在1020分以前/以後
+CBJ629,Cross DM before/after 1020z.
+
+神鹿629：無法執行指令，我們能最快/最慢1022分通過澤當
+CBJ629: Unable,the earliest/latest time we can cross DM at 1022Z
+```
+#### 3.雷達引導
++ 雷達引導包含航向引導以及直飛，如果不清楚直飛點的點名請向管制員證實
