@@ -4,8 +4,6 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
 本文档翻译自 [xPilot官方文档](https://beta.xpilot-project.org/#/?id=what-is-xpilot)
 
-[加入xPilot Discord](https://vats.im/xpilot-discord)
-
 本文内容仅供参考，随着时间推移可能会有部分内容落后于官方文档，请以最新的官方文档为准。
 
 ## 系统要求
@@ -18,9 +16,13 @@ Linux 64位
 
 X-Plane 11.50 或更高版本
 
+CSL模型。推荐[Bluebell OBJ8 CSL](https://forums.x-plane.org/index.php?/files/file/37041-bluebell-obj8-csl-packages/)。
+
+如果对X-Plane硬件要求有疑问，请查看X-Plane官方的[X-Plane 11系统要求](http://www.x-plane.com/kb/x-plane-11-system-requirements/)。
+
 ## 安装X-Pilot
 
-在安装或升级之前必须关闭X-Plane和xPilot
+**在安装或升级之前必须关闭X-Plane和xPilot**
 
 以Windows 11为例 （MacOS和Linux的安装过程基本相同）
 
@@ -32,8 +34,6 @@ xPilot客户端安装目录
 选择一个文件夹以安装xPilot客户端.
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/InstallDirectory.png)
-
-
 
 
 
@@ -88,19 +88,19 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 
 
-## 启动xPilot
-
-请您务必~~务必务必~~使用管理员身份运行xPilot
-
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20ADM.png)
-
-
-
 ### 安装其他CSL
 
 您可以下载并安装更多CSL包。 要启用CSL包，您将需要指定路径到X-Plane（Plugins > xPilot > Settings）中xPilot设置中安装模型的位置。 添加新文件夹路径后，您必须重新启动X-Plane。
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/XplaneCSLConfiguration.png)
+
+
+
+### 启动xPilot
+
+请您务必~~务必务必~~使用管理员身份运行xPilot
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20ADM.png)
 
 
 
@@ -178,13 +178,24 @@ Type Code是您正在飞行的飞机的3至4个字符ICAO代码。 这将使其�
 
 
 
+### 设置应答机
+
+在 VATSIM 上飞行时，您需要将应答机在 Standby Mode和 Mode C 之间切换。Mode C 在您进入开放跑道和空中时使用，开启 Mode C 后管制员将能够在其范围内查看您的高度。如果由于机场运行要求，飞行器在地面移动时需要将应答机Mode C ，将在对应管制员的ATC info或通波中标注
+
+- 当您在模拟器中的飞机面板切换模式时，xPilot 将检测应答器模式的变化。也是就，当模拟器中应答机处于 Mode C 时，您会看到 xPilot 主窗口上的 `mode C` 按钮绿色亮起
+- 如果没有同步应答机模式，那么您需要手动在 xPilot 管理应答器模式，只需单击 xPilot 主窗口上的 `mode C` 按钮即可。 `mode C` 按钮绿色表示应答机已经处于 Mode C  再点~~亿~~ 一次则回到Standby Mode
+
+这三个选项也适用于 squawk ident。当您第一次联系某个频率时，管制员可能会要求您 应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求 应答机识别，您可以按飞机面板上的 ident 按钮（如果飞机具有 SquawkBox 转发器集成），或者点击 vPilot 主窗口上的 Ident 按钮，或者您可以单机 sim 菜单栏 Add-ons 中的 `Squawk Ident` 。当 vPilot 将 ident 信号发送到网络时，vPilot 主窗口上的 `Ident` 按钮将亮起绿色
+
+
+
 ### 由于低帧速率而断开连接
 
 VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这样做的原因是为了防止一种被称为"time dilation"的现象，即X-Plane的模拟速度低于实时速度，这会导致飞机在雷达上的飞行速度低于其地面速度报告的速度。X-Plane执行严格的最低20 FPS，以确保模拟速率实时运行。你可以在[这里](https://www.x-plane.com/kb/the-simulators-measurement-of-time-is-slow/)阅读更多信息
 
 
 
-### 与管制员通信
+### 与空中交通管制通信
 
 当您连接到Vatsim时，范围内的所有管制员都将显示在xPilot客户端窗口左侧的管制员列表中，列表按设施类型分组。列表中的每个条目都将具有控制器的呼号和频率。如果您悬停在呼号上，则会出现一个弹出标签，显示控制器的名称。
 
@@ -204,9 +215,16 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 
 
 
+### 请求空中交通管制信息
+
+VATSIM上的每个管制员都维护其管制席信息（或文本ATIS）。要请求此信息，请双击管制员列表中的管制。管制员信息将出现在主信息区。
+您还可以使用请求控制器信息`.atis <Callsign>`点命令。有关详细信息，请参阅点命令一节。
+
+
+
 ### 提交飞行计划
 
-您必须使用My Vatsim飞行计划服务网站提交飞行计划。 如果您单击客户端中的`Flight Plan`按钮，则默认网络浏览器将打开到My Vatsim网站
+您必须使用My Vatsim飞行计划服务网站提交飞行计划。 如果您单击客户端中的`Flight Plan`按钮，则默认网络浏览器将打开到My Vatsim网站。
 
 [飞行计划规范](https://forum.vatprc.net/topic/2888-vatsim%E6%96%B0%E7%89%88%E9%A3%9E%E8%A1%8C%E8%AE%A1%E5%88%92%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%8D%97/)
 
@@ -259,15 +277,27 @@ xPilot支持在obs模式下连接，因此您的飞机不会出现在Vatsim网�
 
 
 
+### 更新xPilot
+
+每次启动xPilot时，它都会检查是否有新版本可用。如果有新版本可用，系统将提示您下载并安装。
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/NewVersionAvailable.png)
+
+
+
+如果单击`No`，下次打开xPilot时将再次出现提示。
+单击`Yes`将开始下载过程。下载完成后，xPilot将关闭，安装程序将打开。
+**安装更新之前必须关闭X-Plane，否则无法正确更新xPilot插件。</u>**
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/NewVersionDownloading.png)
+
+
+
 ## X-Plane内的xPilot
 
 可以通过X-Plane内菜单Plugins > xPilot > Settings设置
 
 所有xPilot插件设置都将保存到X-Plane 11/Resources/plugins/xPilot/Resources文件夹中名为Config.json的文件
-
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xpilot%20set%20in%20xp.png)
-
-xPilot set in xp.png
 
 
 |                |                                                  |
@@ -338,6 +368,22 @@ xPilot没有需要安装或配置的复杂或特殊模型匹配规则。 在使x
 如果看到此错误，请确保安装了CSL包（例如Bluebell CSL），并且该路径在xPilot插件设置中正确配置。 进行更改后，重新启动xPilot和X-Plane。
 
 每当您更改CSL配置时，都必须重新启动X-Plane才能生效。
+
+
+
+### 短信控制台
+
+除了使用xPilot客户端界面发送或接收文本消息或私聊信息外，还可以使用X-Plane中的文本消息控制台。您可以通过`Plugins > xPilot > Text Message Console`台打开文本消息控制台
+
+私聊信息将出现在文本消息控制台窗口的单独选项卡中。要关闭选项卡，请单击蓝色的“X”。要开始新的私聊信息，请键入命令`.chat <callsign>`（CALLSIGN是您要向其发送消息的用户的呼号）并按enter键。将打开一个新选项卡，标题为您指定的呼号。在选项卡底部的消息合成区域中键入消息，然后按键盘上的enter键发送消息。
+
+
+
+### 附近的空中交通管制
+
+附近的ATC窗口按设施类型显示在范围内的控制器；该列表包括呼号、频率和管制员姓名。有两个可用的操作按钮。第一个按钮将请求管制席位信息（管制员ATIS），第二个按钮将把COM1无线电频率调到该管制席的频率。
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/nearby_atc.png)
 
 
 
