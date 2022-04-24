@@ -128,6 +128,26 @@ DKH1245: Comfirm Direct to which waypoint?
 
 吉祥1245：證實大王莊/ELKUR怎麼拼
 DKH1245: Comfirm How to spell VYK/ELKUR?
+```
 
+#### 4.等待與盤旋
++ 等待分成航圖上的表準等待以及管制員指定的等待兩種，盤旋則為機組依照管制指令向左/右繞圈
+```
+东方519，在庵东进行标准等待，保持高度4500米。
+CES519, hold at AND as published, maintain 4500 meters.
 
+东方519，在EKIMU等待，左方向，入航航向320，出航段1分半钟，高度3900米。
+CES519, hold at EKIMU, left pattern, inbound course 320, one and half minute legs, maintain 3900 meters.
+
+東方519，直飛庵东加入標準等待
+CES519,Direct AND,hold at AND as published.
+
+東方519，退出等待，直飛SASAN，恢復計畫航路
+CES519,Exit hold,Direct SASAN join plan route.
+
+東方519，退出等待，右轉航向160
+CES519,Exit hold,right turn heading 160
+
+東方519，當前位置右/左轉盤旋
+CES519, make a left/right orbit at present location.
 ```
