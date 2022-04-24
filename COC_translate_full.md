@@ -104,33 +104,61 @@ A14 - 语音是VATSIM首选的通讯方式，但仅使用文字进行通讯的�
 
 >A15 - While connected to VATSIM, and when requested to do so, members shall respond to messages from, and comply with all instructions issued by VATSIM Administrators and/or VATSIM Supervisors.  
 
+A15 - 会员在VATSIM进行连线期间，应在被要求时联系并遵守VATSIM行政人员和/或监察员所发出的指令。
+
 >A16 - Members shall not carry out private conversations over any communication channels, frequencies, or resources, with the exception of private messages, while connected to the VATSIM Network. The guard VHF radio frequency (121.500) shall not be used.  
+
+A16 - 会员在VATSIM连线期间，不得使用任何除私聊以外的公开通讯频道、频率、资源进行私人聊天。会员不可以使用航空应急频率(121.500MHz)。
 
 >A17 - The re-creation of, or organization of events recognizing real world disasters, tragedies, or other such events, particularly those which resulted in loss of life, are not permitted. In addition callsigns that VATSIM has deemed prohibited shall not be used at any time. (View Restricted Callsigns)  
 
+A17 - 会员不得重现或组织任何有关真实世界中发生过的灾难、悲剧、或其他类似事件--尤其是那些最终导致了人员伤亡事件的飞行活动。此外，也禁止使用被VATSIM限制的呼号。(此处查看被限制呼号的列表) 
+
 >A18 - VATSIM welcomes members who wish to stream, record, or otherwise distribute their session for public viewing.   
+
+A18 - VATSIM欢迎会员对其连线过程进行公开的直播、录制或以其他方式进行传播。
 
 >(a) The online network conduct of the member during the stream/recording remains subject to this Code of Conduct.   
 
+(a) 会员在直播/录制其连线过程中全程受到本行为守则的管辖。
+
 >(b) If the member provides a link to their stream/recording either in their flight plan, or via other VATSIM operated medium, the entire stream/recorded session including informal mediums such as a stream chat are subject to this Code of Conduct.  
+
+(b) 如果会员在其飞行计划中，或其他VATSIM运行的媒体上发布了其连线过程的直播/录像的链接，则该直播/录像的整体以及其非正式媒介（包括聊天、弹幕、评论等）都受到本行为规范的管辖。
 
 >(c) Members connected to the network who deliberately disrupt the stream/recording of another member are subject to immediate suspension from the network.  
 
+(c) 连接到VATSIM网络时，故意扰乱其他会员直播/录像的会员将会被立刻中止连线。
+
 >(d) VATSIM does not have the ability for its members to opt-out of being part of another members stream/recording.  
+
+(d) VATSIM没有能力让其会员从另一名会员的直播/录像中选择性的退出。
 
 
 
 >## B. Pilot's Conduct  
 
+## B. 飞行员准则
+
 >B1 - A pilot shall not connect to the VATSIM Network on a runway or taxiway. If a pilot chooses to connect while airborne, a pilot shall ensure doing so does not cause disruption to other members.  
+
+B1 - 飞行员不得在跑道或滑行道开始其连线。如果飞行员选择在空中开始其连线，该飞行员应当确保这样做不会干扰到其他会员。
 
 >B2 - A pilot shall not pause while connected to the VATSIM Network except when operating under air traffic control, with the express permission of the controller. If the controller revokes the permission for any reason, the pilot shall unpause immediately  
 
+B2 - 除管制员明确同意以外，飞行员不得在连线过程中将其模拟器暂停。当管制员要求时，飞行员应当无条件终止其模拟器的暂停状态。
+
 >B3(a) - Pilots shall monitor their flights at all times. It is the responsibility of the pilot to check for, and make timely contact with appropriate air traffic controllers. This includes making prompt contact when requested to do so.  
+
+B3(a) - 飞行员应当时刻监控其飞行。飞行员的责任包括：查看并及时联系有关的空中交通管制员，以及在被要求时及时联系相关的管制员。
 
 >B3(b) - If it becomes necessary to leave a pilot connection unattended, the member is encouraged to disconnect from the network. Notwithstanding anything in this Code to the contrary, no pilot connection is permitted to be unattended for a period of longer than 30 minutes.  
 
+B3(b) - 当飞行员在飞行中遇到必须要离开电脑前的情况，我们鼓励飞行员断开与VATSIM的连接。即便本守则有与之相悖的规定，无人看管的飞行员连接最多不可以超过30分钟。
+
 >B4 - A pilot shall not squawk standby while their aircraft is in motion except when requested by air traffic control. Simulation of aircraft without a transponder is permitted with air traffic control approval.  
+
+B4 - 除被管制员要求外，飞行员
 
 >B5 - Pilots flying through uncontrolled airspace shall monitor VHF radio frequency 122.800 or other designated "UNICOM" frequency until they come under air traffic control coverage. Where another pilot may benefit, a pilot shall transmit their intentions on the designated unicom frequency.  
 
