@@ -16,3 +16,17 @@ A.有預定航班系統，且有預定航班的情況
 
 B.有預定航班系統，但沒有預定航班的情況
 除了上面A.的情況下由於有沒預訂航班，所以離場時間取決於當下活動是否有空出的時間帶，等待時間可能從1小時到數小時不等
+
+C.沒有航班預定系統，活動的機場都是地區主要機場
+對於這類活動可以再管制員上線後就開始申請放行，切勿等到活動開始才要放行，越早要到放行並且推開，所遇到的流控機率會大幅下降
+一般來說，主要機場的流控在2~3分鐘一架，當流控開始時管制員可能會發以下指令
+```
+所有機組注意，由於流控放行暫停十分鐘
+All station,Standby fot clearance for 10 minute,Due to flow control.
+
+國航718，推開梢等，由於流控(預計XX分推開)
+CCA718,Standby fot push,Due to flow control,(expect XX min laater for push/expect XXXXZ for push).
+
+國航718，由於流控，預計離場時間XX分
+CCA718,Due to flow control expect departure time XXXXZ.
+```
