@@ -344,4 +344,4 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 > *“国航4115，减速最小，前机5海里，目视前机报告。”*
 
-> *"Air China 4115, reduce speed minium, traffic 5miles ahead of you, report in sight."*
+> *"Air China 4115, reduce speed minium, traffic 5miles ahead of you, report in sight."* 
