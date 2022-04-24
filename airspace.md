@@ -256,6 +256,70 @@ ATC:*"Air China 4115 contact Shanghai Approach on 120.3, goodday."*
   
 + 雷达引导。部分情况下管制员会使用雷达引导进行间隔排序。在机组收到指令后，请尽快执行。
 
-  *“东方519， 左转航向280， 由于间隔。”*
+  *“东方519，左转航向280，由于间隔。”*
   
-  *"China Eastern 519, turn left heading 280 for spacing."*
+  *"China Eastern 519, turn left heading 280，radar vector for spacing."*
+  
+#### 下高和进近前准备
+  在航空器计算的TD点前80海里左右，机组应当开始准备下高和进近。下面列出了机组应当做的准备工作：
+  + 收听目的地机场的通波，记录下主要信息（如果有）
+  + 在机载计算机中预设进场程序和落地跑道。尽量不要在转频之后再进行设置，容易手忙脚乱
+  + 完成驾驶舱下高检查单
+  + 阅读目的地机场可能用到的航图，对进近过程和落地滑行过程有一个大致的了解
+
+管制员一般会在TD前几十海里就会发布下高指令，请务必注意守听。
+
+*“国航4115， 下到标压8400米保持。”*
+
+*"Air China 4115, descend and maintain 8400m on standard."*
+
+在某些时候，为了更好的掌握机组的下高情况，管制员会给出以下的限制性指令：
+
+*“国航4115， 在AVBOX前下到5400米。”*
+
+*"Air China 4115, descend and maintain 5400m before AVBOX."*
+
+这种时候机组有两种方法执行该指令。第一种是手动调整VS窗口至合适的下降率，人工计算下降剖面。第二种是在CDU内写入航点高度限制，然后采用VNAV模式进行下高。
+
+在接近终端管制区空域时，管制员会将飞机移交给下一个管制席位。
+
+*“国航4115， 联系北京进近120.6， 再见。”*
+
+*"Air China 4115, contact Beijing Approach 120.6, goodday."*
+
+#### 进近（雷达管制空域）
+进近空域相对较小，流量较密集，频率也更繁忙，因此请确保能够仔细守听频率并及时回复管制员的指令。首次联系时，请采用以下格式进行通讯：
+
+机组：*“进近你好，国航4115，高度5400m，20海里到AVBOX，听你指挥，通波E收到。”*
+
+Crew:"*Approach, Air China 4115, maintain 5400m, 20 miles to AVBOX with you, informatin Echo copied."*
+
+这里需要注意的是，首次与进近管制员联系时需要报告当前高度、当前位置和接收到的通波编号。很多机组没有报告通波编号的习惯，虽然我们并不强制机组在首次联系进近时必须报告通波编号，但我们扔鼓励机组主动报告。
+
+管制：*“国航4115， 晚上好， 北京进近雷达看到， 使用AVBOX-9ZA进场，盲降进近跑道01，通波E，现在下到标准气压3900米保持。”*
+
+ATC:*"Air China 4115, good evening, Beijing Approach radar contact, follow AVBOX-9ZA arrival, ILS approach runway 01, information Echo is valid, now descend and maintain 3900m on standard."*
+
+很多机组都会在管制告知进场方式时卡壳，原因是进近管制员通常会给出一大串指令，有些新飞可能手忙脚乱，记不全所有的信息。因此我们建议在抄收进场程序前准备好纸和笔，同时准备好对应的航图。落地机场的跑道运行方式在抄收通波时就已确定，而中国大陆地区很多机场的进近程序都是有规律的，即一条跑道对应一个或两个程序。因此机组可以事先“猜”到即将使用的程序编号并进行预设，在正式抄收进场信息后再进行修改。
+
+当管制完成进场排序，准备好将机组引导至最终进近航道时，会给出以下几类指令：
+
+*“国航4115， 可以沿程序盲降进近跑道01，截获航道报。”*
+
+*"Air China 4115, clear ILS approach runway 01, report localizar established."*
+
+*“国航4115， 右转航向330，可以盲降进近跑道01，完全建立报。”*
+
+*"Air China 4115, turn right heading 330, clear ILS approach runway 01, report fully established."*
+
+当机组确认航向道建立或下滑道建立时，及时报告进近管制员：
+
+*“国航4115， 跑道01航道建立/盲降建立。”*
+
+*"Air China 4115, runway 01 localizar established/fully established."*
+
+进近管制员在确认机组执行了正确的进近后，将会把飞机移交给塔台管制员。
+
+*“国航4115，雷达服务终止，联系塔台118.1，再见。”*
+
+*"Air China 4115, radar service terminated, contact tower 118.1, goodday."*
