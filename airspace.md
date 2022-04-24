@@ -66,13 +66,17 @@ For Charts and more info please visit www.vatprc.net
 
 当首次进入放行频率时，我们强烈建议机组先不要急着发话，而是先守听频率十几秒，确认频率的繁忙程度。如果频率不忙，再进行放行的申请。如果频率非常繁忙，请耐心等待频率空闲下来再进行发话，切忌一找到空就急着申请放行，这会直接导致机组间互相冲麦，使频率变得十分混乱，极大的降低放行效率。
 
-在申请放行时，正确的表述为呼号+停机位+意图，例如：“放行你好，国航4115，停机位502，申请放行去北京。” "Delivery, Air China 4115 at 502, request clearance to Beijing."
+在申请放行时，正确的表述为呼号+停机位+意图，例如：
+
+*“放行你好，国航4115，停机位502，申请放行去北京。” *
+
+*"Delivery, Air China 4115 at 502, request clearance to Beijing."*
 
 根据放行排队的繁忙程度，管制员可能会给出“稍等放行”或“放行排队第XX个，稍等我叫你”等类似的指令，请耐心等待管制员呼叫。
 
 当管制员检查你的计划并确认无误后，将会在频率中给出语音放行或是进行PDC放行。语音放行的一段样例如下：
 
-*“国航4115，可以按计划航路放行北京，使用跑道17L，SASAN81D离场，起始上高修正海压1200m，修正海压1011，应答机6021，离场频率120.3”**“
+*“国航4115，可以按计划航路放行北京，使用跑道17L，SASAN81D离场，起始上高修正海压1200m，修正海压1011，应答机6021，离场频率120.3”*
 
 *“Air China 4115, Clear to Beijing as filed, departure runway 17L, SASAN81D departure, initial altitude 1200 meters, QNH1011, squawk 6021, departure frequency 120.3”*
 
@@ -94,11 +98,19 @@ ATIS A INITIAL ALT 1200M
 
 机组：*“国航4115，复诵PDC。”*
 
+Crew:*"Air China 4115, request readback PDC."*
+
 管制：*“请讲”*
+
+ATC:*"Go ahead."*
 
 机组：*“可以放行去北京，跑道17L，起始12.”*
 
+Crew:*"Air China 4115 is cleared to Beijing, runway 17L, initial 1200m."*
+
 管制：*“国航4115，复诵正确，联系下一个频率，再见。”*
+
+ATC:*"Air China 4115, readback is correct, contact next frequency, goodday"*
 
 如果机组对PDC中的放行信息有疑问，请立即通过语音联系放行管制员。
 
@@ -117,9 +129,15 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 机组：*“国航4115，机位502，申请推出开车。”*
 
+Crew:*"Air China 4115, gate 502, request pushback and start."*
+
 管制：*“国航4115，可以推出开车，头朝北，跑道17L”*
 
+ATC:*"Air China 4115, pushback and start up is approved, face north, runway 17L."*
+
 机组：*“可以推出开车，头朝北，跑道17L，国航4115.”*
+
+Crew:*"pushback and start up is approved, face north, runway 17L, Air China 4115"*
 
 有些时候，管制员不会给出推开的朝向，这意味着机组可以自行决定推开的方向，一般的参考方向是机头朝向起飞跑道位置。
 
@@ -127,9 +145,15 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 机组：*“国航4115，申请滑行”*
 
+Crew:*"Air China 4115, request taxi."*
+
 管制：*“国航4115，滑行沿L05,B,A2前等”*
 
+ATC:*"Air China 4115, taxi via L05, B, hold short of A2."*
+
 机组：*“滑行沿L05,B,A2前等，国航4115”*
+
+Crew:*"taxi via L05, B, hold short of A2, Air China 4115"*
 
 这里有几个需要注意的点：
 + 请务必确认你正确抄收了所有的滑行路线并能正确执行。在地面滑错是一件很尴尬的事情，可能导致主要滑行道的拥堵甚至瘫痪。
@@ -143,9 +167,15 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 *“国航4115，滑行沿B，A1，跑道外等。”*
 
+*“Air China 4115, taxi via B, A1, hold short of the runway.”*
+
 *“国航4115，滑行沿B，A1，进跑道17L等待。”*
 
+*“Air China 4115, taxi via B, A1, line up and wait runway 17L.”*
+
 *“国航4115，地面风170，3米秒，修正海压1011，跑道17L，可以起飞。”*
+
+*“Air China 4115, surface wind 170 degrees, 3 meters per second, qnh 1011, runway 17L, cleared for takeoff.”*
 
 大多数主要机场的细则规定，航空器从等待位置到对正跑道时间应控制在 60s 以内，如航空器驾驶员无法执行上述要求应当及时通知塔台管制员（湿跑道或污染跑道除外）。此规则在模拟飞行中同样适用。由于航空器间存在尾流间隔限制，且区域管制员可能会根据航路运行情况和目的地机场运行情况给出航路间隔限制，两架飞机放飞的间隔时间可能较长，请机组耐心等候。
 
@@ -153,7 +183,11 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 机组：*“国航4115，跑道17L离地了。”*
 
+Crew:*"Air China 4115 runway 17L airbourne."*
+
 管制：*“国航4115，联系上海进近120.3，再见。”*
+
+ATC:*"Air China 4115 contact Shanghai Approach on 120.3, goodday."*
 
 #### 离地爬升（终端区阶段）
 飞机离地后的爬升通常由进近管制员或兼管终端区的上级管制员负责。大多数机场的终端区实行雷达管制，即管制员会通过二次雷达实时监控飞机的状态并给出指令，间隔标准也按雷达间隔实行。在初次联系进近管制员时，请报告呼号、通过高度、目标高度和起飞跑道，如下：
