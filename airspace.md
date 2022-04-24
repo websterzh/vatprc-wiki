@@ -3,7 +3,7 @@
 ### 如何判断我是否在管制空域内？
 在非活动时段内，管制员可以根据自己的意愿登录任何其有权限的席位进行管制，也就是所说的“日常上线”。因此，判断自己是否位于管制空域内是十分重要的，这能够保证机组及时的接受到管制发布的指令或是提供的讯息，从而更合理高效的进行连线飞行。
 
-我们强烈建议机组在连线前先登录VATSIM在线地图，查看管制的在线情况，防止出现连线后未及时联系管制的情况。推荐的VATSIM在线地图软件有VATspy（https://vatspy.rosscarlson.dev/), VATprism(https://vatprism.org/), Simaware(https://simaware.ca/)等。 对于iOS用户，推荐VATscope这款app。以上的应用或网站均能显示当前VATSIM主服务器所有在线的飞机和管制信息，对于更好的进行连线飞行有很大的帮助。
+我们强烈建议机组在连线前先登录VATSIM在线地图，查看管制的在线情况，防止出现连线后未及时联系管制的情况。推荐的VATSIM在线地图软件有VATspy（https://vatspy.rosscarlson.dev/), VATprism(https://vatprism.org/), Simaware(https://simaware.ca/) 等。 对于iOS用户，推荐VATscope这款app。以上的应用或网站均能显示当前VATSIM主服务器所有在线的飞机和管制信息，对于更好的进行连线飞行有很大的帮助。
 
 ***请注意，当管制员向你发送了类似于"Please contact me on xxx.xx”的消息时，无论连飞地图上显示你是否在其空域内，都必须立即在对应的频率联系管制员。***
 ### 如何判断我该联系谁？
