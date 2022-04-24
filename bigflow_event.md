@@ -39,13 +39,13 @@
 + 当然诚如A.的内容，建议多带上60到90分钟的油量以应付各种流控、等待以及非预期延误情况。
 + 一般来说，主要机场的流控在2到3分钟一架，当流控开始时管制员可能会发以下指令：
 ```
-所有机组注意，由于流控放行暂停十分钟
+所有机组注意，由与流控放行暂停十分钟
 All stations,Standby for clearance for 10 minute,Due to flow control.
 
-国航718，推开梢等，由于流控(预计XX分推开)
+国航718，推开梢等，由与流控(预计XX分推开)
 CCA718,Standby fot push,Due to flow control,(expect XX min laater for push/expect XXXXZ for push).
 
-国航718，由于流控，预计离场时间XX分
+国航718，由与流控，预计离场时间XX分
 CCA718,Due to flow control expect departure time XXXXZ.
 ```
 
