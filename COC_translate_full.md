@@ -222,7 +222,7 @@ C2 - 管制员应当遵守地方性的规则以及程序。选择在其所属或
 
 >C3 - When logging onto the VATSIM Network as an observer, a member shall use a callsign which ends as follows: "_OBS". Prior to the underscore an individual shall use their initials or a locally accepted observer format. Other observer callsign formats designating an official network staff role are approved. An observer shall observe only and not communicate on any open text or voice frequency, or provide air traffic control services.  
 
-C3 - 会员以观察员身份连接到VATSIM网络时，所使用的呼号必须以'_OBS'结尾。下划线前应当使用会员注册名的英文首字母（如：张三应使用SZ_OBS或ZS_OBS）或当地所允许的其他名称。VATSIM允许官方工作人员使用可以表明他们工作人员身份的呼号以观察员的身份连接到网络。观察员在连线时不得以任何形式（文字或/和语音）在公共频道进行通讯或提供管制服务。
+C3 - 会员以观察员身份连接到VATSIM网络时，所使用的呼号必须以`_OBS`结尾。下划线前应当使用会员注册名的英文首字母（如：张三应使用SZ_OBS或ZS_OBS）或当地所允许的其他名称。VATSIM允许官方工作人员使用可以表明他们工作人员身份的呼号以观察员的身份连接到网络。观察员在连线时不得以任何形式（文字或/和语音）在公共频道进行通讯或提供管制服务。
 
 >C4 - VATSIM recognizes the following suffixes for air traffic control positions. A member shall only use the corresponding facility type when connecting.  
 
