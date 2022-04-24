@@ -32,7 +32,9 @@ will implement [RNAV] procedures.
 
 请注意，通波内的天气信息存在延迟且仅供参考，具体以当前最新的气象信息为准。通波内最重要的是机场运行信息，它告诉机组哪些跑道用于起飞，哪些用于落地，这能够帮助机组更好的进行规划。
 #### 查看管制员的ATC info
-很多管制员反映机组在首次联系时很少查看ATC info,造成了不必要的频率占用。事实上ATC info是很重要的信息，它告诉了机组联系该管制席位的一些注意事项。机组可以通过双击vPilot或xPilot左侧列表中的席位名称来获取该席位的ATC info。请注意，实际上线时，每个管制员的ATC info格式可能各不相同。如果发现有信息看不懂，请直接向管制员咨询。以下是一些较为典型的ATC info样例：
+很多管制员反映机组在首次联系时很少查看ATC info,造成了不必要的频率占用。事实上ATC info是很重要的信息，它告诉了机组联系该管制席位的一些注意事项。举一个最简单的例子，经常有机组把ZSSS_APP叫成虹桥进近，把ZGJD_APP叫成深圳进近。然而实际上这些席位的管制员在上线时都在其ATC info中明确的写出了他们的呼号该怎么念，但是很多机组并没有看ATC info的习惯。
+
+机组可以通过双击vPilot或xPilot左侧列表中的席位名称来获取该席位的ATC info。请注意，实际上线时，每个管制员的ATC info格式可能各不相同。如果发现有信息看不懂，请直接向管制员咨询。以下是一些较为典型的ATC info样例：
 ```
 "Shanghai Control" CN/EN | CPDLC ZSHA
 Real Radar Correlation, Squawk Mode C When Airbourne
