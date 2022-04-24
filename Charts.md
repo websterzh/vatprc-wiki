@@ -7,4 +7,13 @@
 由维基的介绍我们可知，航图可以告诉我们怎么去到想去的地方，它可以告诉你如何从你的机位到跑道头，从跑道头到离场点，从某一个航点到某一个航点……显而易见，我们需要航图来辅助我们的飞行。
 ## 2.世界上的航图千千万，我该用哪种航图？
 目前主流的航图有Jeppesen、Lido两种。当然，每个国家也有发行各自的AIP。例如，中华人民共和国发行的AIP和nAIP，中国人民共和国香港特别行政区发行的Hongkong AIP等等。
+
 以下是广州白云国际机场的航图对比Jeppesen Lido China AIP&NAIP，大家可以先看看航图，想必此时你的内心对每款航图的差异及使用体验也有了大致的概念。
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP-GG7G-1920.jpg)
+广州白云01号RNAV离场 AIP航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/NAIP-GG3G-1920.jpg)
+广州白云01号RNAV离场 NAIP航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP-GG7G-1920.jpg)
+广州白云01号 龙门/英德方向RNAV离场 Jeppesen航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Lido%20GG01.jpg)
+广州白云02L/02R RNAV离场 Lido航图（图源自Pochun Yeung）
