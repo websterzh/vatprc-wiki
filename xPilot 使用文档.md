@@ -182,7 +182,7 @@ Type Code是您正在飞行的飞机的3至4个字符ICAO代码。 这将使其�
 
 ### 由于低帧速率而断开连接
 
-VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这样做的原因是为了防止一种被称为“时间变慢”的现象，即X-Plane的模拟速度低于实时速度，这会导致飞机在雷达上的飞行速度低于其地面速度报告的速度。X-Plane执行严格的最低20 FPS，以确保模拟速率实时运行。你可以在[这里](https://www.x-plane.com/kb/the-simulators-measurement-of-time-is-slow/)阅读更多信息
+VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这样做的原因是为了防止一种被称为"time dilation"的现象，即X-Plane的模拟速度低于实时速度，这会导致飞机在雷达上的飞行速度低于其地面速度报告的速度。X-Plane执行严格的最低20 FPS，以确保模拟速率实时运行。你可以在[这里](https://www.x-plane.com/kb/the-simulators-measurement-of-time-is-slow/)阅读更多信息
 
 
 
