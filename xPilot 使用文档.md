@@ -31,6 +31,7 @@ CSL模型。推荐[Bluebell OBJ8 CSL](https://forums.x-plane.org/index.php?/file
 
 
 xPilot客户端安装目录
+
 选择一个文件夹以安装xPilot客户端.
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/InstallDirectory.png)
@@ -38,6 +39,7 @@ xPilot客户端安装目录
 
 
 X-Plane 11 目录
+
 选择安装X-Plane 11的文件夹路径以安装xPilot插件。
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/XplanePath.png)
