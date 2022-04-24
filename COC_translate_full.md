@@ -24,23 +24,23 @@ A1 – 会员在任何时候都应互相礼让、互相尊重。
 
 >A2(a) - To use VATSIM, you must first register as a member of VATSIM. Only registered members in good standing may observe, fly as a pilot, and/or provide ATC as a controller.  
 
-A2(a) – VATSIM仅供VATSIM注册会员使用。只有信誉良好的注册会员才可以作为观察员、飞行员或管制员连线。  
+A2(a) – VATSIM仅供VATSIM注册会员使用。会员需要保持良好的行为记录才可以作为观察员、飞行员或管制员连线。  
 
 >A2(b) - Only registered members in good standing may connect to VATSIM or a VATSIM service, except as a guest where applicable.  
 
-A2(b) – 除在特定情况下以访客的身份外，只有信誉良好的注册会员才会被允许使用VATSIM连飞网络或VATSIM服务。  
+A2(b) – 会员需要注册并保持良好的行为记录才能使用VATSIM连飞网络或VATSIM服务，特定情况下作为访客除外。  
 
 >A3 - Without exception, a member may not permit or knowingly allow their VATSIM account to be used by anyone else.  
 
-A3 – VATSIM会员在任何情况下，都不能与其他人共享自己的账号。  
+A3 – VATSIM会员在任何情况下，都不能与其他人共享自己的账号。（不可以同意或默许其他人使用自己的账号）  
 
 >A4(a) - During the registration process with VATSIM, you must provide your real full name. Nicknames, callsigns or abbreviations are not permitted to be associated with a member’s registered account. VATSIM reserves the right, in its discretion, to require proof of real name and proof of age from a member.  
 
-A4(a) – 在注册成为VATSIM会员的过程中，必须使用真实的全名。会员的账号不可以使用昵称，呼号或姓名缩写。VATSIM保留其要求会员提供证明该会员姓名及年龄的文件的权力。  
+A4(a) – 在注册成为VATSIM会员的过程中，必须使用真实的全名。会员账号中的姓名不可以使用昵称，呼号或姓名缩写。VATSIM保留其要求会员提供证明该会员姓名及年龄的文件的权利。  
 
 >A4(b) - Members shall connect to VATSIM using only one of the following name conventions:   
 
-A4(b) – 会员在连接到VATSIM时需要使用下列名称组合之一：  
+A4(b) – 会员在连接到VATSIM连飞网络时需要使用下列名称组合之一：  
 
 >(1) Their real, FULL NAME (ie Joseph Smith), as registered.  
 
@@ -64,7 +64,7 @@ A4(b) – 会员在连接到VATSIM时需要使用下列名称组合之一：
 
 >A5 - During your time as a member of VATSIM, you must provide and maintain a valid e-mail address. This means that you must notify VATSIM of any changes to your e-mail address. Your e-mail address will not be shared outside the VATSIM organization without your express prior permission. Failure to maintain your e-mail address is grounds for immediate suspension of your VATSIM account, without notice.  
 
-A5 - 在您作为VATSIM的会员期间，您必须提供一个有效的电子邮件地址，并且需要在您电子邮件地址发生变更时告知VATSIM。未经您事先许可，VATSIM不会与任何第三方组织分享您的电子邮件地址。如果未能保持您账号关联的电子邮箱地址的可用性，VATSIM会在不进行通知的情况下禁用您的账号。  
+A5 - 在您作为VATSIM的会员期间，您必须提供一个有效的电子邮件地址，并且需要在您电子邮件地址发生变更时告知VATSIM。VATSIM不会在未经您事先许可的情况下与任何第三方组织分享您的电子邮件地址。如果未能保持您账号关联的电子邮箱地址的可用性，VATSIM可以在不进行通知的情况下禁用您的账号。  
 
 >A6 - A member may register for and hold only one VATSIM account.  
 
@@ -72,19 +72,19 @@ A6 - 会员仅可注册及使用一个VATSIM账号。（或：会员不可以注
 
 >A7 - A member shall only use software approved by VATSIM to connect to, or interface with the network. (https://www.vatsim.net/documents/approved-software) A member shall become familiar with the basic use of these programs prior to logging on to the VATSIM network.  
 
-A7 - 会员仅限使用VATSIM许可的软件连接到VATSIM网络。 (https://www.vatsim.net/documents/approved-software) 会员在连接到VATSIM网络之前需要确保已经了解所使用软件的基本使用方法。  
+A7 - 会员只可以使用VATSIM许可的软件连接到VATSIM连飞网络。 (https://www.vatsim.net/documents/approved-software) 会员在连接到VATSIM连飞网络之前需要确保已经了解所用软件的基本使用方法。  
 
 >A8 - A member shall only make one connection to the VATSIM network during any given session, except as may be otherwise provided for in this Code of Conduct.  
 
-A8 - 除本行为准则另有规定外，会员在任何时候只能与VATSIM网络创建一个连接。  
+A8 - 除本行为准则另有规定外，会员在任何时候只能与VATSIM连飞网络创建一个连接（会员不可以多开，如：同一账号同时飞两个或以上的航班/同一账号同时上线两个或以上的管制席位/同一账号既在飞行同时还在上线管制或OBS）。  
 
 >A9 - Except as provided for in Section B3(b) of this Code of Conduct, members shall not leave their connections unattended. Members not actively participating in the network (ie connected as an observer) shall not log on for excessive periods of time.  
 
-A9 - 除本行为准则第B3(b)条所规定的情况外，会员不得在连线期间离开电脑。没有积极参与网络活动的会员（如以观察员身份连线的会员）不得过长时间登录VATSIM网络。  
+A9 - 除本行为准则第B3(b)条所规定的情况外，会员不得在连线期间离开电脑（AFK/挂机）。没有积极参与网络活动的会员（如以观察员身份连线的会员）不得过长时间登录VATSIM连飞网络。  
 
 >A10 - Members shall exercise patience and tolerance towards other members, especially where a member is less familiar with an area, or learning new skills.  
 
-A10 - 会员应当对其他会员保持耐心和宽容，尤其是当对方对某些领域还不太熟悉，或是正在学习新的技能时。  
+A10 - 会员应当对其他会员保持耐心和宽容，尤其是那些对某些领域还不太熟悉，或是正在学习新技能的会员。  
 
 >A11 - Members are prohibited from using any software, forums, newsgroups, social media streams, or mailing lists utilized by VATSIM and its officially recognized Regions, Divisions and their subdivisions to threaten, harass, stalk, or to otherwise violate the legal rights of others including expectations of privacy and publicity. This includes using the above resources to find, locate, or otherwise discover methods of contacting members for the purpose of threatening, harassing, stalking, or otherwise violating the legal rights of them. Further, members shall not publish, post, distribute, disseminate, or use any kind of defamatory, infringing, obscene, vulgar, profane, unlawful, or other types of communications, materials, or information. Individuals violating this rule are subject to the procedures set forth in Article I of the VATSIM.net Code of Regulations, which may result in removal from VATSIM and revocation of their membership privileges.  
 
@@ -92,11 +92,11 @@ A11 - 会员不可以在任何VATSIM所使用的软件、论坛、新闻组、�
 
 >A12 - Members shall not connect to VATSIM with a callsign, or other identifier, that implies or designates a status they do not hold including, but not limited to, those reserved for, or generally used by, Founders, members of the Board of Governors, members of the Executive Committee, Supervisors, and/or any staff members. Furthermore, members shall not state, imply, or otherwise communicate that they hold a status they do not.  
 
-A12 - 会员不得使用任何暗示或指定他们所不持有的身份的呼号或其他标识符连接到VATSIM，包括但不限于为创始人、理事会成员、执行委员会成员、监察员和/或工作人员保留的或者常用的呼号或标识符。此外，会员不得声明、暗示或以其他方式传达他们持有一个并不拥有的身份。  
+A12 - 会员不得使用任何暗示或指定他们所不持有的身份的呼号或其他标识符连接到VATSIM，包括但不限于为创始人、理事会成员、执行委员会成员、监察员和/或工作人员保留的或者常用的呼号或标识符。此外，会员不得声明、暗示或以其他方式传达他们持有一个并不拥有的身份。（会员不得使用任何会让人误认为自己是VATSIM创始人、理事会成员、执行委员会成员、监察员和/或工作人员的呼号上线。）  
 
 >A13 - Members shall only connect to VATSIM as an observer, a pilot, or an air traffic controller. No other connection is permitted. Military, paramilitary or civilian government agency operations and/or activities must be authorized by an approved Special Operations Organization. Special Operations restrictions and procedures are defined in the Special Operations Policy. https://www.vatsim.net/documents/special-operations-policy)  
 
-A13 - 会员不得以观察员、飞行员或管制员以外的身份连接到VATSIM。任何涉及到军事、准军事或文职政府机构的行动和/或活动必须由经VATSIM批准的特别行动组织授权方可进行。特别行动的限制及程序可以在特别行动政策中找到。(https://www.vatsim.net/documents/special-operations-policy)  
+A13 - 会员不得以观察员、飞行员或管制员以外的身份连接到VATSIM。任何涉及到军事、准军事或文职政府机构的行动和/或活动必须由经VATSIM批准的特别行动组织授权方可进行。特别行动的限制及运行程序可以在特别行动政策中找到。(https://www.vatsim.net/documents/special-operations-policy)  
 
 >A14 - Voice is the preferred method of communication on VATSIM, though all members shall accommodate, with the same level of service, those communicating only by text. There shall be no rules preventing or discouraging the use of either voice or text. Only unaltered speech is permitted to be transmitted.  
 
@@ -108,7 +108,7 @@ A15 - 会员在VATSIM进行连线期间，应在被要求时联系并遵守VATSI
 
 >A16 - Members shall not carry out private conversations over any communication channels, frequencies, or resources, with the exception of private messages, while connected to the VATSIM Network. The guard VHF radio frequency (121.500) shall not be used.  
 
-A16 - 会员在VATSIM连线期间，不得使用任何除私聊以外的公开通讯频道、频率、资源进行私人聊天。会员不可以使用航空应急频率(121.500MHz)。
+A16 - 会员在连接到VATSIM连飞网络期间，不得使用任何除私聊以外的公开通讯频道、频率、资源进行私人聊天。会员不可以使用航空应急频率(121.500MHz)。
 
 >A17 - The re-creation of, or organization of events recognizing real world disasters, tragedies, or other such events, particularly those which resulted in loss of life, are not permitted. In addition callsigns that VATSIM has deemed prohibited shall not be used at any time. (View Restricted Callsigns)  
 
@@ -128,11 +128,11 @@ A18 - VATSIM欢迎会员对其连线过程进行公开的直播、录制或以�
 
 >(c) Members connected to the network who deliberately disrupt the stream/recording of another member are subject to immediate suspension from the network.  
 
-(c) 连接到VATSIM网络时，故意扰乱其他会员直播/录像的行为将会导致账号被立刻封禁。
+(c) 连接到VATSIM连飞网络时，故意扰乱其他会员直播/录像的行为将会导致账号被立刻封禁。
 
 >(d) VATSIM does not have the ability for its members to opt-out of being part of another members stream/recording.  
 
-(d) VATSIM没有能力使其会员不出现在另一名会员的直播/录像中。
+(d) VATSIM没有能力避免其会员出现在另一名会员的直播/录像中。
 
 
 
@@ -158,15 +158,15 @@ B3(b) - 当飞行员在飞行中遇到必须要离开电脑前的情况，我们
 
 >B4 - A pilot shall not squawk standby while their aircraft is in motion except when requested by air traffic control. Simulation of aircraft without a transponder is permitted with air traffic control approval.  
 
-B4 - 除被管制员要求外，飞行员应当在其飞机运动的过程中启用其应答机的C模式。模拟无应答机功能的飞行活动需要经过管制员同意后方可进行。
+B4 - 除被管制员要求外，飞行员应当在其飞机运动的过程中启用其应答机的C模式。模拟无应答机功能的飞行活动需要经过管制员批同意后方可进行。
 
 >B5 - Pilots flying through uncontrolled airspace shall monitor VHF radio frequency 122.800 or other designated "UNICOM" frequency until they come under air traffic control coverage. Where another pilot may benefit, a pilot shall transmit their intentions on the designated unicom frequency.  
 
-B5 - 飞行员在无管制空域内飞行时应当时刻守听122.800MHz或其他被指定为UNICOM的频率，直到其进入管制空域内。飞行员应当在指定的UNICOM频率中报告其意图以避免冲突，同时方便其他飞行员。
+B5 - 飞行员在无管制空域内飞行时应当时刻守听122.800MHz或其他被指定为UNICOM的频率，直到其进入有管制空域内。飞行员应当在指定的UNICOM频率中报告其意图以避免冲突，同时也可以为其他飞行员提供便利。
 
 >B6 - No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.  
 
-B6 - 任何飞行活动都不可以声明自己优先于其他机组。飞行员仅可以在管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。
+B6 - 任何飞行活动都不可以声明自己优先于其他机组。飞行员仅可以在有管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。
 
 >B7 - Two or more pilots are permitted to fly in formation. If, for any reason, air traffic control instructs pilots to separate, the pilots must immediately comply with the request or disconnect from the network.  
 
@@ -218,43 +218,35 @@ C1 - 对于新加入VATSIM或对空域不够熟悉的管制员，应当通过观
 
 >C2 - Controllers shall follow local rules and procedures. Controllers who choose to work in locations other than their requested and assigned location must follow the local rules and procedures at that location, and must be approved to control as a ‘visiting controller’ where required by local policy. Visiting controller status is governed by the Transfer and Visiting Controllers Policy (https://www.vatsim.net/documents/transf ... ler-policy)  
 
-C2 - 管制员应当遵守地方性的规则以及程序。选择在其所属或所被分配地区/分部/分支机构以外的地区提供管制服务的管制员，必须遵守该地区的地方性规则及程序，并且需要根据当地要求，申请并取得‘客座管制员’的身份。‘客座管制员’的身份受到Transfer and Visiting Controllers Policy (https://www.vatsim.net/documents/transf ... ler-policy) 的规范。  
+C2 - 管制员应当遵守地方性的规则以及程序。选择在其所属或所被分配的地区/分部/分支机构以外的地区提供管制服务的管制员，必须遵守该地区的地方性规则及程序，并且需要根据当地要求，申请并取得“客座管制员”的身份。“客座管制员”的身份受到Transfer and Visiting Controllers Policy (https://www.vatsim.net/documents/transf ... ler-policy) 的规范。  
 
 >C3 - When logging onto the VATSIM Network as an observer, a member shall use a callsign which ends as follows: "_OBS". Prior to the underscore an individual shall use their initials or a locally accepted observer format. Other observer callsign formats designating an official network staff role are approved. An observer shall observe only and not communicate on any open text or voice frequency, or provide air traffic control services.  
 
-C3 - 会员以观察员身份连接到VATSIM网络时，所使用的呼号必须以`_OBS`结尾。下划线前应当使用会员注册名的英文首字母（如：张三应使用SZ_OBS或ZS_OBS）或当地所允许的其他名称。VATSIM允许官方工作人员使用可以表明他们工作人员身份的呼号以观察员的身份连接到网络。观察员在连线时不得以任何形式（文字或/和语音）在公共频道进行通讯或提供管制服务。
+C3 - 会员以观察员身份连接到VATSIM连飞网络时，必须使用以`_OBS`结尾的呼号。下划线前应当使用会员注册名的英文首字母（如：张三应使用SZ_OBS或ZS_OBS）或其他当地所允许的名称。VATSIM允许官方工作人员以观察员的身份，使用可以表明他们工作人员身份的呼号连接到网络。观察员在连线时不得以任何形式（文字或/和语音）在公共频道进行通讯，或以任何形式（包括私聊）提供管制服务。
 
 >C4 - VATSIM recognizes the following suffixes for air traffic control positions. A member shall only use the corresponding facility type when connecting.  
 
-C4 - 以下为VATSIM许可的管制席位呼号后缀。会员只可以使用下列与其席位相对应的后缀连线。
-
 >a. DEL - (Clearance) Delivery  
-
-a. DEL - 放行席
-
 >b. GND - Ground Control  
-
-b. GND - 地面席
-
 >c. TWR - Tower Control  
-
-c. TWR - 塔台席
-
 >d. DEP - Departure Control  
-
-d. DEP - 离场席
-
 >e. APP - Approach Control  
-
-e. APP - 进近席
-
 >f. CTR - Enroute (Centre) Control  
-
-f. CTR - 区域席
-
 >g. FSS - Flight Service Station  
 
-g. FSS - 飞行服务站（飞服）
+
+C4 - 以下为VATSIM许可的管制席位呼号后缀。会员只可以使用下列与其席位相对应的后缀连线。
+
+|  | 呼号后缀 | 席位名 |
+| :---: | :---: | :---: |
+| a | DEL | 放行 |
+| b | GND | 地面 |
+| c | TWR | 塔台 |
+| d | DEP | 离场 |
+| e | APP | 进近 |
+| f | CTR | 区域（区调） |
+| g | FSS | 飞行服务站（飞服） |
+
 
 >NOTE: Approved Flight Service Stations are specified in Appendix B of the VATSIM Global Rating Policy (http://www.vatsim.net/documents/global-ratings-policy) 
 
@@ -263,7 +255,7 @@ g. FSS - 飞行服务站（飞服）
 
 >C5 - Positions are occupied on a "first come" basis. Local facilities, with Division approval, may implement a procedure to book or schedule a controlling time within reasonable limits. Additionally, should a controller lose their connection to the VATSIM Network and return within a reasonable time period to find their position taken by another controller, the second controller shall relinquish the position to the original controller.  
 
-C5 - 管制席位遵循“先到先得”原则。经所属分部批准后，相关地区可以引入席位预定机制，允许管制员预约或计划于某一特定的（合理）时间段内在其指定席位提供管制服务。此外，当一位管制员与服务器的连接由于网络或其他因素而被中断，并在合理的时间范围内重新登陆时，另一名管制员已经登录了相同席位的情况下，后者应当将此席位归还至前者。
+C5 - 管制席位遵循“先到先得”原则。经所属分部批准后，其下属的组织可以引入席位预定机制，允许管制员预约或计划于某一特定的（合理）时间段内在其指定席位提供管制服务。此外，当一位管制员与服务器的连接由于网络或其他因素而被中断，并在合理的时间范围内重新登陆时，另一名管制员已经登录了相同席位的情况下，后者应当将此席位归还至前者。
 
 >C6 - Only approved positions and their corresponding frequencies may be opened by controllers. Controllers may only open a position they are authorized to, in accordance with global and local policy. See the Global Ratings Policy (https://www.vatsim.net/documents/global-ratings-policy) and the Transfer and Visiting Controller Policy (https://www.vatsim.net/documents/transf ... ler-policy) for more information.  
 
@@ -275,39 +267,28 @@ C7 - 每位管制员仅可以额外建立一个与VATSIM网络的连接用于为
 
 >C8 - Controllers shall set an appropriate visibility range for their position. The maximum ranges for a given position are as follows:  
 
-C8 - 管制员应当将其视程距离设定在合理范围内。以下为每个席位可以使用的最大视程距离。
-
 >Observers: 300 Nautical Miles  
-
-观察员：300海里
-
 >Clearance Delivery:20 Nautical Miles  
-
-放行席：20海里
-
 >Ground Control:20 Nautical Miles
-
-地面席：20海里
-
 >Tower Control:50 Nautical Miles  
-
-塔台席：50海里
-
 >Approach Control:150 Nautical Miles  
-
-进近席：150海里
-
 >Departure Control:150 Nautical Miles  
-
-离场席：150海里
-
 >Enroute (Center) Control:600 Nautical Miles  
-
-区域席：600海里
-
 >FSS Control: 1500 Nautical Miles  
 
-飞行服务站：1500海里
+
+C8 - 管制员应当将其视程距离设定在合理范围内。以下为各个席位可以使用的最大视程距离。
+
+| 席位名 | 最大视程距离（海里） |
+| :---: | :---: |
+| 观察员 (OBS) | 300 |
+| 放行 (DEL) | 20 |
+| 地面 (GND) | 20 |
+| 塔台 (TWR) | 50 |
+| 进近 (APP) | 150 |
+| 离场 (DEP) | 150 |
+| 区域 (CTR) | 600 |
+| 飞行服务站 (FSS) | 1500 |
 
 >Controllers shall not set visibility ranges higher than the maximum ranges set forth above unless they have prior written approval from the VATSIM.net Board of Governors, or the Executive Committee.  
 
