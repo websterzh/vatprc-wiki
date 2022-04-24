@@ -178,75 +178,143 @@ B8 - 飞行员应当遵守所有商定好（复述过）的管制员许可及其
 
 >- Holding position when on the ground at an airport.  
 
+在机场地面停止滑行并等待。  
+
 >- Flying at a speed.  
+
+以指定速度飞行。  
 
 >- Flying a heading.  
 
+以指定航向飞行。  
+
 >- Flying at an altitude or flight level.  
+
+保持指定高度或高度层。  
 
 
 
 >B9 - A pilot operating their simulator using acceleration/deceleration functions must continuously monitor their connection, and ensure that they do not cause disruptions to other members. If operating in actively controlled airspace, the pilot must have the express permission of the controller to operate using time acceleration/deceleration, and if a controller requests a pilot to return to ‘normal simulation rate’, the pilot shall immediately comply.  
 
+B9 - 飞行员在使用模拟器的倍速功能时必须时刻监控其飞行，以确保不会干扰到其他会员。在管制空域内时，飞行员使用倍速功能前必须得到管制员的许可，并且在管制员要求时，立即退出倍速模式。  
+
 >B10 - All pilots flying IFR shall submit a flight plan before flight. The IFR flight plan must contain, at a minimum, the aircraft callsign, departure airport, arrival airport, aircraft type, and requested route. All VFR pilots are encouraged, when appropriate, to submit a flight plan.  
 
+B10 - 所有按仪表规则飞行的飞行员在飞行前必须提交飞行计划。仪表飞行计划必须至少包括呼号、起始机场、目的地机场、航空器型号以及所申请的航路。我们也鼓励按目视规则飞行的飞行员，在条件允许的情况下提交飞行计划。  
+
 >B11 - Pilots may fly together through the use of a shared cockpit function. When pilots fly together through the use of a shared cockpit function, members are jointly liable for any infringement of VATSIM Policies.  
+
+B11 - 多个飞行员可以使用共享驾驶舱功能共同执行一个航班。若该飞行出现了违反VATSIM规章制度的情况，所有参与到该航班共享驾驶舱的会员均需要同等的承担相应的责任及后果。  
 
 
 
 >## C. Controller Conduct  
 
+## C. 管制员准则  
+
 >C1 - Controllers who are new to VATSIM, or are otherwise unfamiliar with an airspace shall educate themselves by first observing operations and/or studying procedures used in that location.  
+
+C1 - 对于新加入VATSIM或对空域不够熟悉的管制员，应当通过观摩、学习等方式熟悉该地区所使用的管制程序。  
 
 >C2 - Controllers shall follow local rules and procedures. Controllers who choose to work in locations other than their requested and assigned location must follow the local rules and procedures at that location, and must be approved to control as a ‘visiting controller’ where required by local policy. Visiting controller status is governed by the Transfer and Visiting Controllers Policy (https://www.vatsim.net/documents/transf ... ler-policy)  
 
+C2 - 管制员应当遵守地方性的规则以及程序。选择在其所属或所被分配地区/分部/分支机构以外的地区提供管制服务的管制员，必须遵守该地区的地方性规则及程序，并且在该地区要求的情况下，申请并取得‘客座管制员’的身份。‘客座管制员’的身份受到Transfer and Visiting Controllers Policy (https://www.vatsim.net/documents/transf ... ler-policy) 的规范。  
+
 >C3 - When logging onto the VATSIM Network as an observer, a member shall use a callsign which ends as follows: "_OBS". Prior to the underscore an individual shall use their initials or a locally accepted observer format. Other observer callsign formats designating an official network staff role are approved. An observer shall observe only and not communicate on any open text or voice frequency, or provide air traffic control services.  
+
+C3 - 以观察员身份连接到VATSIM网络时，该会员所使用的呼号必须以'_OBS'结尾。下划线前应当使用会员名的英文首字母或当地所允许的其他名称。VATSIM允许官方工作人员使用可以表明他们工作人员身份的呼号以观察员的身份连接到网络。观察员在连线时不得以任何形式（文字或/和语音）在公共频道进行通讯，或提供管制服务。
 
 >C4 - VATSIM recognizes the following suffixes for air traffic control positions. A member shall only use the corresponding facility type when connecting.  
 
+C4 - 以下为VATSIM许可的管制席位呼号后缀。会员之可以使用下列与其席位相对应的后缀连线。
+
 >a. DEL - (Clearance) Delivery  
+
+a. DEL - 放行席
 
 >b. GND - Ground Control  
 
+b. GND - 地面席
+
 >c. TWR - Tower Control  
+
+c. TWR - 塔台席
 
 >d. DEP - Departure Control  
 
+d. DEP - 离场席
+
 >e. APP - Approach Control  
+
+e. APP - 进近席
 
 >f. CTR - Enroute (Centre) Control  
 
+f. CTR - 区域席
+
 >g. FSS - Flight Service Station  
 
->NOTE: Approved Flight Service Stations are specified in Appendix B of the VATSIM Global Rating Policy (http://www.vatsim.net/documents/global-ratings-policy)  
+g. FSS - 飞行服务站（飞服）
+
+>NOTE: Approved Flight Service Stations are specified in Appendix B of the VATSIM Global Rating Policy (http://www.vatsim.net/documents/global-ratings-policy) 
+
+注意：在VATSIM Global Rating Policy(http://www.vatsim.net/documents/global-ratings-policy) 的附件B中定义了所有被VATSIM许可的飞行服务站。
 
 
 >C5 - Positions are occupied on a "first come" basis. Local facilities, with Division approval, may implement a procedure to book or schedule a controlling time within reasonable limits. Additionally, should a controller lose their connection to the VATSIM Network and return within a reasonable time period to find their position taken by another controller, the second controller shall relinquish the position to the original controller.  
 
+C5 - 管制席位遵循’先到先得‘原则。经所属分部批准后，相关地区可以引入席位预定机制，允许管制员预定或计划于某一特定的（合理）时间段内在其指定席位提供管制服务。此外，当一位管制员与服务器的连接由于网络或其他因素而被中断，并在合理的时间范围内重新登陆时，另一名管制员已经登录了相同席位的情况下，后者应当将此席位归还至前者。
+
 >C6 - Only approved positions and their corresponding frequencies may be opened by controllers. Controllers may only open a position they are authorized to, in accordance with global and local policy. See the Global Ratings Policy (https://www.vatsim.net/documents/global-ratings-policy) and the Transfer and Visiting Controller Policy (https://www.vatsim.net/documents/transf ... ler-policy) for more information.  
+
+C6 - 管制员仅可以使用被批准的席位及其对应频率提供管制服务。管制员需要按总部及分布政策，在他们被批准/许可的席位提供管制服务。详情见Global Ratings Policy (https://www.vatsim.net/documents/global-ratings-policy)以及Transfer and Visiting Controller Policy (https://www.vatsim.net/documents/transf ... ler-policy)
 
 >C7 - A controller may make one additional connection to the VATSIM Network to provide an airport voice ATIS at facilities which have an ATIS in real life. There must be an accompanying text version, which shall always be in English. The ATIS shall be formatted in accordance with the ATC Frequency Management and Information Policy (https://www.vatsim.net/air-traffic-control-frequency-and-information-management-policy).  
 
+C7 - 每位管制员仅可以额外建立一个于VATSIM网络的连接为一个机场提供语音航行情报通波服务，且该机场必须在真实中存在此服务。此外，通波必须包含一个英文的文字版本。通波需要按照ATC Frequency Management and Information Policy (https://www.vatsim.net/air-traffic-control-frequency-and-information-management-policy)中所要求的格式书写。
+
 >C8 - Controllers shall set an appropriate visibility range for their position. The maximum ranges for a given position are as follows:  
+
+C8 - 管制员应当将其视程距离设定在合理范围内。以下为每个席位可以使用的最大视程距离。
 
 >Observers: 300 Nautical Miles  
 
+观察员：300海里
+
 >Clearance Delivery:20 Nautical Miles  
 
->Ground Control:20 Nautical Miles  
+放行席：20海里
+
+>Ground Control:20 Nautical Miles
+
+地面席：20海里
 
 >Tower Control:50 Nautical Miles  
 
+塔台席：50海里
+
 >Approach Control:150 Nautical Miles  
+
+进近席：150海里
 
 >Departure Control:150 Nautical Miles  
 
+离场席：150海里
+
 >Enroute (Center) Control:600 Nautical Miles  
+
+区域席：600海里
 
 >FSS Control: 1500 Nautical Miles  
 
+飞行服务站：1500海里
+
 >Controllers shall not set visibility ranges higher than the maximum ranges set forth above unless they have prior written approval from the VATSIM.net Board of Governors, or the Executive Committee.  
+
+除非得到VATSIM.net理事会或执行委员会的书面许可，管制员不得使用超出上述最大限制的视程距离。
 
 
 >Epilogue - Remember, the primary goals of VATSIM are to educate, to provide a realistic simulation of flying and air traffic control and, most importantly, to provide a fun environment for everyone to enjoy our hobby. By following the simple rules set forth in this Code of Conduct, everyone is ensured of learning and making new friends from around the world. To all our new members, welcome! Enjoy!  
+
+后记 - VATSIM的主要目标是提供一个有教育意义，同时模拟真实飞行和管制环境，以及一个所有人都可以在此体验到他们的爱好所带来的快乐的平台。通过遵守本行为准则中所规定的简单规则，可以确保每个人都能学习并且结交来自世界各地的新朋友。在此，欢迎我们的各位新会员，也希望大家可以享受这个平台所带来的乐趣。
   
