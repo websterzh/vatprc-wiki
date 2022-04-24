@@ -263,7 +263,7 @@ g. FSS - 飞行服务站（飞服）
 
 >C5 - Positions are occupied on a "first come" basis. Local facilities, with Division approval, may implement a procedure to book or schedule a controlling time within reasonable limits. Additionally, should a controller lose their connection to the VATSIM Network and return within a reasonable time period to find their position taken by another controller, the second controller shall relinquish the position to the original controller.  
 
-C5 - 管制席位遵循’先到先得‘原则。经所属分部批准后，相关地区可以引入席位预定机制，允许管制员预约或计划于某一特定的（合理）时间段内在其指定席位提供管制服务。此外，当一位管制员与服务器的连接由于网络或其他因素而被中断，并在合理的时间范围内重新登陆时，另一名管制员已经登录了相同席位的情况下，后者应当将此席位归还至前者。
+C5 - 管制席位遵循“先到先得”原则。经所属分部批准后，相关地区可以引入席位预定机制，允许管制员预约或计划于某一特定的（合理）时间段内在其指定席位提供管制服务。此外，当一位管制员与服务器的连接由于网络或其他因素而被中断，并在合理的时间范围内重新登陆时，另一名管制员已经登录了相同席位的情况下，后者应当将此席位归还至前者。
 
 >C6 - Only approved positions and their corresponding frequencies may be opened by controllers. Controllers may only open a position they are authorized to, in accordance with global and local policy. See the Global Ratings Policy (https://www.vatsim.net/documents/global-ratings-policy) and the Transfer and Visiting Controller Policy (https://www.vatsim.net/documents/transf ... ler-policy) for more information.  
 
