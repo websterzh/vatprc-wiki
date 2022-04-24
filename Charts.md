@@ -13,7 +13,7 @@
 广州白云01号RNAV离场 AIP航图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP-GG7G-1920.jpg)
 广州白云01号 龙门/英德方向RNAV离场 Jeppesen航图
-![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Lido%20GG01.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/JEPP%20GG-1920.jpg)
 广州白云02L/02R RNAV离场 Lido航图（图源自Pochun Yeung）
 
 从以上这些航图我们不难看出，航图好像被分成了两个派系：
