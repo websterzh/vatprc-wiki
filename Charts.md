@@ -11,9 +11,9 @@
 以下是广州白云国际机场的航图对比Jeppesen、Lido、China AIP，大家可以先看看航图，想必此时你的内心对每款航图的差异及使用体验也有了大致的概念。
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP-GG7G-1920.jpg)
 广州白云01号RNAV离场 AIP航图
-![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP-GG7G-1920.jpg)
-广州白云01号 龙门/英德方向RNAV离场 Jeppesen航图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/JEPP%20GG-1920.jpg)
+广州白云01号 龙门/英德方向RNAV离场 Jeppesen航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Lido%20GG01.jpg)
 广州白云02L/02R RNAV离场 Lido航图（图源自Pochun Yeung）
 
 从以上这些航图我们不难看出，航图好像被分成了两个派系：
@@ -42,3 +42,27 @@ P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内
 >China AIP的注册及订阅实际上是需要资质的，但VATPRC已在[飞行员中心](https://pilot.vatprc.net/#/)为大家提供了当前数据周期的AIP航图！大家可以使用自己的VATSIM cID登录后查阅相关航图。
 >不知道啥是数据周期的飞友可以查看[维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E8%A1%8C%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96)上的相关介绍
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Pilot%20Center%20Charts.jpg)
+## 4.爷搞来航图啦！嗯？这都是啥啊？？
+没错，一位飞行员不光得有航图，还得会看航图。那么航图要怎么看呢？
+此处我们以China AIP为例，分 机场部分 和仪表部分 对厦门高崎国际机场的航图进行说明。
+厦门高崎机场配有以下航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM%20ALL.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM%20ALL-1.jpg)
+
+那么现在我们就为大家讲解一下机场图
+首先我们打开ADC（Aerodrome Chart，机场图），以下为翻译
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM-1.jpg)
+***
+注释:
+(1)道面强度，这里我引用[搜狐HIA机坪之窗](https://m.sohu.com/a/191312533_760717/?pvid=000115_3w_a)对道面强度相关的介绍
+>机场道面强度使用的是国际民航组织在上世纪80年代早期制定的飞机等级序号--跑道道面等级序号(ACN–PCN) ，所有开放机场的跑道都有一个总重量和一个分配的PCN值。这个数值指示道面在通常情况下的承重能力。所有重量125000磅以上的飞机都会被分配一个ACN值，用以表达其对道面的影响。飞机制造商根据飞机重心后限、最大机坪重量、轮距和胎压计算ACN。
+>ACN也把道面的土基强度考虑在内，土基强度被分为四个等级：高（A），中等（B），低（C），非常低（D）。
+>胎压也有类似的分类：高（W），中等（X），低（Y），非常低（Z）。
+> 
+>PCN有两种评定方法：一种是经验评定（Using aircraft method，U），一种是技术评定（Technical method，T）。经验评定是按照机场设施允许的最大飞机的ACN值来决定的。技术评定PCN值的来源是运行频次、应力水平限制、起落架种类和特定跑道所允许的最大全重。
+>总的来说，PCN代码由五个部分组成：PCN数值、道面类型、土基类型、最大可用胎压和PCN评定方法。将PCN和ACN相结合，机场和飞机运行者就能够很好地了解跑道的承受能力以及在日常使用情况下跑道可以起降什么飞机。
+>
+>例如：肯尼迪国际机场的13R/31L跑道的PCN是 **98 /R/B/W/T**
+>那么意味着它的承载能力是98，刚性道面（R），中等土基强度（B），可以承受各种胎压（W），PCN计算方式使用的是技术评定。
+
+(2)该部分的表达方式为 *跑道长度X跑道宽度*
