@@ -80,7 +80,7 @@ A8 - 除本行为准则另有规定外，会员在任何时候只能与VATSIM网
 
 >A9 - Except as provided for in Section B3(b) of this Code of Conduct, members shall not leave their connections unattended. Members not actively participating in the network (ie connected as an observer) shall not log on for excessive periods of time.  
 
-A9 - 除本行为准则第B3(b)条所规定的情况外，会员不得在连线期间离开电脑。没有积极参与网络活动的会员（如以观察员身份连线的会员）不得长时间登录VATSIM网络。  
+A9 - 除本行为准则第B3(b)条所规定的情况外，会员不得在连线期间离开电脑。没有积极参与网络活动的会员（如以观察员身份连线的会员）不得过长时间登录VATSIM网络。  
 
 >A10 - Members shall exercise patience and tolerance towards other members, especially where a member is less familiar with an area, or learning new skills.  
 
@@ -88,7 +88,7 @@ A10 - 会员应当对其他会员保持耐心和宽容，尤其是当对方对�
 
 >A11 - Members are prohibited from using any software, forums, newsgroups, social media streams, or mailing lists utilized by VATSIM and its officially recognized Regions, Divisions and their subdivisions to threaten, harass, stalk, or to otherwise violate the legal rights of others including expectations of privacy and publicity. This includes using the above resources to find, locate, or otherwise discover methods of contacting members for the purpose of threatening, harassing, stalking, or otherwise violating the legal rights of them. Further, members shall not publish, post, distribute, disseminate, or use any kind of defamatory, infringing, obscene, vulgar, profane, unlawful, or other types of communications, materials, or information. Individuals violating this rule are subject to the procedures set forth in Article I of the VATSIM.net Code of Regulations, which may result in removal from VATSIM and revocation of their membership privileges.  
 
-A11 - 会员不可以在任何VATSIM所使用的软件、论坛、新闻组、社交媒体或电子邮件名单，以及VATSIM所认可的地区、分部及其分支机构对他人进行威胁、骚扰、跟踪、或以其他方式侵犯他人的合法权益（包括但不限于其隐私权和公开权）。这包括以威胁、骚扰、跟踪或以其他方式侵犯他人合法权益为目的，使用上述资源寻找、定位或以其他方式发现会员的联系方法。此外，会员不得发表、张贴、分发、散布或者使用任何类型的诽谤、侵权、淫秽、粗俗、亵渎、非法、或其他任何形式的通信、材料或信息。VATSIM将会依据VATSIM.net规章守则中第一条所规定的程序对违反本规则的个人进行处理，这可能会导致其被VATSIM除名并撤销其会员资格。  
+A11 - 会员不可以在任何VATSIM所使用的软件、论坛、新闻组、社交媒体或电子邮件列表，以及VATSIM所认可的地区、分部及其分支机构对他人进行威胁、骚扰、跟踪、或以其他方式侵犯他人的合法权益（包括但不限于其隐私权和公开权）。这包括以威胁、骚扰、跟踪或以其他方式侵犯他人合法权益为目的，使用上述资源寻找、定位或以其他方式发现会员的联系方法。此外，会员不得发表、张贴、分发、散布或者使用任何类型的诽谤、侵权、淫秽、粗俗、亵渎、非法、或其他任何形式的通信、材料或信息。VATSIM将会依据VATSIM.net规章守则中第一条所规定的程序对违反本规则的个人进行处理，这可能会导致其被VATSIM除名并撤销其会员资格。  
 
 >A12 - Members shall not connect to VATSIM with a callsign, or other identifier, that implies or designates a status they do not hold including, but not limited to, those reserved for, or generally used by, Founders, members of the Board of Governors, members of the Executive Committee, Supervisors, and/or any staff members. Furthermore, members shall not state, imply, or otherwise communicate that they hold a status they do not.  
 
@@ -124,7 +124,7 @@ A18 - VATSIM欢迎会员对其连线过程进行公开的直播、录制或以�
 
 >(b) If the member provides a link to their stream/recording either in their flight plan, or via other VATSIM operated medium, the entire stream/recorded session including informal mediums such as a stream chat are subject to this Code of Conduct.  
 
-(b) 如果会员在其飞行计划中，或其他VATSIM运行的媒体上发布了其连线过程的直播/录像的链接，则该直播/录像的整体以及其非正式媒介（包括聊天、弹幕、评论等）都受到本行为规范的管辖。
+(b) 如果会员在其飞行计划中，或其他由VATSIM运行的媒体上发布了其连线过程的直播/录像的链接，则该直播/录像的整体以及其非正式媒介（包括聊天、弹幕、评论等）都受到本行为规范的管辖。
 
 >(c) Members connected to the network who deliberately disrupt the stream/recording of another member are subject to immediate suspension from the network.  
 
@@ -166,7 +166,7 @@ B5 - 飞行员在无管制空域内飞行时应当时刻守听122.800MHz或其�
 
 >B6 - No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.  
 
-B6 - 任何飞行活动都不可以声明自己优先于其他机组。我们仅允许飞行员在管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。
+B6 - 任何飞行活动都不可以声明自己优先于其他机组。飞行员仅可以在管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。
 
 >B7 - Two or more pilots are permitted to fly in formation. If, for any reason, air traffic control instructs pilots to separate, the pilots must immediately comply with the request or disconnect from the network.  
 
@@ -196,7 +196,7 @@ B8 - 飞行员应当遵守所有商定好（复述过）的管制员许可及其
 
 >B9 - A pilot operating their simulator using acceleration/deceleration functions must continuously monitor their connection, and ensure that they do not cause disruptions to other members. If operating in actively controlled airspace, the pilot must have the express permission of the controller to operate using time acceleration/deceleration, and if a controller requests a pilot to return to ‘normal simulation rate’, the pilot shall immediately comply.  
 
-B9 - 飞行员在使用模拟器的倍速功能时必须时刻监控其飞行，以确保不会干扰到其他会员。在管制空域内时，飞行员使用倍速功能前必须得到管制员的许可，并且在管制员要求时，立即退出倍速模式。  
+B9 - 飞行员在使用模拟器的倍速功能时必须时刻监控其飞行，以确保不会干扰到其他会员。在管制空域内时，飞行员使用倍速功能前必须得到管制员的明确许可，并且在管制员要求时，立即退出倍速模式。  
 
 >B10 - All pilots flying IFR shall submit a flight plan before flight. The IFR flight plan must contain, at a minimum, the aircraft callsign, departure airport, arrival airport, aircraft type, and requested route. All VFR pilots are encouraged, when appropriate, to submit a flight plan.  
 
