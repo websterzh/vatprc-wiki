@@ -120,7 +120,7 @@ VATSIM Password      填写您的VATSIM密码
 
 Your Name                  填写您的姓名
 
-Home Airport              填写您家附近机场的 **ICAO 代码**
+Home Airport              填写您的主基地（选填）
 
 VATSIM Server            选择合适的VATSIM服务器 
 
