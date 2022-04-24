@@ -61,7 +61,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 
 ### Notifications
 通知选项卡上的项目允许您选择当 vPilot 不是置顶窗口时哪些行为将导致任务栏闪烁。
 
-|vPilot 选项   | 中文注释   |
+|vPilot 选项   |中文注释   |
 | :------------------ | ------------------------------------------------------------ |
 | Flash taskbar icon for new private message       |       收到新的私信时任务栏闪烁 |
 | Flash taskbar icon for text radio message            |   收到新的无线电文字消息时任务栏闪烁 |
