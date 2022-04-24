@@ -38,6 +38,7 @@ P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内
 >Aerosof也仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付，截至发稿前未找到国内有相关订阅服务的代充商家
 
 >China AIP
+>
 >China AIP的注册及订阅实际上是需要资质的，但VATPRC已在[飞行员中心](https://pilot.vatprc.net/#/)为大家提供了当前数据周期的AIP航图！大家可以使用自己的VATSIM cID登录后查阅相关航图。
 >不知道啥是数据周期的飞友可以查看[维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E8%A1%8C%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96)上的相关介绍
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Pilot%20Center%20Charts.jpg)
