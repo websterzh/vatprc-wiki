@@ -353,8 +353,29 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 对于第一种复飞，标准通话格式为（以遭遇风切变为例）：
 > *“塔台，国航4115复飞，由于风切变告警。”*
+
 > *"Tower, Air China 4115 going around due to windshear."*
 
 塔台管制员会对复飞机组发布下一步指令：
 >*“国航4115，沿标准复飞程序上到900米，联系进近120.6”*
+
 >*"Air China 4115, follow standard missed approach prodecure, climb and maintain 900 meters, contact Approach on 120.6"*
+
+#### 从无管制空域进入管制空域
+根据上文，所有从无管制空域进入管制空域的航空器都应当主动联系管制员以获得下一步指令。假设有一架飞机正从无管制的广州区域进入有管制的昆明区域，那么对应的通话如下：
+
+>*“昆明你好，南方6436，高度110，听你指挥。”*
+
+>*"Hello Kunming Control, China Southern 6436 at 11000 meters with you."*
+
+对于从无管制空域进入有管制空域的机组，对应的管制员将会重新颁发一个应答机号，机组需要将应答机号设为该编号并进行“识别”操作。
+
+>*“南方6436，昆明，应答机5114并识别。”*
+
+>*"China Southern 6436, Kunming control, squawk 5114 and ident."*
+
+应答机识别后，管制员将给出下一步指令：
+
+>*“南方6436，昆明雷达识别，保持110”*
+
+>*"China southern 6436, Kunming radar contact, maintain 11000 meters."*
