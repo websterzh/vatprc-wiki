@@ -28,7 +28,7 @@ X-Plane 11.50 或更高版本
 xPilot客户端安装目录
 选择一个文件夹以安装xPilot客户端.
 
-InstallDirectory.png
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/InstallDirectory.png)
 
 
 
