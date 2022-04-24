@@ -158,9 +158,11 @@ B3(b) - 当飞行员在飞行中遇到必须要离开电脑前的情况，我们
 
 >B4 - A pilot shall not squawk standby while their aircraft is in motion except when requested by air traffic control. Simulation of aircraft without a transponder is permitted with air traffic control approval.  
 
-B4 - 除被管制员要求外，飞行员
+B4 - 除被管制员要求外，飞行员应当在其飞机运动的过程中启用其应答机的C模式。模拟无应答机功能的活动需要经过管制员同意后方可进行。
 
 >B5 - Pilots flying through uncontrolled airspace shall monitor VHF radio frequency 122.800 or other designated "UNICOM" frequency until they come under air traffic control coverage. Where another pilot may benefit, a pilot shall transmit their intentions on the designated unicom frequency.  
+
+B5 - 飞行员在无管制空域内飞行时应当时刻守听122.800MHz或其他被指定为UNICOM的频率，直到其进入管制空域内。为了避免冲突，以及
 
 >B6 - No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.  
 
