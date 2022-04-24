@@ -162,13 +162,19 @@ B4 - 除被管制员要求外，飞行员应当在其飞机运动的过程中启
 
 >B5 - Pilots flying through uncontrolled airspace shall monitor VHF radio frequency 122.800 or other designated "UNICOM" frequency until they come under air traffic control coverage. Where another pilot may benefit, a pilot shall transmit their intentions on the designated unicom frequency.  
 
-B5 - 飞行员在无管制空域内飞行时应当时刻守听122.800MHz或其他被指定为UNICOM的频率，直到其进入管制空域内。为了避免冲突，以及
+B5 - 飞行员在无管制空域内飞行时应当时刻守听122.800MHz或其他被指定为UNICOM的频率，直到其进入管制空域内。飞行员应当在指定的UNICOM频率中报告其意图以避免冲突，同时方便其他飞行员。
 
 >B6 - No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.  
 
+B6 - 任何飞行活动都不可以声明自己优先于其他机组。我们仅允许飞行员在管制空域内宣告紧急情况。不论任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机。
+
 >B7 - Two or more pilots are permitted to fly in formation. If, for any reason, air traffic control instructs pilots to separate, the pilots must immediately comply with the request or disconnect from the network.  
 
+B7 - 多个飞行员可以进行编队飞行。当管制员以任何原因要求飞行员互相分开时，飞行员应当立即遵守该指令，或断开与VATSIM的连接。
+
 >B8 - A pilot must comply with all agreed (read-back) air traffic control clearances and all issued instructions, or notify air traffic control without delay if unable to do so. Additionally, compliance with the following ATC instructions is mandatory, unless operational safety (e.g. TCAS conflict resolution) is compromised:  
+
+B8 - 飞行员应当遵守所有商定好（复述过）的管制员许可及其发布的指令。当无法遵守或执行管制员发布的指令时，飞行员应当立刻告知管制员。此外，在不影响飞行安全的前提下（如：TCAS冲突），飞行员必须无条件执行下列管制员指令。
 
 >- Holding position when on the ground at an airport.  
 
