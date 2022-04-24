@@ -128,7 +128,7 @@ A18 - VATSIM欢迎会员对其连线过程进行公开的直播、录制或以�
 
 >(c) Members connected to the network who deliberately disrupt the stream/recording of another member are subject to immediate suspension from the network.  
 
-(c) 连接到VATSIM网络时，故意扰乱其他会员直播/录像的会员将会被立刻中止连线。
+(c) 连接到VATSIM网络时，故意扰乱其他会员直播/录像的行为将会导致账号被立刻封禁。
 
 >(d) VATSIM does not have the ability for its members to opt-out of being part of another members stream/recording.  
 
