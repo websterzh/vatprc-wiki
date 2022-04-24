@@ -316,5 +316,5 @@ C8 - 管制员应当将其视程距离设定在合理范围内。以下为每个
 
 >Epilogue - Remember, the primary goals of VATSIM are to educate, to provide a realistic simulation of flying and air traffic control and, most importantly, to provide a fun environment for everyone to enjoy our hobby. By following the simple rules set forth in this Code of Conduct, everyone is ensured of learning and making new friends from around the world. To all our new members, welcome! Enjoy!  
 
-后记 - VATSIM的主要目标是提供一个有教育意义，同时模拟真实飞行和管制环境，以及一个所有人都可以在此体验到他们的爱好所带来的快乐的平台。通过遵守本行为准则中所规定的简单规则，可以确保每个人都能学习并且结交来自世界各地的新朋友。在此，欢迎我们的各位新会员，也希望大家可以享受这个平台所带来的乐趣。
+后记 - VATSIM的主要目标是提供一个有教育意义，同时模拟真实飞行和管制环境，并且，最重要的是所有人都可以在此体验到他们的爱好所带来的快乐的平台。通过遵守本行为准则中所规定的简单规则，可以确保每个人都能学习并且结交来自世界各地的新朋友。在此，欢迎我们的各位新会员，也希望大家可以享受这个平台所带来的乐趣。
   
