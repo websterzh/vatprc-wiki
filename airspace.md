@@ -16,7 +16,18 @@
 + **机组将要落地上海浦东机场，已经在上海区域管制空域/进近过程中，机组通过连飞地图发现上海区调/上海进近上线了。** 此时机组应当立即联系对应的管制员。
 ### 如何进行联系？
 #### 确认要联系的管制员
-上节已经描述过如何判断该联系哪位管制员，
+上节已经描述过如何判断该联系哪位管制员。
+#### 收听通波/ATIS（如果有）
+ATIS全称为Automatic terminal information service（自动终端情报服务），又称自动航站情报系统、自动航站情报服务或航站自动情报广播系统等，在中国大陆简称情报通播。其是在繁忙的机场自动连续播放的讯息服务。通常在一个单独的无线电频率上进行广播，包括主要的与飞行相关的讯息，如天气、可用跑道、修正海压等信息。在模拟飞行中，通波会以一个单独的频率呈现在连飞客户端左侧的列表中，代码为ICAO代码_ATIS，如ZSPD_ATIS。收听ATIS有两种方式，一种是将机载无线电调至通波频率进行语音抄收，另一种是双击通波名称来获取文字形式的通波信息。我们更推荐采取第二种，也就是获取文字通波信息的方式。在VATPRC所管辖的机场内，通波一般包含机场运行信息、天气信息等要素。以下为一段上海浦东机场的ATIS样例：
+```
+[ZSPD] information [A], [0400] [UTC], Departure runway [16R,17L], landing runway [16L,17R], Expect ILS approach, runway [16L,17R], 
+Wind 100 degrees at 4 [m/s], variable between 070 and 140 degrees, Visibility greater than [10] kilometers, Broken [300] meters, 
+Temperature 21 [deg C], dewpoint 18 [deg C], QNH 1011 [hPa], Advise on initial contact you have information [A], and confirm you 
+will implement [RNAV] procedures.
+```
+该段ATIS意为：上海浦东国际机场，情报通波Alpha，0400世界协调时，起飞跑道16R，17L，落地跑道16L，17R，预计ILS进近，跑道16L，17R，风向100度，风速4米每秒，在070和140度间变化，能见度大于10公里，300米有5-7分云，温度21摄氏度，露点18摄氏度，修正海压1011百帕。首次与管制员联系时报告已收到通波Alpha，并且确认能够执行RNAV程序。
+
+请注意，通波内的天气信息存在延迟且仅供参考，具体以当前最新的气象信息为准。通波内最重要的是机场运行信息，它告诉机组哪些跑道用于起飞，哪些用于落地，这能够帮助机组更好的进行规划。
 #### 查看管制员的ATC info
 很多管制员反映机组在首次联系时很少查看ATC info,造成了不必要的频率占用。事实上ATC info是很重要的信息，它告诉了机组联系该管制席位的一些注意事项。机组可以通过双击vPilot或xPilot左侧列表中的席位名称来获取该席位的ATC info。请注意，实际上线时，每个管制员的ATC info格式可能各不相同。如果发现有信息看不懂，请直接向管制员咨询。以下是一些较为典型的ATC info样例：
 ```
