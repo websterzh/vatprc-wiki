@@ -287,7 +287,7 @@ ATC:*"Air China 4115 contact Shanghai Approach on 120.3, goodday."*
 
 *"Air China 4115, contact Beijing Approach 120.6, goodday."*
 
-#### 进近（雷达管制空域）
+#### 进近（雷达管制下的终端区空域）
 进近空域相对较小，流量较密集，频率也更繁忙，因此请确保能够仔细守听频率并及时回复管制员的指令。首次联系时，请采用以下格式进行通讯：
 
 机组：*“进近你好，国航4115，高度5400m，20海里到AVBOX，听你指挥，通波E收到。”*
@@ -306,7 +306,7 @@ ATC:*"Air China 4115, good evening, Beijing Approach radar contact, follow AVBOX
 
 *“国航4115， 可以沿程序盲降进近跑道01，截获航道报。”*
 
-*"Air China 4115, clear ILS approach runway 01, report localizar established."*
+*"Air China 4115, follow the procedure, clear ILS approach runway 01, report localizar established."*
 
 *“国航4115， 右转航向330，可以盲降进近跑道01，完全建立报。”*
 
@@ -323,3 +323,25 @@ ATC:*"Air China 4115, good evening, Beijing Approach radar contact, follow AVBOX
 *“国航4115，雷达服务终止，联系塔台118.1，再见。”*
 
 *"Air China 4115, radar service terminated, contact tower 118.1, goodday."*
+
+#### 最终进近和落地
+
+机组首次联系塔台时，应当报告正在进近的跑道编号和进近方式：
+
+机组：*“塔台你好，国航4115，01号盲降。”*
+
+Crew:*"Tower hello, Air China 4115, ILS approaching runway 01."*
+
+管制：*“国航4115，北京塔台，地面静风，修正海压1019，01号可以落地。”*
+
+ATC:*"Air China 4115, Beijing Tower, wind calm, QNH1019, runway 01 cleared to land."*
+
+在进场较为密集时，为了更好的控制落地间隔，管制员可能给出以下指令：
+
+*“国航4115，保持速度180到接地点8海里。”*
+
+*"Air China 4115, maintain speed 180 knots until 8 miles."*
+
+*“国航4115，减速最小，前机5海里，目视前机报告。”*
+
+*"Air China 4115, reduce speed minium, traffic 5miles ahead of you, report in sight."*
