@@ -61,12 +61,13 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 
 ### Notifications
 通知选项卡上的项目允许您选择当 vPilot 不是置顶窗口时哪些行为将导致任务栏闪烁。
 
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-|Flash taskbar icon for new private message              |收到新的私信时任务栏闪烁                                                                     |
-|Flash taskbar icon for text radio message               |收到新的无线电文字消息时任务栏闪烁                                                            |
-|Flash taskbar icon for SELCAL message                   |收到新的SELCAL消息时任务栏闪烁                                                               |
-|Flash taskbar icon when disconnected from network       |vPilot 与 VATSIM连接断开时任务栏闪烁                                                         |
-|Show incoming text messages in simulator                |在模拟器中显示 vPilot 的文字消息（强烈建议文字机组开启本选项卡，该选项卡能够提高您的指令执行速度） |
+|vPilot 选项   | 中文注释   |
+| :------------------ | ------------------------------------------------------------ |
+| Flash taskbar icon for new private message       |       收到新的私信时任务栏闪烁 |
+| Flash taskbar icon for text radio message            |   收到新的无线电文字消息时任务栏闪烁 |
+| Flash taskbar icon for SELCAL message                |   收到新的SELCAL消息时任务栏闪烁 |
+| Flash taskbar icon when disconnected from network   |    vPilot 与 VATSIM连接断开时任务栏闪烁 |
+| Show incoming text messages in simulator          |      在模拟器中显示 vPilot 的文字消息（强烈建议文字机组开启本选项卡，该选项卡能够提高您的指令执行速度） |
 
 ### Fonts
 字体选项卡用于选择管制列表与文本消息的字体
