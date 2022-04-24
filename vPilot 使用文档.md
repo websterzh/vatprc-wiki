@@ -117,7 +117,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到 sim 。 如果 
 - 如果飞行器不支持 SquawkBox 集成，那么您需要手动在 vPilot 管理应答器模式，只需单击 vPilot 主窗口上的 `mode C` 按钮即可。 `mode C` 按钮绿色表示应答机已经处于 C 模式，否则则处于 Standby 模式
 - 最后一种方法是使用 sim 中的菜单 Add-ons 。当 vPilot 运行时，此菜单中会出现 `Squawk Mode C`  `Squawk Standby` 选项
 
-这三个选项也适用于 squawk ident。当您第一次联系某个频率时，管制员可能会要求您 应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求 应答机识别，您可以按飞机面板上的 ident 按钮（如果飞机具有 SquawkBox 转发器集成），或者点击 vPilot 主窗口上的 Ident 按钮，或者您可以单机 sim 菜单栏 Add-ons 中的 `Squawk Ident` 。当 vPilot 将 ident 信号发送到网络时，vPilot 主窗口上的 Ident 按钮将亮起绿色
+这三个选项也适用于 squawk ident。当您第一次联系某个频率时，管制员可能会要求您 应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求 应答机识别，您可以按飞机面板上的 ident 按钮（如果飞机具有 SquawkBox 转发器集成），或者点击 vPilot 主窗口上的 Ident 按钮，或者您可以单机 sim 菜单栏 Add-ons 中的 `Squawk Ident` 。当 vPilot 将 ident 信号发送到网络时，vPilot 主窗口上的 `Ident` 按钮将亮起绿色
 
 ## 与管制员沟通
 
