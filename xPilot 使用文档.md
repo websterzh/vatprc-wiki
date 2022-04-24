@@ -174,7 +174,15 @@ Type Code是您正在飞行的飞机的3至4个字符ICAO代码。 这将使其�
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20main%20connected.png)
 
+请注意
+
 有关使用共享驾驶舱（Observer）模式的详细信息，请参阅共享驾驶舱模式。
+
+
+
+### 由于低帧速率而断开连接
+
+VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这样做的原因是为了防止一种被称为“时间变慢”的现象，即X-Plane的模拟速度低于实时速度，这会导致飞机在雷达上的飞行速度低于其地面速度报告的速度。X-Plane执行严格的最低20 FPS，以确保模拟速率实时运行。你可以在[这里](https://www.x-plane.com/kb/the-simulators-measurement-of-time-is-slow/)阅读更多信息
 
 
 
@@ -192,8 +200,9 @@ Type Code是您正在飞行的飞机的3至4个字符ICAO代码。 这将使其�
 
 ### SELCAL
 
-如果您在连接VATSIM时指定了SELCAL（选择性呼叫）代码，管制员将能够使用该代码向您的飞机发送SELCAL警报。在标准VHF无线电没有足够的射程，而使用嘈杂的HF频率的地区进行长途飞行时，这会引起你的注意。飞行员通常会调低音量，这样他就不必听HF静电，当需要通过HF与他通话时，管制员会发送SELCAL警报以引起他的注意。
-如果收到SELCAL警报，将发出提示音，主消息区将显示一条消息提醒您。
+如果您在接入 VATSIM 时输入了 SELCAL 代码，那么管制员可以使用该代码向您的飞机发送 SELCAL 提示音。 SELCAL主要使用在嘈杂的 HF 频率。 飞行员通常会调低音量，这样他就不会受到 HF 噪音的干扰，当管制员需要通过 HF 与他交流时，管制员会发送 SELCAL 提示音以引起他的注意。 VATSIM 不开设 HF 频率，但出于现实目的，会通过VHF模拟HF频率且海洋管制员仍将模拟 SELCAL 过程
+
+如果您收到管制员发送的 SELCAL 消息，xPilot 将发出提示音并在主消息区域显示一条消息
 
 
 
