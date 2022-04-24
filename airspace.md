@@ -255,3 +255,7 @@ ATC:*"Air China 4115 contact Shanghai Approach on 120.3, goodday."*
    *"China Eastern 519, hold at EKIMU, 1.5 min right turn, maintain 3900m."*
   
 + 雷达引导。部分情况下管制员会使用雷达引导进行间隔排序。在机组收到指令后，请尽快执行。
+
+  *“东方519， 左转航向280， 由于间隔。”*
+  
+  *"China Eastern 519, turn left heading 280 for spacing."*
