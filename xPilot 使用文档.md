@@ -357,3 +357,43 @@ xPilot没有需要安装或配置的复杂或特殊模型匹配规则。 在使x
 
 每当您更改CSL配置时，都必须重新启动X-Plane才能生效。
 
+
+
+## 寻求帮助
+
+如果您在配置xPilot时遇到问题，请加入[xPilot Discord服务器](https://vats.im/xpilot-discord)。或者，你也可以在[xPilot论坛](https://forums.vatsim.net/forum/352-xpilot)上发帖。
+
+
+
+## X-Plane意外退出
+
+如果X-Plane闪退，Log.txt中的最后一行。日志通常会指示导致应用程序崩溃的原因。如果xPilot导致X-Plane闪退，日志中的最后一行。txt将以写出。
+
+ --=={This application has crashed because of the plugin: xPilot}==--
+
+每次重新启动X-Plane时，日志都会被覆盖，因此在重新启动X-Plane之前保存日志的副本非常重要。
+X-Plane通常还会在 X-Plane 11\Output\crash_reports 中创建闪退报告。
+包括事故报告和日志是非常重要的。当报告崩溃时。没有这些信息，就不可能知道X-Plane闪退的具体原因。
+
+
+
+## xPilot常见问题
+
+### 飞机雷达上看不到任何TCAS目标
+
+确保没有安装任何其他可能干扰xPilot的插件（例如XSwiftBus、XSB、X-IvAP等）
+
+
+
+### 网络错误：The server failed to respond to the authentication challenge
+
+这通常是由于您与所连接的网络服务器之间的连接不良造成的。尝试更改到其他服务器，然后重试。
+
+
+
+### 错误：Error connecting to voice server. Please check your VATSIM credentials and try again.
+
+如果您最近创建或重新激活了您的VATSIM帐户，您需要等待几分钟，以便您的帐户与服务器同步；在某些情况下，同步时长长达24小时。在同步您的帐户之前，您将无法使用语音，仅可使用文本。您还必须参加并通过**P0 : Basic VATSIM会员**考试。否则，请检查您的凭据并重试；密码区分大小写。
+
+
+
