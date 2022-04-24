@@ -11,8 +11,11 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 ## 系统要求
 
 Windows 10或更高版本 64位
+
 macOS 10.14或更高版本 64位
+
 Linux 64位
+
 X-Plane 11.50 或更高版本
 
 ## 安装X-Pilot
