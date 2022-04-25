@@ -6,28 +6,28 @@
 
 ## 目录
 
-- 系统要求
-- 安装
-- 启动 vPilot
-- 配置
-- 模型匹配
-- 创建客制化模型匹配规则
-- 模型匹配规则介绍
-- 连接到 VATSIM
-- 设置应答机
-- 与管制员沟通
-- SELCAL
-- 请求管制员信息（获取文字ATIS）
-- 提交飞行计划
-- 私信信息
-- . 命令
-- 断开与 VATSIM 的连接
-- 下载更新
-- 远程运行 vPilot
-- 共享驾驶舱（Observer）模式
-- 常见问题
-- 获取帮助
-- vPilot 最终用户许可协议
+- [系统要求](#系统要求)
+- [安装](#安装)
+- [启动 vPilot](#启动-vpilot)
+- [配置](#配置)
+- [模型匹配](#模型匹配)
+- [创建客制化模型匹配规则](#创建客制化模型匹配规则)
+- [模型匹配规则介绍](#模型匹配规则介绍)
+- [连接到 VATSIM](#连接到-vatsim)
+- [设置应答机](#设置应答机)
+- [与管制员沟通](#与管制员沟通)
+- [SELCAL](#selcal)
+- [请求管制员信息（获取文字ATIS）](#请求管制员信息获取文字atis)
+- [提交飞行计划](#提交飞行计划)
+- [私信信息](#私信信息)
+- [. 命令](#-命令)
+- [断开与 VATSIM 的连接](#断开与-vatsim-的连接)
+- [下载更新](#下载更新)
+- [远程运行 vPilot](#远程运行-vpilot)
+- [共享驾驶舱（Observer）模式](#共享驾驶舱observer模式)
+- [常见问题](#常见问题)
+- [获取帮助](#获取帮助)
+- [vPilot 最终用户许可协议](#vpilot-最终用户许可协议)
 
 ## 系统要求
 
@@ -144,9 +144,126 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 ## 模型匹配
 
+自2.0版以来，vPilot的模型匹配功能相较之前的版本已经发生了质的改变--更加的自动化了。vPilot 2.0会自动检测您电脑中已经安装的模拟器，从您模拟器的相关配置文件中找到已安装的AI机模/涂装的位置，并从中获取这些AI机模/涂装的相关信息。之后，vPilot会将获取到的信息与vPilot服务器内的已知数据库进行比对，从而确定您电脑中的哪些AI机模/涂装可以作为您连飞时对于其他航空器的模型匹配。
+
+vPilot在扫描您本地AI机模/涂装的期间，如果发现了不存在于已知数据库中的航空器类型，vPilot将会尝试使用该机模/涂装Aircraft.cfg文件内的信息去定义这个机模/涂装的类型。
+
+vPilot在您每次启动它时，都会自动检测您是否安装了新的机模/涂装，以决定是否需要重新对您本地的AI机模/涂装进行上述的扫描。
+
+当您在VATSIM连飞期间，vPilot会在您遇到其他机组时，从扫描结果中选择一个最合适的AI机涂装对该机组的航空器进行匹配。如果您本地AI机模中没有可以与之相匹配的涂装，vPilot则会使用预设好的缺省涂装进行匹配。如果需要修改缺省涂装，您可以在 `Settings` > `Model Matching` 选项卡内的 `缺省涂装`(`Default Model`)  文本框输入您希望使用的缺省涂装。
+![image](https://user-images.githubusercontent.com/25072307/165096422-c480b898-1ac6-4828-b254-a1d06849a492.png)
+
+例如，您希望使用FSX自带的塞斯纳172的蓝金色涂装作为机模匹配的缺省涂装，则只需要在文本框内输入“Cessna Skyhawk 172SP Paint1”。您输入的内容必须要与该机模Aircraft.cfg文件内相应涂装的`title`一致，如下所示：
+
+*该机模/涂装的Aircraft.cfg文件可以在`SimObjects\Airplanes\C172`目录下找到。*
+
+>[fltsim.0]  
+>title=Cessna Skyhawk 172SP Paint1  
+>sim=Cessna172SP  
+>model=  
+>panel=  
+>sound=  
+>texture=1  
+>kb_checklists=Cessna172SP_check  
+>kb_reference=Cessna172SP_ref  
+>atc_id=G-BAFM  
+>ui_manufacturer="Cessna"  
+>ui_type="C172SP Skyhawk"  
+>ui_variation=" Blue, Gold"  
+>ui_typerole="Single Engine Prop"  
+>ui_createdby="Microsoft Corporation"  
+>description="A stable and trustworthy plane, most pilots...
+
 ## 创建客制化模型匹配规则
 
+除了上述的自动匹配功能外，vPilot还给您提供了一个可供您使用vPilot数据库内不包含的航空器（例如匹配虚拟航空的涂装时），或客制化每个航空器所被匹配机模/涂装的方法。
+
+您可以在`Settings` > `Model Matching` > `Custom Rules` 页面点击 `Add Custom Rule Set(s)` 按钮，加载您的客制化模型匹配规则。您可以手动创建规则文件，也可以从网络上下载。
+
+如果您选择自己创建规则文件，您需要根据下面的模板创建一个XML文件：
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+</ModelMatchRuleSet>
+```
+
+并在第二行与第三行之间写入您的客制化模型匹配规则。
+
+规则文件的格式见下文。
+
 ## 模型匹配规则介绍
+
+下面是一段来自Ultimate Traffic 2的匹配规则：
+
+```xml
+<ModelMatchRule CallsignPrefix="BAW" TypeCode="B733" ModelName="F1UT2_733.BA.BA" />
+<ModelMatchRule CallsignPrefix="COA" TypeCode="B733" ModelName="F1UT2_733.CO.CO" />
+<ModelMatchRule CallsignPrefix="UAL" TypeCode="B733" ModelName="F1UT2_733.UA.UA" />
+<ModelMatchRule CallsignPrefix="AWE" TypeCode="B733" ModelName="F1UT2_733.US.US" />
+```
+
+以上每一条规则都包含一个 `CallsignPrefix`（呼号前缀） 、 `TypeCode`（航空器机型） 以及 `ModelName` （涂装名）。当在连线过程中遇到了新的航空器时，vPilot会逐行扫描您添加的所有规则文件，直到找到与其相匹配的规则。只有当下列两个条件全部满足时，才会被认定为匹配：
+>该航空器呼号的开头与 `CallsignPrefix` 所定义的值完全匹配。  
+>该航空器的类型也与 `TypeCode` 所定义的值完全匹配时。  
+
+随后，vPilot会将该航空器显示为这条规则中 `ModelName` 所定义的涂装。`ModelName` 的值应与该涂装在Aircraft.cfg文件内 `title` 的值一致。  
+&nbsp;
+
+除了定义呼号前缀(CallsignPrefix)以外，还可以定义以完整呼号(Callsign)为前提的规则，用来准确的定义一个特定的呼号所被匹配的涂装。在这种规则下，航空器的呼号必须完全匹配 `Callsign` 所定义的值才可以被匹配。这对于那些每个成员都拥有一个专属涂装的虚航来说是一个很实用的功能。  
+&nbsp;
+
+对用于匹配非航司的航空器（如通用航空）的规则，您可以将 `CallsignPrefix` 的值留空或完全去掉这一项。这样一来，vPilot就只会通过 `TypeCode` 对航空器进行匹配。假如您希望所有的C172都使用同一个AI机模的涂装进行匹配，则达到这个要求的规则如下：
+```xml
+<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk 172SP" />
+```
+&nbsp;
+
+您也可以通过在 `ModelName` 中添加多个涂装名对满足匹配条件的航空器进行匹配。这种情况下，vPilot会**随机**选择您所定义的涂装之一对该航空器进行模型匹配。这个功能在匹配那些在某个特定机队有多种不同涂装的航空公司时很实用（例如JetBlue以及Frontier）。定义这种规则时，每个涂装名之间必须使用 `//`进行分隔。下面是一个来自MyTraffic3D为JetBlue所作的一条规则：
+```xml
+<ModelMatchRule CallsignPrefix="JBU" TypeCode="A320" ModelName="A320 MyPaint52//A320 MyPaint82//A320 MyPaint119//A320 MyPaint120" />
+```
+&nbsp;
+
+这个功能同样适用于那些不需要对呼号进行匹配的规则。下面是一个FSX的默认匹配规则中的例子：
+```xml
+<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk 172SP//Cessna Skyhawk 172SP Paint1//Cessna Skyhawk 172SP Paint2//Cessna Skyhawk 172SP Paint3//Cessna Skyhawk 172SP Paint4//Cessna Skyhawk 172SP G1000" />
+```
+
+这条规则会不考虑呼号，随机将其中一个涂装匹配到任意一个遇到的C172上。  
+&nbsp;
+
+客制化的规则还可以通过航班号对执行代码共享航班的航空器进行匹配。下面的例子为Delta Connection和United Express在为SkyWest执飞代码共享航班时的匹配规则。
+```xml
+<ModelMatchRule CallsignPrefix="SKW" FlightNumberRange="4439-4858" TypeCode="CRJ2" ModelName="AIM CRJ200_Delta Connection_Skywest" />
+<ModelMatchRule CallsignPrefix="SKW" FlightNumberRange="9780-9784" TypeCode="CRJ2" ModelName="AIM CRJ200_Delta Connection_Skywest" />
+<ModelMatchRule CallsignPrefix="SKW" FlightNumberRange="4965-4974" TypeCode="CRJ2" ModelName="AIM CRJ200_ual skwywest nc" />
+<ModelMatchRule CallsignPrefix="SKW" FlightNumberRange="5156-5269" TypeCode="CRJ2" ModelName="AIM CRJ200_ual skwywest nc" />
+<ModelMatchRule CallsignPrefix="SKW" FlightNumberRange="5480-5659" TypeCode="CRJ2" ModelName="AIM CRJ200_ual skwywest nc" />
+<ModelMatchRule CallsignPrefix="SKW" FlightNumberRange="6190-6539" TypeCode="CRJ2" ModelName="AIM CRJ200_ual skwywest nc" />
+```
+
+从中可以发现，您可以通过多条规则来定义不同的航班号区间应当如何匹配。
+&nbsp;
+
+在您每次启动vPilot时，它还会从服务器下载一个记录了相似机型的数据库。这个数据库里包含了那些外形相近的机型及其机型代码。当vPilot在对航空器进行匹配时，如果该航空器的代码没有在规则中被写出，vPilot则会根据这个数据库选择一个使用与其相似机型的规则对它进行匹配。
+
+例如：当您遇见一架呼号为“DAL123”的B733时，并且规则表中没有同时满足其呼号前缀和机型的规则，vPilot将会检查规则表中是否含有呼号前缀为“DAL”，以及机型为“B732”或“B734”的规则。
+&nbsp;
+
+以下为vPilot在对于规则表进行搜索的逻辑步骤：
+1. 忽略所有未定义 `CallsignPrefix` 或 `Callsign` 的规则，并在余下的规则中寻找与该航空器 `CallsignPrefix`（呼号前缀） 或 `Callsign`（呼号） 完全匹配，且与其 `TypeCode`（机型） 完全匹配的规则。
+2. 忽略所有未定义 `CallsignPrefix` 或 `Callsign` 的规则，并在余下的规则中寻找与该航空器 `CallsignPrefix`（呼号前缀） 或 `Callsign`（呼号） 完全匹配，且与其 `TypeCode`（机型） 相似的规则。
+3. 忽略所有定义了 `CallsignPrefix` 或 `Callsign` 的规则，并在余下的规则中寻找与该航空器 `TypeCode`（机型） 完全匹配的规则。
+4. 忽略所有定义了 `CallsignPrefix` 或 `Callsign` 的规则，并在余下的规则中寻找与该航空器 `TypeCode`（机型） 相似的规则。
+&nbsp;
+
+以上面提到的DAL123为例：
+vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DAL”（或 `Callsign` 为“DAL123”），以及 `TypeCode` 为“B733”的规则；
+如果没有匹配的规则，vPilot则会进行第二步，即寻找 `CallsignPrefix` 为“DAL”（或 `Callsign` 为“DAL123”），以及 `TypeCode` 与“B733”相似的规则，例如“B732”或“B734”；
+如果还是没有匹配，则会进行第三步，即在所有未定义 `CallsignPrefix` 或 `Callsign` 的规则中寻找一个 `TypeCode` 为“B733”的规则；
+如果依旧没有匹配，则会进行第四步，即在所有未定义 `CallsignPrefix` 或 `Callsign` 的规则中寻找一个 `TypeCode` 与“B733”相似的规则；
+如果最终也没有找到相匹配的规则，vPilot将会使用之前所定义的缺省涂装对该航空器进行模型匹配。
 
 ## 连接到 VATSIM
 
