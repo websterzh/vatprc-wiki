@@ -13,7 +13,11 @@
 
 我们强烈建议机组在连线前先登录VATSIM在线地图，查看管制的在线情况，防止出现连线后未及时联系管制的情况。推荐的VATSIM在线地图软件有VATspy（https://vatspy.rosscarlson.dev/), VATprism(https://vatprism.org/), Simaware(https://simaware.ca/) 等。 对于iOS用户，推荐VATscope这款app。以上的应用或网站均能显示当前VATSIM主服务器所有在线的飞机和管制信息，对于更好的进行连线飞行有很大的帮助。
 
-***请注意，当管制员向你发送了类似于"Please contact me on xxx.xx”的消息时，无论连飞地图上显示你是否在其空域内，都必须立即在对应的频率联系管制员。***
+***请注意，当管制员向你发送了类似于"Please contact me on xxx.xx”的消息时，无论连飞地图上显示你是否在其空域内，都必须立即在对应的频率联系管制员。***（如下图）
+
+![contactme](https://user-images.githubusercontent.com/101052757/165074504-d1491e7a-a124-4cc2-b45e-187b87480e3a.png)
+
+
 ### 如何判断我该联系谁？
 #### 从某个机场出发
 在日常上线时，一个机场可能不会拥有全席位管制，也就意味着某些管制员会进行向下兼容的管制方式来为机组提供尽可能多的管制服务。假设在浦东机场只有浦东塔台上线，而你要进行从上海浦东前往北京首都的航线飞行，那么浦东塔台的这名管制员将会负责机组在地面上所有的放行、地面和塔台服务，相当于“一人分饰三角”。而在机组起飞后，如果没有进近或区调管制员上线，塔台管制员则会让机组“守听Unicom 122.8”，这意味着机组不再位于管制空域内而是进入了非管制空域，这时机组可以根据自身需要进行爬升和巡航，也就是所说的“自主领航”。
@@ -30,7 +34,10 @@
 #### 确认要联系的管制员
 上节已经描述过如何判断该联系哪位管制员。
 #### 收听通波/ATIS（如果有）
-ATIS全称为Automatic terminal information service（自动终端情报服务），又称自动航站情报系统、自动航站情报服务或航站自动情报广播系统等，在中国大陆简称情报通播。其是在繁忙的机场自动连续播放的讯息服务。通常在一个单独的无线电频率上进行广播，包括主要的与飞行相关的讯息，如天气、可用跑道、修正海压等信息。在模拟飞行中，通波会以一个单独的频率呈现在连飞客户端左侧的列表中，代码为ICAO代码_ATIS，如ZSPD_ATIS。收听ATIS有两种方式，一种是将机载无线电调至通波频率进行语音抄收，另一种是双击通波名称来获取文字形式的通波信息。我们更推荐采取第二种，也就是获取文字通波信息的方式。在VATPRC所管辖的机场内，通波一般包含机场运行信息、天气信息等要素。以下为一段上海浦东机场的ATIS样例：
+ATIS全称为Automatic terminal information service（自动终端情报服务），又称自动航站情报系统、自动航站情报服务或航站自动情报广播系统等，在中国大陆简称情报通播。其是在繁忙的机场自动连续播放的讯息服务。通常在一个单独的无线电频率上进行广播，包括主要的与飞行相关的讯息，如天气、可用跑道、修正海压等信息。在模拟飞行中，通波会以一个单独的频率呈现在连飞客户端左侧的列表中，代码为ICAO代码_ATIS，如ZSPD_ATIS。收听ATIS有两种方式，一种是将机载无线电调至通波频率进行语音抄收，另一种是双击通波名称来获取文字形式的通波信息。我们更推荐采取第二种，也就是获取文字通波信息的方式。（如下图）
+![atis](https://user-images.githubusercontent.com/101052757/165074646-2033eb5b-dcc6-4f46-b288-407c36a9d98c.png)
+
+在VATPRC所管辖的机场内，通波一般包含机场运行信息、天气信息等要素。以下为一段上海浦东机场的ATIS样例：
 ```
 [ZSPD] information [A], [0400] [UTC], Departure runway [16R,17L], landing runway [16L,17R], Expect ILS approach, runway [16L,17R], 
 Wind 100 degrees at 4 [m/s], variable between 070 and 140 degrees, Visibility greater than [10] kilometers, Broken [300] meters, 
@@ -43,7 +50,10 @@ will implement [RNAV] procedures.
 #### 查看管制员的ATC info
 很多管制员反映机组在首次联系时很少查看ATC info,造成了不必要的频率占用。事实上ATC info是很重要的信息，它告诉了机组联系该管制席位的一些注意事项。举一个最简单的例子，经常有机组把ZSSS_APP叫成虹桥进近，把ZGJD_APP叫成深圳进近。然而实际上这些席位的管制员在上线时都在其ATC info中明确的写出了他们的呼号该怎么念，但是很多机组并没有看ATC info的习惯。
 
-机组可以通过双击vPilot或xPilot左侧列表中的席位名称来获取该席位的ATC info。请注意，实际上线时，每个管制员的ATC info格式可能各不相同。如果对信息感到困惑，请直接向管制员咨询。以下是一些较为典型的ATC info样例：
+机组可以通过双击vPilot或xPilot左侧列表中的席位名称来获取该席位的ATC info。（如下图）
+![atcinfo](https://user-images.githubusercontent.com/101052757/165074741-39cff187-5e87-4f2e-b2b1-7576642ede0c.png)
+
+请注意，实际上线时，每个管制员的ATC info格式可能各不相同。如果对信息感到困惑，请直接向管制员咨询。以下是一些较为典型的ATC info样例：
 ```
 "Shanghai Control" CN/EN | CPDLC ZSHA
 Real Radar Correlation, Squawk Mode C When Airbourne
@@ -82,7 +92,7 @@ For charts and more info please visit www.vatprc.net
 在第二行中，除了前面提到的7800米及以上的垂直范围外，在最后还特别说明了此席位目前对于上海终端区（Shanghai TMA）提供向下兼管的管制服务。  
 也就是说，如果机组处于上海终端区内（如上海虹桥机场、上海浦东机场），则需要按照上文所提到的“向下兼容”联系PRC_FSS。  
 
-*如果机组不确定自己是否处于PRC_FSS的空域/管辖范围或延伸范围内时，最好的办法是向管制员发送私信询问。由于PRC_FSS的特殊性，以及AFV对于无线电通话的模拟，在某些区域可能无法正常通过语音联系到PRC_FSS。  
+*如果机组不确定自己是否处于PRC_FSS的空域/管辖范围或延伸范围内时，最好的办法是向管制员发送私信询问。由于PRC_FSS的特殊性，以及AFV对于无线电通话的模拟，在某些区域可能无法正常通过语音联系到PRC_FSS。*
 
 
 ### 进行联系并正确执行指令
@@ -91,6 +101,8 @@ For charts and more info please visit www.vatprc.net
 *在申请放行前，请确保您已经完成了上节中所写的首次联系前的准备工作，即确认联系对象、收听通波和查看ATC info。*
 
 当首次进入放行频率时，我们强烈建议机组先不要急着发话，而是先守听频率十几秒，确认频率的繁忙程度。如果频率不忙，再进行放行的申请。如果频率非常繁忙，请耐心等待频率空闲下来再进行发话，切忌一找到空就急着申请放行，这会直接导致机组间互相冲麦，使频率变得十分混乱，极大的降低放行效率。
+
+*尽量不要通过私聊消息申请放行。大流量环境下，管制员很有可能会遗漏文字信息。*
 
 在申请放行时，正确的表述为呼号+停机位+意图，例如：
 
@@ -115,7 +127,16 @@ For charts and more info please visit www.vatprc.net
 >*"Air China 4115, readback is correct, when ready contact ground on xxx.xx, goodday."*
 
 
-有些时候管制员会以PDC的方式发送放行信息。PDC的全称为Pre-Departure Clearance，简单来说就是放行信息的数字化形式。有关PDC的具体介绍将会在未来补充。此处仅介绍如何在VATPRC空域连飞时处理PDC放行。PDC放行一般有两种形式，一种为通过私聊信息发送的PDC信息，其会在连飞客户端的私聊信息框出现。另一种是通过数据链发送的PDC信息，一般会通过Hoppie直接在飞机的ACARS页面显示。在中国大陆的机场内，较为常见的PDC格式如下：
+有些时候管制员会以PDC的方式发送放行信息。PDC的全称为Pre-Departure Clearance，简单来说就是放行信息的数字化形式。有关PDC的具体介绍将会在未来补充。此处仅介绍如何在VATPRC空域连飞时处理PDC放行。PDC放行一般有两种形式，一种为通过私聊信息发送的PDC信息，其会在连飞客户端的私聊信息框出现。（如下图）
+
+![pdc](https://user-images.githubusercontent.com/101052757/165074860-cf57b83c-dd43-4fee-b564-d7df9b42a4b8.png)
+
+另一种是通过数据链发送的PDC信息，一般会通过Hoppie直接在飞机的ACARS页面显示。（如下图）
+
+![hoppie1](https://user-images.githubusercontent.com/101052757/165075004-4f91557f-eebb-48a6-97e0-3c5bee72e868.png)
+
+
+在中国大陆的机场内，较为常见的PDC格式如下：
 ```
 PDC BEGIN 13:10:04 CCA4115 CLRD TO ZBAA OFF 17L VIA SASAN81D SQUAWK 6037 ADT 0000 NEXT FREQ 121.900 DEP FREQ 120.300 
 ATIS A INITIAL ALT 1200M  
@@ -123,12 +144,13 @@ ATIS A INITIAL ALT 1200M
 ```
 *“PDC发布于世界协调时13时10分04秒，国航4115可以放行去ZBAA，跑道17L，SASAN81D离场，应答机6037，下一联系频率121.900，离场频率120.300，通波Alpha有效，起始高度1200m。不要直接回复本消息，请在频率121.600复述跑道编号和起始高度。”*
 
-**为了减少频率占用，请注意仔细阅读PDC信息以及其要求的复述内容。如上文中：  **
+**为了减少频率占用，请注意仔细阅读PDC信息以及其要求的复述内容。如上文中：**
 
-**`readback runway designator and initial altitude in frequency 121.600`  **
+`readback runway designator and initial altitude in frequency 121.600`  
 
-**表示此条PDC只要求飞行员向管制员复述离场跑道（Runway Designator）以及起始高度（Initial Altitude）。  **
-**若PDC中没有写出要求复述的项目，或明确写出了此条PDC不需要复述，机组则不需要向管制员复述PDC  **
+**表示此条PDC只要求飞行员向管制员复述离场跑道（Runway Designator）以及起始高度（Initial Altitude）。**
+
+**若PDC中没有写出要求复述的项目，或明确写出了此条PDC不需要复述，机组则不需要向管制员复述PDC。**
 
 
 确认抄收了正确的放行信息后，请在PDC所写的频率（一般为放行频率，样例中为121.600）复诵PDC，格式如下：
@@ -260,6 +282,11 @@ Make sure you have listened to the valid ATIS before requesting a clearance
   
   > *“东方519，在庵东进行标准等待，保持高度4500米。”*   
   > *"China Eastern 519, hold at AND as published, maintain 4500 meters."*
+
+  下图为上海终端区的一个公开等待点以及其等待程序。等待高度由ATC指定，出入该等待程序时，由ATC进行雷达引导。
+  
+  ![published-holding](https://user-images.githubusercontent.com/101052757/165076637-39691e97-444c-4d0a-a3d6-f639c45cb01a.jpg)
+
   
   非公开等待指令的标准格式为 
   
@@ -406,9 +433,9 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
   VATSIM CoC B6条规定：
   
-  > No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.
+  > *No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.*
 
-  >任何飞行活动都不可以声明自己优先于其他机组。飞行员仅可以在有管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。
+  >*任何飞行活动都不可以声明自己优先于其他机组。飞行员仅可以在有管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。*
 
 #### 联系错频率或频率无人应答
   联系错频率的情况在连飞中时常发生。我们强烈建议机组在转频前事先通过连飞客户端查找下一个频率的信息，避免联系错频率。
