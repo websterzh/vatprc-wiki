@@ -333,7 +333,7 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 > 机组：*“进近你好，国航4115，高度5400m，20海里到AVBOX，听你指挥，通波E收到。”*  
 > Crew:"*Approach, Air China 4115, maintain 5400m, 20 miles to AVBOX with you, informatin Echo copied."*
 
-这里需要注意的是，首次与进近管制员联系时需要报告当前高度、当前位置和接收到的通波编号。很多机组没有报告通波编号的习惯，虽然我们并不强制机组在首次联系进近时必须报告通波编号，但我们扔鼓励机组主动报告。
+这里需要注意的是，首次与进近管制员联系时需要报告当前高度、当前位置和接收到的通波编号。很多机组没有报告通波编号的习惯，虽然我们并不强制机组在首次联系进近时必须报告通波编号，但我们仍鼓励机组主动报告。
 
 > 管制：*“国航4115， 晚上好， 北京进近雷达看到， 使用AVBOX-9ZA进场，盲降进近跑道01，通波E，现在下到标准气压3900米保持。”*  
 > ATC:*"Air China 4115, good evening, Beijing Approach radar contact, follow AVBOX-9ZA arrival, ILS approach runway 01, information Echo is valid, now descend and maintain 3900m on standard."*
@@ -419,7 +419,7 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
   高度层转换指米制高度层和英制高度层的转换，这通常会在机组离开或进入中国大陆的飞行情报区时进行。假设有机组即将保持10700m从上海飞行情报区进入台北飞行情报区，管制员可能会给出以下指令：
   
-  > *“南方614，下到航空层340.”*  
+  > *“南方614，下到英制高度层340.”*  
   >*"China Southern 614, descend and maintain FL340(FLight level 340)."*
 
   这表示该航空器即将使用英制高度层进行飞行，机组需要设置新的航高为34000英尺。
@@ -429,7 +429,7 @@ Make sure you have listened to the valid ATIS before requesting a clearance
   >*“东方519，昆明雷达识别，上到101.”*  
   >*"China Eastern 519, Kunming Radar Identified, climb and maintain 10100 meters."*
 
-  这表示该航空器即将使用米制高度层进行飞行，机组需要设置新的航高为10100m（33100英尺），并打开ND上的米制单位显示。
+  这表示该航空器即将使用米制高度层进行飞行，机组需要设置新的航高为10100m（33100英尺），并打开PFD上的米制单位显示。
   
 #### 紧急情况
 
