@@ -94,23 +94,26 @@ For charts and more info please visit www.vatprc.net
 
 在申请放行时，正确的表述为呼号+停机位+意图，例如：
 
-> *“放行你好，国航4115，通波H已抄收，停机位502，申请放行去北京首都。” *
-
+> *“放行你好，国航4115，通波H已抄收，停机位502，申请放行去北京首都。” *  
 > *"Delivery, Air China 4115 at stand/gate 502, with information H, request clearance to Beijing Capital (Intl.) Airport."*
 
 根据放行排队的繁忙程度，管制员可能会给出“稍等放行”或“放行排队第XX个，稍等我叫你”等类似的指令，请耐心等待管制员呼叫。
 
 当管制员检查你的计划并确认无误后，将会在频率中给出语音放行或是进行PDC放行。语音放行的一段样例如下：
 
-> *“国航4115，可以按计划航路放行北京首都，使用跑道17L，SASAN81D离场，起始上高修正海压1200m，修正海压1011，应答机6021，离场频率120.3”*
-
+> *“国航4115，可以按计划航路放行北京首都，使用跑道17L，SASAN81D离场，起始上高修正海压1200m，修正海压1011，应答机6021，离场频率120.3”*  
 > *“Air China 4115, Clear to Beijing Capital (Intl.) Airport as filed, departure runway 17L, SASAN81D departure, initial altitude 1200 meters, QNH1011, squawk 6021, departure frequency 120.3”*
 
 十分建议机组在抄收放行前准备好纸和笔，确保能够及时记录下所有的放行信息。如果遇到没有听清或是有疑惑的地方，请立即报告放行管制员。抄收完放行后，需要在放行频率完整的复述所有放行信息。当放行管制员确认复述无误后，将会给出以下指令：
 
-> *“国航4115，复诵正确，准备好叫。”* 或 *“国航4115，复诵正确，准备好联系地面xxx.xx，再见。”
+> *“国航4115，复诵正确，准备好叫。”*  
+> *"Air China 4115, readback is correct, call when ready."*  
 
-> *"Air China 4115, readback is correct, call when ready."* OR *"Air China 4115, readback is correct, when ready contact ground on xxx.xx, goodday."*
+或
+
+>*“国航4115，复诵正确，准备好联系地面xxx.xx，再见。”  
+>*"Air China 4115, readback is correct, when ready contact ground on xxx.xx, goodday."*
+
 
 有些时候管制员会以PDC的方式发送放行信息。PDC的全称为Pre-Departure Clearance，简单来说就是放行信息的数字化形式。有关PDC的具体介绍将会在未来补充。此处仅介绍如何在VATPRC空域连飞时处理PDC放行。PDC放行一般有两种形式，一种为通过私聊信息发送的PDC信息，其会在连飞客户端的私聊信息框出现。另一种是通过数据链发送的PDC信息，一般会通过Hoppie直接在飞机的ACARS页面显示。在中国大陆的机场内，较为常见的PDC格式如下：
 ```
@@ -130,21 +133,17 @@ ATIS A INITIAL ALT 1200M
 
 确认抄收了正确的放行信息后，请在PDC所写的频率（一般为放行频率，样例中为121.600）复诵PDC，格式如下：
 
-> 机组：*“国航4115，复诵PDC。”*
+> 机组：*“国航4115，复诵PDC。”*  
+> Crew: *"Air China 4115, request readback PDC."*
 
-> Crew:*"Air China 4115, request readback PDC."*
+> 管制：*“请讲”*  
+> ATC: *"Go ahead."*
 
-> 管制：*“请讲”*
+> 机组：*“可以放行去北京，跑道17L，起始12.”*  
+> Crew: *"Air China 4115 is cleared to Beijing, runway 17L, initial 1200m."*
 
-> ATC:*"Go ahead."*
-
-> 机组：*“可以放行去北京，跑道17L，起始12.”*
-
-> Crew:*"Air China 4115 is cleared to Beijing, runway 17L, initial 1200m."*
-
-> 管制：*“国航4115，复诵正确，联系下一个频率，再见。”*
-
-> ATC:*"Air China 4115, readback is correct, contact next frequency, goodday"*
+> 管制：*“国航4115，复诵正确，联系下一个频率，再见。”*  
+> ATC: *"Air China 4115, readback is correct, contact next frequency, goodday"*
 
 如果机组对PDC中的放行信息有疑问，请立即通过语音联系放行管制员。
 
@@ -161,79 +160,69 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 #### 申请推开和滑行
 推开和滑行的管制服务理论上由地面管制员，或是兼管地面的上级管制员负责。申请推出开车的格式如下：
 
-> 机组：*“国航4115，机位502，申请推出开车。”*
-
+> 机组：*“国航4115，机位502，申请推出开车。”*  
 > Crew:*"Air China 4115, gate 502, request pushback and start."*
 
-> 管制：*“国航4115，可以推出开车，头朝北，跑道17L”*
-
+> 管制：*“国航4115，可以推出开车，头朝北，跑道17L”*  
 > ATC:*"Air China 4115, pushback and start up is approved, face north, runway 17L."*
 
-> 机组：*“可以推出开车，头朝北，跑道17L，国航4115.”*
-
+> 机组：*“可以推出开车，头朝北，跑道17L，国航4115.”*  
 > Crew:*"pushback and start up is approved, face north, runway 17L, Air China 4115"*
 
 有些时候，管制员不会给出推开的朝向，这意味着机组可以自行决定推开的方向，一般的参考方向是机头朝向起飞跑道位置。
 
 机组在推开完成后，应当尽可能快的完成滑行前的准备工作并且申请滑行。
 
-> 机组：*“国航4115，申请滑行”*
-
+> 机组：*“国航4115，申请滑行”*  
 > Crew:*"Air China 4115, request taxi."*
 
-> 管制：*“国航4115，滑行沿L05,B,A2前等”*
-
+> 管制：*“国航4115，滑行沿L05,B,A2前等”*  
 > ATC:*"Air China 4115, taxi via L05, B, hold short of A2."*
 
-> 机组：*“滑行沿L05,B,A2前等，国航4115”*
-
+> 机组：*“滑行沿L05,B,A2前等，国航4115”*  
 > Crew:*"taxi via L05, B, hold short of A2, Air China 4115"*
 
 这里有几个需要注意的点：
 + 请务必确认你正确抄收了所有的滑行路线并能正确执行。在地面滑错是一件很尴尬的事情，可能导致主要滑行道的拥堵甚至瘫痪。
 + 地面管制员通常会给出明确的”停止“指令，例如“A2前等”“跑道外等”，请严格执行该类指令，禁止擅自进入未经许可的地面区域。
-+ 使用英语时，搞清楚“Hold short”等指令的具体含义。"Hold short of A2"指的是在A2外等，而不是进入A2等。
++ 使用英语时，搞清楚“Hold short”等指令的具体含义。"Hold short of A2"指的是在A2外等，而不是进入A2等。如下图所示：  
+      ![hs_a2](https://user-images.githubusercontent.com/25072307/165068676-9dde80fc-25d7-4ba6-86b2-dec504c6212c.png)
+      *图中横向为A2滑行道，纵向为A滑行道。图中航空器正在A2前（外）等（没有进入A2）*
+
 + 强烈建议机组在地面滑行时使用EFB或航图等辅助工具，防止滑错。
 + CAAC规定 ***“ATC发布明确的指挥指令，机组与 ATC间的标准通话用语须简明、扼要。机组应听清并重复地面管制员滑行指令，尤其是界限性指令和跑道号，发现疑问及时证实。”*** 这句话在模拟飞行中同样适用。
 
 #### 起飞
 跑道的使用通常由塔台管制员或兼管塔台的上级管制员负责。在地面移交机组给塔台后，塔台将会指令机组进行下一步动作。
 
-> *“国航4115，滑行沿B，A1，跑道外等。”*
-
+> *“国航4115，滑行沿B，A1，跑道外等。”*  
 > *“Air China 4115, taxi via B, A1, hold short of the runway.”*
 
-> *“国航4115，滑行沿B，A1，进跑道17L等待。”*
-
+> *“国航4115，滑行沿B，A1，进跑道17L等待。”*  
 > *“Air China 4115, taxi via B, A1, line up and wait runway 17L.”*
 
-> *“国航4115，地面风170，3米秒，修正海压1011，跑道17L，可以起飞。”*
-
+> *“国航4115，地面风170，3米秒，修正海压1011，跑道17L，可以起飞。”*  
 > *“Air China 4115, surface wind 170 degrees, 3 meters per second, qnh 1011, runway 17L, cleared for takeoff.”*
 
 大多数主要机场的细则规定，航空器从等待位置到对正跑道时间应控制在 60s 以内，如航空器驾驶员无法执行上述要求应当及时通知塔台管制员（湿跑道或污染跑道除外）。此规则在模拟飞行中同样适用。由于航空器间存在尾流间隔限制，且区域管制员可能会根据航路运行情况和目的地机场运行情况给出航路间隔限制，两架飞机放飞的间隔时间可能较长，请耐心等候。
 
 飞机离地后，机组应主动报告。
 
-> 机组：*“国航4115，跑道17L离地了。”*
-
+> 机组：*“国航4115，跑道17L离地了。”*  
 > Crew:*"Air China 4115 runway 17L airbourne."*
 
-> 管制：*“国航4115，联系上海进近120.3，再见。”*
-
+> 管制：*“国航4115，联系上海进近120.3，再见。”*  
 > ATC:*"Air China 4115 contact Shanghai Approach on 120.3, goodday."*
 
 #### 离地爬升（终端区阶段）
 飞机离地后的爬升通常由进近管制员或兼管终端区的上级管制员负责。大多数机场的终端区实行雷达管制，即管制员会通过二次雷达实时监控飞机的状态并给出指令，间隔标准也按雷达间隔实行。在初次联系进近管制员时，请报告呼号、通过高度、目标高度和起飞跑道。对于机组是否应当报告应答机号，我们不做强制要求。当终端管制区包含多个机场时（如北京进近、上海进近等），起飞后首次联系进近管制员时推荐同时报告起飞的机场。具体格式如下：
 
-> *“进近你好，国航4115，浦东17L离地，通过300上12”*
-
+> *“进近你好，国航4115，浦东17L离地，通过300上12”*  
 > *"Approach, Air China 4115, Pudong runway 17L airbourne, passing 300 meters to 1200 meters."*
 
 需要注意的是，除起飞机场外，其他四个要素缺一不可，尤其是通过高度。很多机组没有报告通过高度的习惯，然而验证高度是雷达识别的一个重要步骤，即管制员必须通过你报告的当前高度来和雷达高度进行比较，以保证雷达识别的正确性。在报告高度时，机组则需要报最接近的50米整数高度（例如200米，250米，300米，350米等等）。如果机组没有报告通过高度，进近管制员会要求机组重新报告当前通过高度。只有在管制员确认信息无误后，才会给出“雷达识别”的咨询信息。
 
-> *”国航4115你好，上海进近，雷达已识别，上到标准气压6000米保持“*
-
+> *”国航4115你好，上海进近，雷达已识别，上到标准气压6000米保持“*  
 > *"Air China 4115, Shanghai Approach radar identified, climb and maintain 6000 meters on standard."*
 
 这里有几个需要注意的点：
@@ -244,54 +233,45 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 当离开终端区时，管制员会将机组移交给下一个席位（通常为区调）
 
-> *“国航4115，联系上海区调124.55，再见。”*
-
+> *“国航4115，联系上海区调124.55，再见。”*  
 > *"Air China 4115, contact Shanghai Control on 124.55, goodday."*
 
 #### 巡航
 一般在巡航阶段，区域管制员将会负责所有航路上的管制服务。通常来说，在该阶段不会有太多的指令需要执行，以下列出了几个常见的区域管制员可能发布的指令。
 + 调整马赫数。在高空巡航阶段，航空器使用马赫数而不是表速。根据间隔需要，区域管制员会调整巡航机组的马赫数以保证航路间隔正常。 
 
-  > 管制：*“国航4115， 证实马赫数？”*
-  
+  > 管制：*“国航4115， 证实马赫数？”*  
   > ATC:*"Air China 4115, confirm mach speed?"*
   
-  > 机组：*“国航4115， 当前马赫数.80”*
-  
+  > 机组：*“国航4115， 当前马赫数.80”*  
   > Crew:*"Air China 4115, current mach speed .80"*
 
   > 管制：*“国航4115，由于间隔，减马赫数到点78”*  
-  
   > ATC:*"Air China 4115, reduce mach speed .78 due to separation."*
  
 + 偏置。根据间隔需要，区域管制员会给出偏置的指令。通俗的讲，偏置就是讲航路向左或向右平移几海里。 
 
-  > 管制：*“国航4115，右偏6海里。”*
-  
+  > 管制：*“国航4115，右偏6海里。”*  
   > ATC:*"Air China 4115, make a 6 miles offset, right of track."*
   
 + 等待。等待是在航路管制中非常常见的指令，通常分为公开等待指令和非公开等待指令两种，公开等待指令指的是CAAC已经事先规定的在某个航点进行等待的标准程序，一般会在航图上标出。非公开等待指令指的是ATC自行确定等待的方向，等待高度，入航航向，每个航段飞行时间，以及等待时飞行的速度等。
 
   公开等待指令的标准格式为：
   
-  > *“东方519，在庵东进行标准等待，保持高度4500米。”* 
-  
+  > *“东方519，在庵东进行标准等待，保持高度4500米。”*   
   > *"China Eastern 519, hold at AND as published, maintain 4500 meters."*
   
   非公开等待指令的标准格式为 
   
-  > *“东方519，在EKIMU等待，左方向，入航航向320，出航段1分半钟，高度3900米。”* 
-  
+  > *“东方519，在EKIMU等待，左方向，入航航向320，出航段1分半钟，高度3900米。”*   
   > *"China Eastern 519, hold at EKIMU, left pattern, inbound course 320, one and half minute legs, maintain 3900 meters."*
   
-  > *“东方519，在 EKIMU加入等待，右方向出航段1分钟半，高度3900米。”* 
-  
+  > *“东方519，在 EKIMU加入等待，右方向出航段1分钟半，高度3900米。”*   
   > *"China Eastern 519, hold at EKIMU, 1.5 min right turn, maintain 3900m."*
   
 + 雷达引导。部分情况下管制员会使用雷达引导进行间隔排序。在机组收到指令后，请尽快执行。
 
-  > *“东方519，左转航向280，由于间隔。”*
-  
+  > *“东方519，左转航向280，由于间隔。”*  
   > *"China Eastern 519, turn left heading 280，radar vector for spacing."*
   
 #### 下高和进近前准备
@@ -303,81 +283,68 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 管制员一般会在TD前几十海里就会发布下高指令，请务必注意守听。
 
-> *“国航4115， 下到8400米保持。”*
-
+> *“国航4115， 下到8400米保持。”*  
 > *"Air China 4115, descend and maintain 8400m."*
 
 在某些时候，为了更好的掌握机组的下高情况，管制员会给出以下的限制性指令：
 
-> *“国航4115， 在AVBOX前下到5400米。”*
-
+> *“国航4115， 在AVBOX前下到5400米。”*  
 > *"Air China 4115, descend and maintain 5400m before AVBOX."*
 
 这种时候机组有两种方法执行该指令。第一种是手动调整VS窗口至合适的下降率，人工计算下降剖面。第二种是在CDU内写入航点高度限制，然后采用VNAV模式进行下高。
 
 在接近终端管制区空域时，管制员会将飞机移交给下一个管制席位。
 
-> *“国航4115， 联系北京进近120.6， 再见。”*
-
+> *“国航4115， 联系北京进近120.6， 再见。”*  
 > *"Air China 4115, contact Beijing Approach 120.6, goodday."*
 
 #### 进近（雷达管制下的终端区空域）
 进近空域相对较小，流量较密集，频率也更繁忙，因此请确保能够仔细守听频率并及时回复管制员的指令。首次联系时，请采用以下格式进行通讯：
 
-> 机组：*“进近你好，国航4115，高度5400m，20海里到AVBOX，听你指挥，通波E收到。”*
-
+> 机组：*“进近你好，国航4115，高度5400m，20海里到AVBOX，听你指挥，通波E收到。”*  
 > Crew:"*Approach, Air China 4115, maintain 5400m, 20 miles to AVBOX with you, informatin Echo copied."*
 
 这里需要注意的是，首次与进近管制员联系时需要报告当前高度、当前位置和接收到的通波编号。很多机组没有报告通波编号的习惯，虽然我们并不强制机组在首次联系进近时必须报告通波编号，但我们扔鼓励机组主动报告。
 
-> 管制：*“国航4115， 晚上好， 北京进近雷达看到， 使用AVBOX-9ZA进场，盲降进近跑道01，通波E，现在下到标准气压3900米保持。”*
-
+> 管制：*“国航4115， 晚上好， 北京进近雷达看到， 使用AVBOX-9ZA进场，盲降进近跑道01，通波E，现在下到标准气压3900米保持。”*  
 > ATC:*"Air China 4115, good evening, Beijing Approach radar contact, follow AVBOX-9ZA arrival, ILS approach runway 01, information Echo is valid, now descend and maintain 3900m on standard."*
 
 很多机组都会在管制告知进场方式时卡壳，原因是进近管制员通常会给出一大串指令，有些新飞可能手忙脚乱，记不全所有的信息。因此我们建议在抄收进场程序前准备好纸和笔，同时准备好对应的航图。落地机场的跑道运行方式在抄收通波时就已确定，而中国大陆地区很多机场的进近程序都是有规律的，即一条跑道对应一个或两个程序。因此机组可以事先“猜”到即将使用的程序编号并进行预设，在正式抄收进场信息后再进行修改。
 
 当管制完成进场排序，准备好将机组引导至最终进近航道时，会给出以下几类指令：
 
-> *“国航4115， 可以沿程序盲降进近跑道01，截获航道报。”*
-
+> *“国航4115， 可以沿程序盲降进近跑道01，截获航道报。”*  
 > *"Air China 4115, follow the procedure, clear ILS approach runway 01, report localizar established."*
 
-> *“国航4115， 右转航向330，可以盲降进近跑道01，完全建立报。”*
-
+> *“国航4115， 右转航向330，可以盲降进近跑道01，完全建立报。”*  
 > *"Air China 4115, turn right heading 330, clear ILS approach runway 01, report fully established."*
 
 当机组确认航向道建立或下滑道建立时，及时报告进近管制员：
 
-> *“国航4115， 跑道01航道建立/盲降建立。”*
-
+> *“国航4115， 跑道01航道建立/盲降建立。”*  
 > *"Air China 4115, runway 01 localizar established/fully established."*
 
 进近管制员在确认机组执行了正确的进近后，将会把飞机移交给塔台管制员。
 
-> *“国航4115，雷达服务终止，联系塔台118.1，再见。”*
-
+> *“国航4115，雷达服务终止，联系塔台118.1，再见。”*  
 > *"Air China 4115, radar service terminated, contact tower 118.1, goodday."*
 
 #### 最终进近和落地
 
 机组首次联系塔台时，应当报告正在进近的跑道编号和进近方式：
 
-> 机组：*“塔台你好，国航4115，01号盲降。”*
-
+> 机组：*“塔台你好，国航4115，01号盲降。”*  
 > Crew:*"Tower hello, Air China 4115, ILS approaching runway 01."*
 
-> 管制：*“国航4115，北京塔台，地面静风，修正海压1019，01号可以落地。”*
-
+> 管制：*“国航4115，北京塔台，地面静风，修正海压1019，01号可以落地。”*  
 > ATC:*"Air China 4115, Beijing Tower, wind calm, QNH1019, runway 01 cleared to land."*
 
 在进场较为密集时，为了更好的控制落地间隔，管制员可能给出以下指令：
 
-> *“国航4115，保持速度180到接地点8海里。”*
-
+> *“国航4115，保持速度180到接地点8海里。”*  
 > *"Air China 4115, maintain speed 180 knots until 8 miles."*
 
-> *“国航4115，减速最小，前机5海里，目视前机报告。”*
-
+> *“国航4115，减速最小，前机5海里，目视前机报告。”*  
 > *"Air China 4115, reduce speed minimum, traffic 5miles ahead of you, report in sight."* 
 
 在落地后，请从最近的快速脱离道尽快脱离，不要长时间占用跑道，这会导致不必要的间隔浪费。落地后联系地面并滑行到位的流程和前面介绍过的没有大的不同，此处省略。
@@ -386,32 +353,29 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 复飞分为两种情况，一种是机组自行决定的复飞，一种是塔台管制员指令的复飞。
 
 对于第一种复飞，标准通话格式为（以遭遇风切变为例）：
-> *“塔台，国航4115复飞，由于风切变告警。”*
 
+> *“塔台，国航4115复飞，由于风切变告警。”*  
 > *"Tower, Air China 4115 going around due to windshear."*
 
 塔台管制员会对复飞机组发布下一步指令：
->*“国航4115，沿标准复飞程序上到900米，联系进近120.6”*
 
+>*“国航4115，沿标准复飞程序上到900米，联系进近120.6”*  
 >*"Air China 4115, follow standard missed approach prodecure, climb and maintain 900 meters, contact Approach on 120.6"*
 
 #### 从无管制空域进入管制空域
 根据上文，所有从无管制空域进入管制空域的航空器都应当主动联系管制员以获得下一步指令。假设有一架飞机正从无管制的广州区域进入有管制的昆明区域，那么对应的通话如下：
 
->*“昆明你好，南方6436，高度110，听你指挥。”*
-
+>*“昆明你好，南方6436，高度110，听你指挥。”*  
 >*"Hello Kunming Control, China Southern 6436 at 11000 meters with you."*
 
 对于从无管制空域进入有管制空域的机组，对应的管制员将会重新颁发一个应答机号，机组需要将应答机号设为该编号并进行“识别”操作。
 
->*“南方6436，昆明，应答机5114并识别。”*
-
+>*“南方6436，昆明，应答机5114并识别。”*  
 >*"China Southern 6436, Kunming control, squawk 5114 and ident."*
 
 应答机识别后，管制员将给出下一步指令：
 
->*“南方6436，昆明雷达识别，保持110”*
-
+>*“南方6436，昆明雷达识别，保持110”*  
 >*"China southern 6436, Kunming radar contact, maintain 11000 meters."*
 
 ### 其他情况下的联系
@@ -419,30 +383,29 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
   在机组离开管制空域进入无管制空域时，管制员会给出脱波守听unicom的指令。注意这里的指令是“守听”，这意味着机组只需要将机载无线电频率调整至122.8，不需要进行首次联系的通报，因为在UNICOM内是没有管制的。有关UNICOM具体的使用规范，参见VATSIM CoC.
   
-  >*“国航4115，离开管制空域，无后续管制服务，脱波守听Unicom 122.8，再见。”*
-  
+  >*“国航4115，离开管制空域，无后续管制服务，脱波守听Unicom 122.8，再见。”*  
   >*"Air China 4115, leaving my airspace, no more ATC service, monitor unicom 122.8, goodday."*
 
 #### 高度层转换
 
   高度层转换指米制高度层和英制高度层的转换，这通常会在机组离开或进入中国大陆的飞行情报区时进行。假设有机组即将保持10700m从上海飞行情报区进入台北飞行情报区，管制员可能会给出以下指令：
   
-  > *“南方614，下到航空层340.”*
-
+  > *“南方614，下到航空层340.”*  
   >*"China Southern 614, descend and maintain FL340(FLight level 340)."*
 
   这表示该航空器即将使用英制高度层进行飞行，机组需要设置新的航高为34000英尺。
   
   假设有机组即将保持33000英尺从仰光飞行情报区进入昆明飞行情报区，管制员在首次联系时会给出以下指令：
   
-  >*“东方519，昆明雷达识别，上到101.”*
-
+  >*“东方519，昆明雷达识别，上到101.”*  
   >*"China Eastern 519, Kunming Radar Identified, climb and maintain 10100 meters."*
 
   这表示该航空器即将使用米制高度层进行飞行，机组需要设置新的航高为10100m（33100英尺），并打开ND上的米制单位显示。
   
 #### 紧急情况
+
   VATSIM CoC B6条规定：
+  
   > No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.
 
   >任何飞行活动都不可以声明自己优先于其他机组。飞行员仅可以在有管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。
