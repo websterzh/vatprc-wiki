@@ -24,18 +24,18 @@
 P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内容不清楚的飞友们可至VATPRC官方网站的[RVSM空域](https://www.vatprc.net/rvsm)部分进行学习。
 ## 3.这航图可以，爷爱了，给爷来一个订阅地址！
 目前主流的航图供应商有：Navigraph和Aerosoft两家，他们分别提供Jeppesen和Lido航图，并且各自提供了对应的导航数据。（Navigraph甚至还有可用于飞行计划制作的Simbrief）
->Navigraph订阅：
+>［Navigraph订阅](https://navigraph.com/products/subscriptions)：
 >
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Navigraph%20Subscription.jpg)
 >
 >Navigraph仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付，若无以上两种支付方式，可以通过国内的[淘宝代充](https://item.taobao.com/item.htm?spm=a230r.1.14.16.7ea122e5fLrDdd&id=629121241858&ns=1&abbucket=20#detail)进行充值。（***无任何利益相关，仅提供国内分流渠道***）
 
->Aerosoft订阅：
+>[Aerosoft订阅](https://www.aerosoft.com/en/flight-simulation/popular-products/navdatapro/)
 > 
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AS%20S1.jpg)
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AS%20S2.jpg)
 >
->Aerosof也仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付，截至发稿前未找到国内有相关订阅服务的代充商家
+>Aerosoft也仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付，截至发稿前未找到国内有相关订阅服务的代充商家
 
 >China AIP
 >
@@ -44,7 +44,8 @@ P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Pilot%20Center%20Charts.jpg)
 ## 4.爷搞来航图啦！嗯？这都是啥啊？？
 没错，一位飞行员不光得有航图，还得会看航图。那么航图要怎么看呢？
-此处我们以China AIP为例，分 机场部分 和仪表部分 对厦门高崎国际机场的航图进行说明。
+此处我们以China AIP为例，分 机场部分 和 仪表部分 对厦门高崎国际机场的航图进行说明。
+######机场部分
 厦门高崎机场配有以下航图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM%20ALL.jpg)
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM%20ALL-1.jpg)
@@ -52,6 +53,15 @@ P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内
 那么现在我们就为大家讲解一下机场图
 首先我们打开ADC（Aerodrome Chart，机场图），以下为翻译
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM-1.jpg)
+当熟悉了机场图的结构之后，我们再来看APDC（AIRCRAFT PARKING CHART)就会简单很多了。
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM-2.jpg)
+这里我们需要注意的是，由于各个制图者的思路和机场的大小各有差异，部分机场配有的停机位图并不包含全部的滑行道。例如：丽江三义机场的机场图有机场的所有滑行道信息，而停机位图只有停机位信息。
+所以，**当管制给出滑行指令时，请遵照机场图中的滑行道进行滑行。若你的地景与管制员所发布的指令不匹配时，请立即向管制员申请引导滑行（Progressive Taxi）**
+相关用语摘录如下：
+>塔台，白鹭8373，我们的地景与航图不匹配，申请滑行指引。
+>Tower, Xiamen Air 8373, our scenery is different from the chart, request for progressive taxi.
+接下来的一张就是机场周边的障碍物信息图，在模拟飞行中因为大部分的地景都没有周边的机场建模，即使有也与航图不符，故在此不做介绍。
+对于机场部分，也就是地上的两张航图的介绍就到此结束了，你也可以在飞行员中心寻找其他机场的地面图进行解读。
 ***
 注释:
 (1)道面强度，这里我引用[搜狐HIA机坪之窗](https://m.sohu.com/a/191312533_760717/?pvid=000115_3w_a)对道面强度相关的介绍
