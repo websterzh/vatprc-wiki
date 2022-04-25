@@ -50,7 +50,7 @@ VATSIM会员在任何情况下，都不能与其他人共享自己的账号。�
 ### A4(a)
 >During the registration process with VATSIM, you must provide your real full name. Nicknames, callsigns or abbreviations are not permitted to be associated with a member’s registered account. VATSIM reserves the right, in its discretion, to require proof of real name and proof of age from a member.
 
-在注册成为VATSIM会员的过程中，必须使用真实的全名。会员账号中的姓名不可以使用昵称，呼号或姓名缩写。VATSIM保留其要求会员提供可以证明其真实姓名及年龄的文件的权利。  
+在注册成为VATSIM会员的过程中，必须使用完整的真实姓名。会员账号中的姓名不可以使用昵称，呼号或姓名缩写。VATSIM保留其要求会员提供可以证明其真实姓名及年龄的文件的权利。  
 
 ### A4(b)
 >Members shall connect to VATSIM using only one of the following name conventions:
@@ -62,7 +62,7 @@ VATSIM会员在任何情况下，都不能与其他人共享自己的账号。�
 
 会员在连接到VATSIM连飞网络时需要使用下列名称组合之一：  
 
-+ (1) 会员在注册时所提交的真实的全名，如：Joseph Smith。
++ (1) 会员在注册时所提交的完整真实姓名，如：Joseph Smith。
 + (2) 会员名字的合理缩写，以及会员的姓，如：Joe Smith。
 + (3) 会员的名字（不含姓），如：Joseph。
 + (4) 会员名字的合理缩写（不含姓），如：Joe。
@@ -76,7 +76,7 @@ VATSIM会员在任何情况下，都不能与其他人共享自己的账号。�
 ### A6
 >A member may register for and hold only one VATSIM account.
 
-会员仅可注册及使用一个VATSIM账号。（或：会员不可以注册或使用多个VATSIM账号）  
+会员仅可注册及拥有一个VATSIM账号。（或：会员不可以注册或拥有多个VATSIM账号）  
 
 ### A7
 >A7 - A member shall only use software approved by VATSIM to connect to, or interface with the network. (https://www.vatsim.net/documents/approved-software) A member shall become familiar with the basic use of these programs prior to logging on to the VATSIM network.
