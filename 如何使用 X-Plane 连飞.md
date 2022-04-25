@@ -108,8 +108,7 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 下载[Avitab](https://github.com/fpw/avitab/releases/tag/v0.4.8)
 
 
-#### 如何安装Avitab
-
+**如何安装Avitab**
 下载最新版本的Avitab
 解压文件并将文件夹移动到`X-Plane/Resources/Plugins`目录中
 启动X-Plane
@@ -119,11 +118,11 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 ### Better Pushback
 一个X-Plane 11飞行模拟器的后推插件。它提供俯视图来规划后推路线，当然，它也可以把你向前拖，或者执行任意复杂的推回操作。为了增加沉浸感，它可以用各种语言和口音与你交谈，模拟世界各地的地面工作人员。
 
-#### 如何安装Better Pushback
+**如何安装Better Pushback**
 下载最新版本的[Better Pushback](https://github.com/skiselkov/BetterPushbackC/releases)
 解压文件并将文件夹移动到`X-Plane/Resources/Plugins`目录中
 
-#### 如何使用Better Pushback
+**如何使用Better Pushback**
 在plugins菜单中找到Better Pushback
 
 + Pre-Plan pushback 设置后推路线
