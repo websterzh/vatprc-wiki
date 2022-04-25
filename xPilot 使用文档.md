@@ -246,6 +246,10 @@ VATSIM上的每个管制员都维护其管制席信息（或文本ATIS）。要�
 
 您必须使用My Vatsim飞行计划服务网站提交飞行计划。 如果您单击客户端中的`Flight Plan`按钮，则默认网络浏览器将打开到My Vatsim网站。
 
+您将会看到如下界面
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/Flightplan.png)
+
 
 
 以下为[Flight Plan](https://my.vatsim.net/pilots/flightplan) 界面的中文释义：
