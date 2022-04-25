@@ -1,6 +1,6 @@
 # xPilot 使用文档
 
-xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，以便您可以在网络上飞行，并实时接收虚拟空中交通管制服务。
+xPilot是一个X-Plane机组客户端，可以让您连接到VATSIM网络，以便您可以在网络上飞行，并实时接收虚拟空中交通管制服务。
 
 本文档翻译自 [xPilot官方文档](https://beta.xpilot-project.org/#/?id=what-is-xpilot)
 
