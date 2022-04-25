@@ -25,6 +25,33 @@
 
 vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一个免费软件。
 
+# 如何使用 P3D 连飞
+
+欢迎您阅读本教程。
+
+本教程旨在帮助您更好地使用 P3D 在 VATSIM 进行连飞，提升您的连飞体验，享受连飞带来的乐趣。
+
+## 目录
+
+1. 连飞软件
+   - 下载
+   - 安装
+   - 设置
+   - 使用
+2. 映射插件
+   - 简介
+   - 下载
+   - 安装
+   - 设置
+3. 机模
+   - 推荐机模
+   - 简单教程
+4. 地景
+
+## 连飞软件
+
+vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一个免费软件。
+
 本教程只介绍了 vPilot 的基本操作。您可以通过阅读 [vPilot 官方文档](https://vpilot.rosscarlson.dev/Documentation)或[本 wiki 中的 vPilot 官方文档翻译](https://github.com/websterzh/vatprc-wiki/blob/vPilot/vPilot%20使用文档.md)以获取更详细的信息。
 
 ### 下载
@@ -48,13 +75,19 @@ vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一�
 
 ## 映射插件
 
+不知您在连飞时有没有困惑过：为什么其他机组在您的模拟器中不是 CRJ 700 就是 Airbus 321？其实这就说明您的模拟器中并未安装或缺失部分映射机模包。
 
-
-与用于 X-Plane 平台连飞的 xPilot 软件不同的是，vPilot 软件并没有自带映射机模包，所以您需要手动安装映射机模插件。在此，我们推荐您使用Alpha India Group出品的AI Manager进行
+与用于 X-Plane 平台连飞的 xPilot 软件不同的是，vPilot 软件并没有自带映射机模包，所以您需要手动安装映射机模插件。在此，我们推荐您使用 Alpha India Group 出品的 AI Manager 进行映射机模的下载与安装。
 
 ### 简介
 
+AI Manager 是一个目前市面上相对较为优秀的游戏内 AI 交通安装和管理插件，支持 FSX, P3D 和MSFS，适配众多免费和收费的 AI 机模，并能够自动从各大涂装网站下载安装涂装，还有众多功能等待您去探索。
+
+AI Manager 内置了 One Click Installer (OCI)，一个让您只需点几下鼠标即可轻松安装一个航空公司的 AI 交通（包括飞机模型、涂装、飞行计划等）的傻瓜式安装程序。OCI 允许用户选择安装在本地的航空公司，也会定期更新模型、涂装以及 AI 航班飞行计划以为您带来更好的体验。
+ 
 ### 下载
+
+进入[官网下载页面](https://www.alpha-india.net/ai-manager/)，￼找到 `Downloads` 区域，点击您想下载的版本即可下载 AI Manager。
 
 ### 安装
 
