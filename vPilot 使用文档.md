@@ -87,7 +87,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 字体选项卡用于选择管制列表与文本消息的字体。
 ### Audio
 
-![image](https://user-images.githubusercontent.com/25072307/165088698-cefb4252-8211-4753-b063-4b7af0570bee.png)
+![QQ图片20220425144743](https://user-images.githubusercontent.com/104274235/165035543-58267466-866d-48cf-b564-0561be237d7b.png)
 
 在这里，您可以选择您希望使用的麦克风设备，以及用作收听管制和其他飞行员的音频的设备。 如果设备尚未插入，您需要关闭 `settings` 窗口，插入设备，然后重新打开 `settings` 窗口。
 
