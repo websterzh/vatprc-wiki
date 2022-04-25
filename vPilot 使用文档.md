@@ -53,6 +53,7 @@
 第一次运行 vPilot 时，您将看到一个窗口弹出，该消息表明您尚未完全配置 vPilot，单击 `是(Y)` 打开设置窗口并配置 vPilot。
 
 vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 如果模拟器尚未运行，它将每 10 秒尝试一次，并在最终建立连接时在主消息区域显示一条消息（以 Lockheed Martin Prepar3D v5为例）。
+
 ![QQ图片20220425135712](https://user-images.githubusercontent.com/104274235/165033579-de11e382-795c-4cf5-a2fc-ffdb2ddfac0c.png)
 
 
@@ -139,25 +140,33 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 为了与管制员建立通信，需要在飞机的无线电面板中调整 `COM1` 或 `COM2` 无线电频率，同时激活无线电发送和接收开关。在 vPilot 主窗口的右上角，当该 COM 无线电激活发送和接收时，您将看到 `TX/RX` 变为白色。
 
 如果您连接到语音服务器，那么频率将显示为蓝色。否则它们将会是白色。
+
 ![QQ图片20220425140134](https://user-images.githubusercontent.com/104274235/165034000-c90fba17-af49-4d97-a65c-d76af78748f8.png)
 
 当接入语音且您在您所在的频率上发送或接收语音时，`TX/RX` 会亮起。
+
 ![QQ图片20220425141346](https://user-images.githubusercontent.com/104274235/165034041-08e4ff94-7be9-491e-9b94-ed5fae7ddcd4.png)
+
 ![QQ图片20220425141533](https://user-images.githubusercontent.com/104274235/165034056-e190bf0f-210b-47b2-9a7b-8bb230b61a72.png)
 
 您可以用 `COM1` 上接入一个管制员频率，用 `COM2` 上接入另一个管制员频率，并且您可以同时连接到多个管制员频率，但一次只能在其中一个管制员频率发送音频。
+
 ![QQ图片20220425140306](https://user-images.githubusercontent.com/104274235/165033810-5867ee34-41f5-4928-b7dc-699d9828b8fb.png)
+
 ![QQ图片20220425140320](https://user-images.githubusercontent.com/104274235/165033835-76d083c1-39a2-453c-9e90-6a3b28b2e241.png)
 
 如果要通过文字消息与管制员通信，请确保您已选定 vPilot 主窗口，在消息区域底部的文本栏中输入您的消息，然后按 Enter 发送您的消息。您可以在任何 COM 频率上以文本形式发送您的消息。
 
 收到的的文本消息显示在主消息区域中。如果您正在收听多个 COM 频率，则文本消息将以接收的其的频率作为前缀。
+
 ![QQ图片20220425143136](https://user-images.githubusercontent.com/104274235/165033786-aa707147-784e-42a8-bddc-66c5aafcdbbc.png)
 
 如果接收的文本消息专门针对您，则会发出提示音并且消息以白色显示。针对其他飞行员（或特别针对任何人）的文本无线电消息将以灰色显示。
+
 ![QQ图片20220425143422](https://user-images.githubusercontent.com/104274235/165033769-114cd8a6-bbbe-49b3-a732-2c5e2ef1ab0e.png)
 
 最后这很重要！！！您的航空器必须通电且在无线电面板激活收发按钮才能使通讯正常工作。如果您的航空电子设备未通电或者收发按钮未激活，则两个 COM 无线电的 TX 和 RX 灯将以灰色显示。
+
 ![QQ图片20220425143526](https://user-images.githubusercontent.com/104274235/165033742-cff5b8b5-3980-4ac0-a55c-0e7b010bb00d.png)
 
 ## SELCAL
