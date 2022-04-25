@@ -67,6 +67,24 @@ For Charts and more info please visit www.vatprc.net
 
 ~~第三段是给VATPRC打广告~~
 
+
+有些时候，机组可能会发现在线管制员列表中出现了一个不是很常见的呼号：PRC_FSS。  
+PRC_FSS是一个经VATSIM批准的飞行服务站，呼号为“北京飞服(Beijing Control)”。PRC_FSS的水平范围覆盖北京、沈阳、上海、广州、武汉、昆明、兰州、乌鲁木齐、三亚共计9个情报区。  
+通常情况下，PRC_FSS的垂直范围为7800米及以上：也就是说，只要机组的高度在7800米以下，不论是放行、滑行、起飞还是落地，都不需要联系PRC_FSS。  
+
+在少数情况下，PRC_FSS可能会酌情向下延伸自己的垂直范围，例如下面的ATC Info中所示：  
+
+```
+Callsign Beijing Feifu / Beijing Control
+Cover Mainland China ALL ACC 7800Metres and above, provide top-down service for Shanghai TMA
+For charts and more info please visit www.vatprc.net
+```
+在第二行中，除了前面提到的7800米及以上的垂直范围外，在最后还特别说明了此席位目前对于上海终端区（Shanghai TMA）提供向下兼管的管制服务。  
+也就是说，如果机组处于上海终端区内（如上海虹桥机场、上海浦东机场），则需要按照上文所提到的“向下兼容”联系PRC_FSS。  
+
+*如果机组不确定自己是否处于PRC_FSS的空域/管辖范围或延伸范围内时，最好的办法是向管制员发送私信询问。由于PRC_FSS的特殊性，以及AFV对于无线电通话的模拟，在某些区域可能无法正常通过语音联系到PRC_FSS。  
+
+
 ### 进行联系并正确执行指令
 由于联系管制员存在多种情形，接下来会分条进行描述。
 #### 申请放行
@@ -76,17 +94,17 @@ For Charts and more info please visit www.vatprc.net
 
 在申请放行时，正确的表述为呼号+停机位+意图，例如：
 
-> *“放行你好，国航4115，停机位502，申请放行去北京。” *
+> *“放行你好，国航4115，通波H已抄收，停机位502，申请放行去北京首都。” *
 
-> *"Delivery, Air China 4115 at 502, request clearance to Beijing."*
+> *"Delivery, Air China 4115 at stand/gate 502, with information H, request clearance to Beijing Capital (Intl.) Airport."*
 
 根据放行排队的繁忙程度，管制员可能会给出“稍等放行”或“放行排队第XX个，稍等我叫你”等类似的指令，请耐心等待管制员呼叫。
 
 当管制员检查你的计划并确认无误后，将会在频率中给出语音放行或是进行PDC放行。语音放行的一段样例如下：
 
-> *“国航4115，可以按计划航路放行北京，使用跑道17L，SASAN81D离场，起始上高修正海压1200m，修正海压1011，应答机6021，离场频率120.3”*
+> *“国航4115，可以按计划航路放行北京首都，使用跑道17L，SASAN81D离场，起始上高修正海压1200m，修正海压1011，应答机6021，离场频率120.3”*
 
-> *“Air China 4115, Clear to Beijing as filed, departure runway 17L, SASAN81D departure, initial altitude 1200 meters, QNH1011, squawk 6021, departure frequency 120.3”*
+> *“Air China 4115, Clear to Beijing Capital (Intl.) Airport as filed, departure runway 17L, SASAN81D departure, initial altitude 1200 meters, QNH1011, squawk 6021, departure frequency 120.3”*
 
 十分建议机组在抄收放行前准备好纸和笔，确保能够及时记录下所有的放行信息。如果遇到没有听清或是有疑惑的地方，请立即报告放行管制员。抄收完放行后，需要在放行频率完整的复述所有放行信息。当放行管制员确认复述无误后，将会给出以下指令：
 
@@ -101,6 +119,14 @@ ATIS A INITIAL ALT 1200M
 **DO NOT reply to this message please readback runway designator and initial altitude in frequency 121.600**
 ```
 *“PDC发布于世界协调时13时10分04秒，国航4115可以放行去ZBAA，跑道17L，SASAN81D离场，应答机6037，下一联系频率121.900，离场频率120.300，通波Alpha有效，起始高度1200m。不要直接回复本消息，请在频率121.600复述跑道编号和起始高度。”*
+
+**为了减少频率占用，请注意仔细阅读PDC信息以及其要求的复述内容。如上文中：  **
+
+**`readback runway designator and initial altitude in frequency 121.600`  **
+
+**表示此条PDC只要求飞行员向管制员复述离场跑道（Runway Designator）以及起始高度（Initial Altitude）。  **
+**若PDC中没有写出要求复述的项目，或明确写出了此条PDC不需要复述，机组则不需要向管制员复述PDC  **
+
 
 确认抄收了正确的放行信息后，请在PDC所写的频率（一般为放行频率，样例中为121.600）复诵PDC，格式如下：
 
