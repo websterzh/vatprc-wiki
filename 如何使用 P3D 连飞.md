@@ -25,33 +25,6 @@
 
 vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一个免费软件。
 
-# 如何使用 P3D 连飞
-
-欢迎您阅读本教程。
-
-本教程旨在帮助您更好地使用 P3D 在 VATSIM 进行连飞，提升您的连飞体验，享受连飞带来的乐趣。
-
-## 目录
-
-1. 连飞软件
-   - 下载
-   - 安装
-   - 设置
-   - 使用
-2. 映射插件
-   - 简介
-   - 下载
-   - 安装
-   - 设置
-3. 机模
-   - 推荐机模
-   - 简单教程
-4. 地景
-
-## 连飞软件
-
-vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一个免费软件。
-
 本教程只介绍了 vPilot 的基本操作。您可以通过阅读 [vPilot 官方文档](https://vpilot.rosscarlson.dev/Documentation)或[本 wiki 中的 vPilot 官方文档翻译](https://github.com/websterzh/vatprc-wiki/blob/vPilot/vPilot%20使用文档.md)以获取更详细的信息。
 
 ### 下载
