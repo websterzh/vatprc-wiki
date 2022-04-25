@@ -176,6 +176,8 @@ Microphone Device下的颜色条 请确保您的音量在**绿色**范围内 蓝
 
 要连接到Vatsim，请单击xPlot上方的 `CONNECT` 按钮。 您将看到连接窗口。 需要填写呼号和飞机ICAO代码。 SELCAL代码为选填项。
 
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20before%20connect.png)
+
 Type Code是您正在飞行的飞机的3至4个字符ICAO代码。 这将使其他Vatsim用户可以在其模拟器中看到您作为正确的飞机类型。 xPilot会根据您在Type Code中键入的内容建议代码。 您可以通过ICAO代码，飞机模型或制造商进行搜索，xPilot将为您提供供您选择的结果列表。
 
 如果填写了无效的飞机ICAO代码，xPilot将发出警告消息，提示您确认您的选择。 您可以继续使用未知ICAO代码连接。但是，其他用户可能无法在模拟器中看到您的飞机。
@@ -216,6 +218,8 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 为了与控制器进行通信，只需使用COM1或COM2收音机在飞机无线电面板中调整控制器的频率即可。无线电还必须选择发射和接收。在xPilot客户端窗口左上方的无线电面板，当该COM启用传输和接收时，TX/RX标签将变白。
 
 在下面的示例中，COM1频率为122.800 启用COM1进行发送和接收，如白色TX/RX指示器所示。 COM2传输和接收则被关闭。
+
+**请注意，所有管制员指令应当在`Messages`窗口回复,请勿在私聊窗口回复。**
 
 ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/COM1%20TX%20RX.png)
 
@@ -260,18 +264,18 @@ VATSIM上的每个管制员都维护其管制席信息（或文本ATIS）。要�
 
 xPilot支持以下点命令，可以在任何选项卡中的消息历史记录下方输入命令行中。
 
-| 命令                | 描述                                                         |
-| ------------------- | ------------------------------------------------------------ |
-| `.chat <Callsign> ` | 打开一个新的私聊信息聊天选项卡。 您可以指定要发送的初始消息字符串。你也可以使用 `.msg` |
-| `.clear`            | 清除当前选项卡的内容                                         |
-| `.atis <Callsign>`  | 请求指定管制席位的信息或者ATIS。                             |
-| `.wx <Station>`     | 请求指定机场的METAR。您也可以使用 `.metar`                   |
-| `.wallop <Message>` | 向与网络连接的所有Vatsim SUP发送“ wallop”。                  |
-| `.x <Squawk-Code>`  | 将您的应答器设置为指定的应答机代码。 你也可以使用 `.xpdr`, `.xpndr`  `.squawk` |
-| `.com1 <Frequency>` | 将COM1无线电设置为指定的频率。                               |
-| `.com2 <Frequency>` | 将COM2无线电设置为指定的频率。.                              |
-| `.rx com# On/Off`   | 切换在指定的COM无线电上接收。 例如：`.rx com1 on`            |
-| `.tx com#`          | 启用COM1或COM2无线电进行传输。 例如： `.tx com2`             |
+| 命令                 | 描述                                                         |
+| -------------------- | ------------------------------------------------------------ |
+| `.chat <Callsign> `  | 打开一个新的私聊信息聊天选项卡。 您可以指定要发送的初始消息字符串。你也可以使用 `.msg` |
+| `.clear`             | 清除当前选项卡的内容                                         |
+| `.atis <Callsign>`   | 请求指定管制席位的信息或者ATIS。                             |
+| `.wx <Airport ICAO>` | 请求指定机场的METAR。您也可以使用 `.metar`                   |
+| `.wallop <Message>`  | 向与网络连接的所有Vatsim SUP发送“ wallop”。                  |
+| `.x <Squawk-Code>`   | 将您的应答器设置为指定的应答机代码。 你也可以使用 `.xpdr`, `.xpndr`  `.squawk` |
+| `.com1 <Frequency>`  | 将COM1无线电设置为指定的频率。                               |
+| `.com2 <Frequency>`  | 将COM2无线电设置为指定的频率。.                              |
+| `.rx com# On/Off`    | 切换在指定的COM无线电上接收。 例如：`.rx com1 on`            |
+| `.tx com#`           | 启用COM1或COM2无线电进行传输。 例如： `.tx com2`             |
 
 
 
@@ -436,6 +440,5 @@ X-Plane通常还会在  `X-Plane 11\Output\crash_reports` 中生成X-Plane闪退
 ### 错误：Error connecting to voice server. Please check your VATSIM credentials and try again.
 
 如果您最近创建或重新激活了您的VATSIM帐户，您需要等待几分钟，以便您的帐户与服务器同步；在某些情况下，同步时长长达24小时。在同步您的帐户之前，您将无法使用语音，仅可使用文本。您还必须参加并通过**P0 : Basic VATSIM会员**考试。否则，请检查您的凭据并重试；密码区分大小写。
-
 
 
