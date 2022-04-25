@@ -387,3 +387,46 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 >*“南方6436，昆明雷达识别，保持110”*
 
 >*"China southern 6436, Kunming radar contact, maintain 11000 meters."*
+
+### 其他情况下的联系
+#### 离开管制区域
+
+  在机组离开管制空域进入无管制空域时，管制员会给出脱波守听unicom的指令。注意这里的指令是“守听”，这意味着机组只需要将机载无线电频率调整至122.8，不需要进行首次联系的通报，因为在UNICOM内是没有管制的。有关UNICOM具体的使用规范，参见VATSIM CoC.
+  
+  >*“国航4115，离开管制空域，无后续管制服务，脱波守听Unicom 122.8，再见。”*
+  
+  >*"Air China 4115, leaving my airspace, no more ATC service, monitor unicom 122.8, goodday."*
+
+#### 高度层转换
+
+  高度层转换指米制高度层和英制高度层的转换，这通常会在机组离开或进入中国大陆的飞行情报区时进行。假设有机组即将保持10700m从上海飞行情报区进入台北飞行情报区，管制员可能会给出以下指令：
+  
+  > *“南方614，下到航空层340.”*
+
+  >*"China Southern 614, descend and maintain FL340(FLight level 340)."*
+
+  这表示该航空器即将使用英制高度层进行飞行，机组需要设置新的航高为34000英尺。
+  
+  假设有机组即将保持33000英尺从仰光飞行情报区进入昆明飞行情报区，管制员在首次联系时会给出以下指令：
+  
+  >*“东方519，昆明雷达识别，上到101.”*
+
+  >*"China Eastern 519, Kunming Radar Identified, climb and maintain 10100 meters."*
+
+  这表示该航空器即将使用米制高度层进行飞行，机组需要设置新的航高为10100m（33100英尺），并打开ND上的米制单位显示。
+  
+#### 紧急情况
+  VATSIM CoC B6条规定：
+  > No flight may declare itself to have priority over another. Pilots are permitted to declare in-flight emergencies only when under air traffic control. If, for any reason, air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Pilots are not permitted to simulate any unlawful act including, but not limited to, declaring a hijack by any method, including entering a transponder code of 7500.
+
+  >任何飞行活动都不可以声明自己优先于其他机组。飞行员仅可以在有管制空域内宣告紧急情况。不论出于任何原因，管制员有权要求飞行员终止其紧急情况。此时飞行员应立刻中止其对于紧急情况的模拟，或断开与VATSIM的连接。飞行员在任何情况下都不得模拟任何非法的行为，包括但不限于以任何方式（如将应答机调至7500）宣告劫机/被劫机。
+
+#### 联系错频率或频率无人应答
+  联系错频率的情况在连飞中时常发生。我们强烈建议机组在转频前事先通过连飞客户端查找下一个频率的信息，避免联系错频率。
+  
+  由于某些原因，机组可能会遇到语音呼叫但频率无人应答的情况，这通常是网络环境较差或是AFV模拟真实无线电限制的原因。当无人应答时，请尝试用文字的方式联系管制员。如果语音和文字都联系不到管制员，请通过.wallop指令联系在线的SUP寻求帮助。
+  
+#### 雷达服务终止（ADS-B服务终止）
+  CAAC规定，当雷达管制员要把某架航空器的管制权移交给非雷达管制员时，实施移交前要确保该航空器与任何其它受管制航空器之间具有非雷达间隔。雷达管制服务中断或终止时应当立即通知航空器。这就是为什么进近管制员在将航空器移交给塔台时会加上一句“雷达服务终止”（在ADS-B管制区为“ADS-B服务终止”）。有些时候在区调管制员间相互移交时也会报告一句“雷达服务中止”，这意味着当前区域管制室提供的雷达服务中止，接下来的雷达管制服务将由另一个区域管制室提供。
+  
+#### 待补充
