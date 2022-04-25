@@ -61,8 +61,14 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 要配置 vPilot，请单击 Settings 按钮。 您将看到如图所示的画面。
 ### Network
+
+![QQ图片20220425144724](https://user-images.githubusercontent.com/104274235/165035373-6e173d09-fe32-437a-8899-5c2920594bb9.png)
+
 在本页，您只需输入您的 VATSIM CID/密码、您的注册名和您的家乡机场，并且选择您要连接的 VATSIM 服务器，您因选择在您网络环境下连接最稳定的服务器，您将能够看到连接到任何一个服务器上的其他飞行员和管制员，各服务器都是相互关联的。
 ### Notifications
+
+![QQ图片20220425144731](https://user-images.githubusercontent.com/104274235/165035406-179ef622-ea14-4beb-8b89-9f3214e06517.png)
+
 此选项卡可以选择在 vPilot 不在置顶状态时哪些行为可以使任务栏闪烁。
 
 |vPilot 选项   |中文注释   |
@@ -74,8 +80,14 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 | Show incoming text messages in simulator          |      在模拟器中显示 vPilot 的文字消息（强烈建议文字机组开启本选项卡，该选项卡能够提高您的指令执行速度） |
 
 ### Fonts
+
+![QQ图片20220425144737](https://user-images.githubusercontent.com/104274235/165035510-1633255d-2cc5-4da7-b1c5-5e9e713e8175.png)
+
 字体选项卡用于选择管制列表与文本消息的字体。
 ### Audio
+
+![QQ图片20220425144743](https://user-images.githubusercontent.com/104274235/165035543-58267466-866d-48cf-b564-0561be237d7b.png)
+
 在这里，您可以选择您希望使用的麦克风设备，以及用作收听管制和其他飞行员的音频的设备。 如果设备尚未插入，您需要关闭 `settings` 窗口，插入设备，然后重新打开 `settings` 窗口。
 
 选择音频输出设备后，调整音量滑块，使音量处于自己听起来舒适的区域。部分机模可以使用其无线电通信面板的接收旋钮调节音量，例如 Flightsimlabs320 系列。
@@ -86,24 +98,45 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 如果您选中 `Disable HF background noise` 的框，则传入的声音将不会有 HF 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，如果您很难理解 ATC 所说的内容，选中此框可能会对您有所帮助。
 ### Push-To-Talk (PTT)
+
+![QQ图片20220425144749](https://user-images.githubusercontent.com/104274235/165035597-e20804ea-1308-44c1-8d34-0d58fec154f3.png)
+
 在此部分，您可以选择要用于 PTT 的键盘键或操纵杆/轭按钮。 只需按下标有 `Set new PTT Key or Button` 的按钮，然后按下要用于 PTT 的键盘键或操纵杆/轭按钮。 vPilot 将检测击键或按钮按下并相应地更新 `Current PTT Assignment` 。
 
 请注意，如果您设置键盘键用于 PTT ，并且您以管理员身份运行 FSX/P3D/MSFS，则还必须以管理员身份运行 vPilot 才能识别按键。
 
 如果您不想在 VATSIM 上使用语音，请按 `Clear Current PTT Assignment` 按钮。
 ### The Model Matching Tabs
+
+![QQ图片20220425144756](https://user-images.githubusercontent.com/104274235/165035677-bdb72f14-e844-407d-8317-6c4b28dd04e8.png)
+
 有关模型匹配如何在 vPilot 中工作的更多信息，请参阅下面的模型匹配部分。 对于在您系统上每个受支持的模拟器，您将拥有一个选项卡。
 #### The Model Matching - Advanced
+
+![QQ图片20220425144809](https://user-images.githubusercontent.com/104274235/165035703-432a1485-6d67-434e-8818-56b6a94cf4ef.png)
+
 此部分允许您在模型匹配中排除模型（单独或作为整个文件夹）。 您还可以通过使用 `Move Up` 和 `Move Down` 按钮在此列表中重新排列文件夹来确定文件夹的优先级。 vPilot 将首先搜索列表中较高的文件夹用于显示您在 VATSIM 上飞行时遇到的飞机的模型。
 #### The Model Matching - Custom Rules
+
+![QQ图片20220425144815](https://user-images.githubusercontent.com/104274235/165035728-69c5373f-8923-4c51-9512-501270f4e9a1.png)
+
 在这里，您可以通过从计算机硬盘加载文件来添加自定义模型匹配规则。 如果您创建了自己的文件，或者您从其他用户那里收到了文件，或者从您的 VA 网站下载了该文件，您可能会这样做。 自定义规则文件可以重新排序，以设置它们用于模型匹配的优先级。 当 vPilot 自动扫描您已安装的模型时，自定义规则始终优先于找到的模型。
 ### Performance
+
+![QQ图片20220425144820](https://user-images.githubusercontent.com/104274235/165035751-7836d7a8-b35b-474e-b4e5-47660f8d0403.png)
+
 在这里，您可以限制 vPilot 显示在您模拟器里的飞机数量。 如果您在拥挤的区域发现帧率下降，你可以降低这些数字。
 ### Updates
+
+![QQ图片20220425144824](https://user-images.githubusercontent.com/104274235/165035772-9837c121-c3e9-4f53-b26d-d924c5d7f7bc.png)
+
 如果勾选 `Check for vPilot updates` 的选框， vPilot 将会在启用时自动版本检查。 有关更新的详细信息，请参阅下载更新部分。 此选项应保持启用状态，以确保您知道何时发布新版本的 vPilot 。注：由于 Velocity 的实施，请确保您的 vPilot 版本已更新至 v3.x版本 ，否则将无法接入 VATSIM。
 
 此选项卡还允许您选择从 `Stable` 还是 `Beta` 更新下载。 大多数用户因选择 `Stable` 。 如果您想获得最新可用的 vPilot 版本，您可以将此设置更改为 `Beta` ，但 vPilot 的 Beta 版本尚未经过彻底测试，可能存在BUG。
 ### Miscellaneous
+
+![QQ图片20220425144830](https://user-images.githubusercontent.com/104274235/165035795-9d29283b-636d-4395-8eaa-095ed4b81ca2.png)
+
 在这里，您可以选择让 vPilot 在您的飞机离地时自动将应答机 C 模式。 如果您的飞机集成有 SquawkBox 转发器，则应不选中此复选框，因为 vPilot 将能够直接从飞机面板读取应答机模式。
 
 勾选 `Keep window visible` 可以将您的 vPilot 主窗口置顶。 请注意，如果 FSX 在全屏模式下运行，这将不起作用。
@@ -117,6 +150,8 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 ## 连接到 VATSIM
 
 要连接到 VATSIM ，请单击 `Connect` 按钮。 您将看到 `Connect` 窗口。 输入您的呼号和机型。 SELCAL 代码是可选的。
+
+![QQ图片20220425144516](https://user-images.githubusercontent.com/104274235/165035208-c064313e-a983-4f38-a7ed-779f31434456.png)
 
 当您准备好接入 VATSIM 时，按下 `Connect` 按钮。 如果连接成功，您将在主消息区域看到一条消息， `Connect` 按钮此时将呈绿色亮起，并显示为 `Disconnect` 。 如果您所在位置范围内有管制员在线，它们将出现在管制员列表中，您可以调整频率以便与管制员通信。
 
@@ -192,6 +227,8 @@ VATSIM 上的每个管制员都有管制员信息，同时部分管制员在线�
 请务必选择正确的 `Voice` 选项。根据您的选择，vPilot 将在您的飞行计划备注中添加标签，以告知管制员您是否具有语音功能。
 
 按 `Load` 或 `Save` 可以以 vPilot 或 SquawkBox 格式加载或保存飞行计划。
+
+![QQ图片20220425144648](https://user-images.githubusercontent.com/104274235/165035333-330b30c7-a233-4971-b31e-2fc7878d9e44.png)
 
 如果您已经提前在 VATSIM [网页](https://my.vatsim.net/pilots/flightplan)为您的呼号提交了飞行计划，您可以通过按 `Fetch From Server` 下载它。
 
