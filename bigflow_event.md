@@ -62,10 +62,10 @@ CCA718,Due to flow control expect departure time XXXXZ.
 #### 1.速度控制
 + 速度控制包含马赫速的调整以及空速的调整，如果无法执行速度控制指令请告知管制员，并告知能接受的速度
 ```
-南方1354，增/减马赫速到0.81
+南方1354，增/减马赫数到0.81
 CSN1354, Increase/Reduce Mach speed 0.81 due to separation.
 
-南方1354，增/减表速到250节
+南方1354，增/减表数到250节
 CSN1354:Increase/Reduce speed to 250kt
 
 南方1354，保持180节到本场8海里，160节到6海里
@@ -75,9 +75,9 @@ CSN1354,Maintain 180kt until 8NM(to touch down),160kt to 6NM(to touch down)
 CSN1354,Maintain 180kt until final/Localizer
 
 南方1354，保持表速260或以上/以下
-CSN1354,Maintain speed 260kt or greater/greater then 260kt
+CSN1354,Maintain speed 260kt or greater/greater than 260kt
 
-(or greater 表以上/greater then表以下，当然管制员可能使用above/below来代表相同意思)
+(or greater 表以上/greater than表以下，当然管制员可能使用above/below来代表相同意思)
 
 南方1354，减表速到最小/增速到最大
 CSN1354,Reduce speed to minimum/final approach speed
@@ -92,7 +92,7 @@ CSN1354,Cancel Speed restriction,(High speed approaved)
 南方1354，恢复自主调速
 CSN1354,Resume normal speed
 
-南方1354：无法执行指令，我们能接受马赫速XX/表速XXX
+南方1354：无法执行指令，我们能接受马赫数XX/表速XXX
 CSN1354:Unable,we can accept Mach 0.XX/XXXkt
 ```
 
@@ -154,6 +154,6 @@ CES519,Exit hold,Direct SASAN join plan route.
 东方519，退出等待，右转航向160
 CES519,Exit hold,right turn heading 160
 
-东方519，当前位置右/左转盘旋
+东方519，当前位置右/左转盘旋一圈
 CES519, make a left/right orbit at present location.
 ```
