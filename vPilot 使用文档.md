@@ -34,7 +34,7 @@
 - 操作系统：Microsoft Windows 7, Windows 8.1 或 Windows 10
 - 运行库：Microsoft .NET Framework 4.7.2
 - 磁盘空间：在存储应用程序数据和用户文档的盘上 100 MB 的可用空间
-- 下列模拟飞行软件的一个或多个：
+- 支持的模拟器：
   - Microsoft Flight Simulator X with Acceleration or Service Pack 2 (FSX)
   - Microsoft Flight Simulator X Steam Edition (FSX:SE)
   - Lockheed Martin Prepar3D (P3D)
@@ -52,7 +52,7 @@
 
 第一次运行 vPilot 时，您将看到一个窗口弹出，该消息表明您尚未完全配置 vPilot，单击 `是(Y)` 打开设置窗口并配置 vPilot。
 
-vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 如果模拟器尚未运行，它将每 10 秒尝试一次，并在最终建立连接时在主消息区域显示一条消息（以 Lockheed Martin Prepar3D v5为例）。
+vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 如果模拟器尚未运行，它将每隔 10 秒重试一次。当最终建立与模拟器的连接时，vPilot会在主消息区域显示一条消息（以 Lockheed Martin Prepar3D v5为例）。
 
 ![QQ图片20220425135712](https://user-images.githubusercontent.com/104274235/165033579-de11e382-795c-4cf5-a2fc-ffdb2ddfac0c.png)
 
@@ -64,7 +64,8 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 ![QQ图片20220425144724](https://user-images.githubusercontent.com/104274235/165035373-6e173d09-fe32-437a-8899-5c2920594bb9.png)
 
-在本页，您只需输入您的 VATSIM CID/密码、您的注册名和您的家乡机场，并且选择您要连接的 VATSIM 服务器，您因选择在您网络环境下连接最稳定的服务器，您将能够看到连接到任何一个服务器上的其他飞行员和管制员，各服务器都是相互关联的。
+在本页，您只需输入您的 VATSIM CID/密码、注册名和您的家乡机场，并且选择要连接的 VATSIM 服务器。所有的VATSIM连飞服务器都是互通的，所以您只需要选择在您网络环境下连接最稳定的服务器。
+
 ### Notifications
 
 ![QQ图片20220425144731](https://user-images.githubusercontent.com/104274235/165035406-179ef622-ea14-4beb-8b89-9f3214e06517.png)
@@ -86,7 +87,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 字体选项卡用于选择管制列表与文本消息的字体。
 ### Audio
 
-![QQ图片20220425144743](https://user-images.githubusercontent.com/104274235/165035543-58267466-866d-48cf-b564-0561be237d7b.png)
+![image](https://user-images.githubusercontent.com/25072307/165088698-cefb4252-8211-4753-b063-4b7af0570bee.png)
 
 在这里，您可以选择您希望使用的麦克风设备，以及用作收听管制和其他飞行员的音频的设备。 如果设备尚未插入，您需要关闭 `settings` 窗口，插入设备，然后重新打开 `settings` 窗口。
 
@@ -96,7 +97,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 如果您选中 `Disable realistic ATC audio effects` 的框，则传入的声音将不会有 VHF 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，如果您很难理解 ATC 所说的内容，选中此框可能会对您有所帮助。
 
-如果您选中 `Disable HF background noise` 的框，则传入的声音将不会有 HF 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，如果您很难理解 ATC 所说的内容，选中此框可能会对您有所帮助。
+如果您选中 `Disable HF background noise` 的框，则传入的声音将不会有 HF（高频） 无线电噪音。 通常，为了使音频真实不会选中此框。 但是，由于HF（高频）无线电的特性，可能会出现背景噪音远大于其他机组或管制员的声音的情况（例如在北大西洋飞行时）。所以当您很难理解或听清ATC所说的内容时，选中此框可能会对您有所帮助。
 ### Push-To-Talk (PTT)
 
 ![QQ图片20220425144749](https://user-images.githubusercontent.com/104274235/165035597-e20804ea-1308-44c1-8d34-0d58fec154f3.png)
