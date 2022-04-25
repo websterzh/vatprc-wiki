@@ -207,9 +207,16 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 在 VATSIM 上飞行时，您需要将应答机在 Standby Mode和 Mode C 之间切换。Mode C 在您进入开放跑道和空中时使用，开启 Mode C 后管制员将能够在其范围内查看您的高度。如果由于机场运行要求，飞行器在地面移动时需要将应答机Mode C ，将在对应管制员的ATC info或通波中标注
 
 - 当您在模拟器中的飞机面板切换模式时，xPilot 将检测应答器模式的变化。也是就，当模拟器中应答机处于 Mode C 时，您会看到 xPilot 主窗口上的 `mode C` 按钮绿色亮起
+
+  ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20ModeC.png)
+
+  
+
 - 如果没有同步应答机模式，那么您需要手动在 xPilot 管理应答器模式，只需单击 xPilot 主窗口上的 `mode C` 按钮即可。 `mode C` 按钮绿色表示应答机已经处于 Mode C  再点~~亿~~ 一次则回到Standby Mode
 
-这三个选项也适用于 squawk ident。当您第一次联系某个频率时，管制员可能会要求您 应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求 应答机识别，您可以按飞机面板上的 ident 按钮（如果飞机具有 SquawkBox 转发器集成），或者点击 vPilot 主窗口上的 Ident 按钮，或者您可以单机 sim 菜单栏 Add-ons 中的 `Squawk Ident` 。当 vPilot 将 ident 信号发送到网络时，vPilot 主窗口上的 `Ident` 按钮将亮起绿色
+这两个选项也适用于 squawk ident。当您第一次联系某个频率时，管制员可能会要求您应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求应答机识别，您可以按飞机面板上的 ident 按钮，或者点击 xPilot 主窗口上的 `IDENT` 按钮 。当 xPilot 将 ident 信号发送到网络时，xPilot 主窗口上的 `IDENT` 按钮将亮起绿色
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/xPilot%20ModeC%26IDENT.png)
 
 
 
@@ -310,7 +317,7 @@ xPilot支持以下点命令，可以在任何选项卡中的消息历史记录�
 | `.com2 <Frequency>`  | 将COM2无线电设置为指定的频率。.                              |
 | `.rx com# On/Off`    | 切换在指定的COM无线电上接收。 例如：`.rx com1 on`            |
 | `.tx com#`           | 启用COM1或COM2无线电进行传输。 例如： `.tx com2`             |
-| `.towerview <IP-Address> <Callsign>`           | 以Observer模式将 vPilot 连接到代理服务器（例如 Euroscope 提供的），以创建机场塔台视角。 IP 地址默认为 127.0.0.1 (localhost)，呼号默认为 TOWER。            |
+| `.towerview <IP-Address> <Callsign>`           | 以Observer模式将 xPilot 连接到代理服务器（例如 Euroscope 提供的），以创建机场塔台视角。 IP 地址默认为 127.0.0.1 (localhost)，呼号默认为 TOWER。          |
 | `.ignore <Callsgin>`  | 将指定呼号的飞机添加到忽略列表中。 否则，xPilot 会渲染列表中的任何飞机的飞机模型。  |
 | `.unignore <Callsign>`    | 从忽略列表中删除指定呼号的飞机。          |
 | `.ignorelist`           | 显示忽略列表            |
