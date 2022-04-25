@@ -154,11 +154,11 @@ B3(a) - 飞行员应当时刻监控其飞行。飞行员的责任包括：查看
 
 >B3(b) - If it becomes necessary to leave a pilot connection unattended, the member is encouraged to disconnect from the network. Notwithstanding anything in this Code to the contrary, no pilot connection is permitted to be unattended for a period of longer than 30 minutes.  
 
-B3(b) - 当飞行员在飞行中遇到必须要离开电脑前的情况，我们鼓励飞行员断开与VATSIM的连接。即便本守则有与之相悖的规定，无人看管的飞行员连接最多不可以超过30分钟。
+B3(b) - 当飞行员在飞行中遇到必须要离开电脑前的情况，我们建议飞行员断开与VATSIM的连接。即便本守则有与之相悖的规定，无人看管的飞行员连接最多不可以超过30分钟。
 
 >B4 - A pilot shall not squawk standby while their aircraft is in motion except when requested by air traffic control. Simulation of aircraft without a transponder is permitted with air traffic control approval.  
 
-B4 - 除被管制员要求外，飞行员应当在其飞机运动的过程中启用其应答机的C模式。模拟无应答机功能的飞行活动需要经过管制员批同意后方可进行。
+B4 - 除被管制员要求外，飞行员应当在其飞机运动的过程中启用其应答机的C模式。模拟无应答机功能的飞行活动需要经过管制员同意后方可进行。
 
 >B5 - Pilots flying through uncontrolled airspace shall monitor VHF radio frequency 122.800 or other designated "UNICOM" frequency until they come under air traffic control coverage. Where another pilot may benefit, a pilot shall transmit their intentions on the designated unicom frequency.  
 
@@ -200,7 +200,7 @@ B9 - 飞行员在使用模拟器的倍速功能时必须时刻监控其飞行，
 
 >B10 - All pilots flying IFR shall submit a flight plan before flight. The IFR flight plan must contain, at a minimum, the aircraft callsign, departure airport, arrival airport, aircraft type, and requested route. All VFR pilots are encouraged, when appropriate, to submit a flight plan.  
 
-B10 - 所有按仪表规则飞行的飞行员在飞行前必须提交飞行计划。仪表飞行计划必须至少包含呼号、起始机场、目的地机场、航空器型号以及所申请的航路。我们也鼓励按目视规则飞行的飞行员，在条件允许的情况下提交飞行计划。  
+B10 - 所有按仪表规则飞行的飞行员在飞行前必须提交飞行计划。仪表飞行计划必须至少包含呼号、起始机场、目的地机场、航空器型号以及所申请的航路。我们也建议按目视规则飞行的飞行员，在条件允许的情况下提交飞行计划。  
 
 >B11 - Pilots may fly together through the use of a shared cockpit function. When pilots fly together through the use of a shared cockpit function, members are jointly liable for any infringement of VATSIM Policies.  
 
