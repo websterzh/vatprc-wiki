@@ -32,9 +32,15 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
 
 
+
+
+
+
 ## 机模
 
 优秀的机模能给您在飞行途中带来不少乐趣，也能让您更好的执行管制员给出的指令，您也可以根据您的喜好自行选择机模。
+
+
 
 ### 推荐机模
 
@@ -69,6 +75,10 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
 
 
+
+
+
+
 ## 地景
 
 地景和机模是模拟飞行的基础，X-Plane内分为机场地景、城市地景和卫星地景。一个最新、细节丰富、机场位置正确的地景能够提升您的飞行体验，让您的模拟飞行更加贴近真实。
@@ -84,10 +94,16 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
 
 
+
+
 #### 推荐国内地景制作组
 
 + [Star_Atlas](https://secure.simmarket.com/star_atlas-(zh_1412).mhtml)
 + [AMJ Scenery Studio](https://secure.simmarket.com/amjscenerystudio-(zh_1543).mhtml)
+
+
+
+
 
 
 
@@ -98,6 +114,8 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 为您提供飞行规划、机场航图、航线图和导航数据，用于飞行模拟。
 
 [Navigraph](https://navigraph.com/)
+
+
 
 
 
@@ -117,6 +135,8 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 
 
 
+
+
 ### Better Pushback
 一个X-Plane 11飞行模拟器的后推插件。它提供俯视图来规划后推路线，当然，它也可以把你向前拖，或者执行任意复杂的推回操作。为了增加沉浸感，它可以用各种语言和口音与你交谈，模拟世界各地的地面工作人员。
 
@@ -133,9 +153,13 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 
 
 
+
+
 ### GroundHandling
 
 [GroundHandling](https://store.x-plane.org/Ground-Handling-Deluxe_p_415.html)
+
+
 
 
 
