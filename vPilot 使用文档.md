@@ -151,7 +151,8 @@ vPilot在扫描您本地AI机模/涂装的期间，如果发现了不存在于�
 vPilot在您每次启动它时，都会自动检测您是否安装了新的机模/涂装，以决定是否需要重新对您本地的AI机模/涂装进行上述的扫描。
 
 当您在VATSIM连飞期间，vPilot会在您遇到其他机组时，从扫描结果中选择一个最合适的AI机涂装对该机组的航空器进行匹配。如果您本地AI机模中没有可以与之相匹配的涂装，vPilot则会使用预设好的缺省涂装进行匹配。如果需要修改缺省涂装，您可以在 `Settings` > `Model Matching` 选项卡内的 `缺省涂装`(`Default Model`)  文本框输入您希望使用的缺省涂装。
-![image](https://user-images.githubusercontent.com/25072307/165096422-c480b898-1ac6-4828-b254-a1d06849a492.png)
+
+![image](https://user-images.githubusercontent.com/25072307/165121408-0afbf266-c1b3-45cb-8336-01bc8be5af8a.png)
 
 例如，您希望使用FSX自带的塞斯纳172的蓝金色涂装作为机模匹配的缺省涂装，则只需要在文本框内输入“Cessna Skyhawk 172SP Paint1”。您输入的内容必须要与该机模Aircraft.cfg文件内相应涂装的`title`一致，如下所示：
 
@@ -259,10 +260,10 @@ vPilot在您每次启动它时，都会自动检测您是否安装了新的机�
 &nbsp;
 
 以上面提到的DAL123为例：
-vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DAL”（或 `Callsign` 为“DAL123”），以及 `TypeCode` 为“B733”的规则；
-如果没有匹配的规则，vPilot则会进行第二步，即寻找 `CallsignPrefix` 为“DAL”（或 `Callsign` 为“DAL123”），以及 `TypeCode` 与“B733”相似的规则，例如“B732”或“B734”；
-如果还是没有匹配，则会进行第三步，即在所有未定义 `CallsignPrefix` 或 `Callsign` 的规则中寻找一个 `TypeCode` 为“B733”的规则；
-如果依旧没有匹配，则会进行第四步，即在所有未定义 `CallsignPrefix` 或 `Callsign` 的规则中寻找一个 `TypeCode` 与“B733”相似的规则；
+vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DAL”（或 `Callsign` 为“DAL123”），以及 `TypeCode` 为“B733”的规则；  
+如果没有匹配的规则，vPilot则会进行第二步，即寻找 `CallsignPrefix` 为“DAL”（或 `Callsign` 为“DAL123”），以及 `TypeCode` 与“B733”相似的规则，例如“B732”或“B734”；  
+如果还是没有匹配，则会进行第三步，即在所有未定义 `CallsignPrefix` 或 `Callsign` 的规则中寻找一个 `TypeCode` 为“B733”的规则；  
+如果依旧没有匹配，则会进行第四步，即在所有未定义 `CallsignPrefix` 或 `Callsign` 的规则中寻找一个 `TypeCode` 与“B733”相似的规则；  
 如果最终也没有找到相匹配的规则，vPilot将会使用之前所定义的缺省涂装对该航空器进行模型匹配。
 
 ## 连接到 VATSIM
