@@ -280,7 +280,7 @@ vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DA
 
 在 VATSIM 上飞行时，您需要将应答机在 Standby 模式和 C 模式之间切换。 C 模式在您进入开放跑道和空中时使用，开启 C 模式后管制员将能够在其范围内查看您的高度。如果由于机场运行要求，飞行器在地面移动时需要将应答机 C 模式，将在对应管制员的ATC info或通波中标注。
 
-**译者注：由于上述说明与VATSIM Code of Conduct（下称CoC）中的[B4](./blob/master/COC_translate_full.md#b4)项产生冲突，请机组依照CoC中的规定，在航空器运动过程中启用应答机的C模式（除非管制员要求将应答机调至Standby）。**
+**译者注：由于上述说明与VATSIM Code of Conduct（下称CoC）中的[B4](/../master/COC_translate_full.md#b4)项产生冲突，请机组依照CoC中的规定，在航空器运动过程中启用应答机的C模式（除非管制员要求将应答机调至Standby）。**
 
 您可以通过三种方式使用 vPilot 设置转发器模式。
 - 如果飞行器集成了 SquawkBox 应答器，则当您在 模拟器 中的飞机面板切换模式时，vPilot 将检测应答器模式的变化。也是就，当 模拟器 应答机处于 C 模式时，您会看到 vPilot 主窗口上的 `mode C` 按钮绿色亮起。
