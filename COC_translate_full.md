@@ -72,7 +72,7 @@ A6 - 会员仅可注册及使用一个VATSIM账号。（或：会员不可以注
 
 >A7 - A member shall only use software approved by VATSIM to connect to, or interface with the network. (https://www.vatsim.net/documents/approved-software) A member shall become familiar with the basic use of these programs prior to logging on to the VATSIM network.  
 
-A7 - 会员只可以使用VATSIM许可的软件连接到VATSIM连飞网络。 (https://www.vatsim.net/documents/approved-software) 会员在连接到VATSIM连飞网络之前需要确保已经了解所用软件的基本使用方法。  
+A7 - 会员只可以使用[VATSIM许可的软件](https://www.vatsim.net/documents/approved-software)连接到VATSIM连飞网络。会员在连接到VATSIM连飞网络之前需要确保已经了解所用软件的基本使用方法。  
 
 >A8 - A member shall only make one connection to the VATSIM network during any given session, except as may be otherwise provided for in this Code of Conduct.  
 
@@ -96,7 +96,7 @@ A12 - 会员不得使用任何暗示或指定他们所不持有的身份的呼�
 
 >A13 - Members shall only connect to VATSIM as an observer, a pilot, or an air traffic controller. No other connection is permitted. Military, paramilitary or civilian government agency operations and/or activities must be authorized by an approved Special Operations Organization. Special Operations restrictions and procedures are defined in the Special Operations Policy. https://www.vatsim.net/documents/special-operations-policy)  
 
-A13 - 会员不得以观察员、飞行员或管制员以外的身份连接到VATSIM。任何涉及到军事、准军事或文职政府机构的行动和/或活动必须由经VATSIM批准的特别行动组织授权方可进行。特别行动的限制及运行程序可以在特别行动政策中找到。(https://www.vatsim.net/documents/special-operations-policy)  
+A13 - 会员不得以观察员、飞行员或管制员以外的身份连接到VATSIM。任何涉及到军事、准军事或文职政府机构的行动和/或活动必须由经VATSIM批准的特别行动组织授权方可进行。特别行动的限制及运行程序可以在[Special Operations Policy](https://www.vatsim.net/documents/special-operations-policy)中找到。  
 
 >A14 - Voice is the preferred method of communication on VATSIM, though all members shall accommodate, with the same level of service, those communicating only by text. There shall be no rules preventing or discouraging the use of either voice or text. Only unaltered speech is permitted to be transmitted.  
 
@@ -112,7 +112,7 @@ A16 - 会员在连接到VATSIM连飞网络期间，不得使用任何除私聊�
 
 >A17 - The re-creation of, or organization of events recognizing real world disasters, tragedies, or other such events, particularly those which resulted in loss of life, are not permitted. In addition callsigns that VATSIM has deemed prohibited shall not be used at any time. (View Restricted Callsigns)  
 
-A17 - 会员不得重现或组织任何有关真实世界中发生过的灾难、悲剧、或其他类似事件（尤其是那些最终导致了人员伤亡的事件）的飞行活动。此外，也禁止使用被VATSIM限制的呼号。(此处查看被限制呼号的列表) 
+A17 - 会员不得重现或组织任何有关真实世界中发生过的灾难、悲剧、或其他类似事件（尤其是那些最终导致了人员伤亡的事件）的飞行活动。此外，也禁止使用被VATSIM限制的呼号。([此处查看被限制呼号的列表](https://www.vatsim.net/restricted-callsigns)) 
 
 >A18 - VATSIM welcomes members who wish to stream, record, or otherwise distribute their session for public viewing.   
 
@@ -174,7 +174,7 @@ B7 - 多个飞行员可以进行编队飞行。当管制员以任何原因要求
 
 >B8 - A pilot must comply with all agreed (read-back) air traffic control clearances and all issued instructions, or notify air traffic control without delay if unable to do so. Additionally, compliance with the following ATC instructions is mandatory, unless operational safety (e.g. TCAS conflict resolution) is compromised:  
 
-B8 - 飞行员应当遵守所有商定好（复述过）的管制员许可及其发布的指令。当无法遵守或执行管制员发布的指令时，飞行员应当立刻告知管制员。此外，在不影响飞行安全的前提下（如：TCAS RA），飞行员必须无条件执行下列管制员指令。
+B8 - 飞行员应当遵守所有商定好（被复述）的管制员许可及其发布的指令。当无法遵守或执行管制员发布的指令时，飞行员应当立刻告知管制员。此外，在不影响飞行安全的前提下（如：TCAS RA），飞行员必须无条件执行下列管制员指令。
 
 >- Holding position when on the ground at an airport.  
 
@@ -218,7 +218,7 @@ C1 - 对于新加入VATSIM或对空域不够熟悉的管制员，应当通过观
 
 >C2 - Controllers shall follow local rules and procedures. Controllers who choose to work in locations other than their requested and assigned location must follow the local rules and procedures at that location, and must be approved to control as a ‘visiting controller’ where required by local policy. Visiting controller status is governed by the Transfer and Visiting Controllers Policy (https://www.vatsim.net/documents/transf ... ler-policy)  
 
-C2 - 管制员应当遵守地方性的规则以及程序。选择在其所属或所被分配的地区/分部/分支机构以外的地区提供管制服务的管制员，必须遵守该地区的地方性规则及程序，并且需要根据当地要求，申请并取得“客座管制员”的身份。“客座管制员”的身份受到Transfer and Visiting Controllers Policy (https://www.vatsim.net/documents/transf ... ler-policy) 的规范。  
+C2 - 管制员应当遵守地方性的规则以及程序。选择在其所属或所被分配的地区/分部/分支机构以外的地区提供管制服务的管制员，必须遵守该地区的地方性规则及程序，并且需要根据当地要求，申请并取得“客座管制员”的身份。“客座管制员”的身份受到[Transfer and Visiting Controllers Policy](https://www.vatsim.net/documents/transfer-and-visiting-controller-policy)的规范。  
 
 >C3 - When logging onto the VATSIM Network as an observer, a member shall use a callsign which ends as follows: "_OBS". Prior to the underscore an individual shall use their initials or a locally accepted observer format. Other observer callsign formats designating an official network staff role are approved. An observer shall observe only and not communicate on any open text or voice frequency, or provide air traffic control services.  
 
@@ -250,7 +250,7 @@ C4 - 以下为VATSIM许可的管制席位呼号后缀。会员只可以使用下
 
 >NOTE: Approved Flight Service Stations are specified in Appendix B of the VATSIM Global Rating Policy (http://www.vatsim.net/documents/global-ratings-policy) 
 
-注意：在VATSIM Global Rating Policy(http://www.vatsim.net/documents/global-ratings-policy) 的附件B中定义了所有被VATSIM许可的飞行服务站。
+注意：在[VATSIM Global Rating Policy](http://www.vatsim.net/documents/global-ratings-policy)的附件B中定义了所有被VATSIM许可的飞行服务站。
 
 
 >C5 - Positions are occupied on a "first come" basis. Local facilities, with Division approval, may implement a procedure to book or schedule a controlling time within reasonable limits. Additionally, should a controller lose their connection to the VATSIM Network and return within a reasonable time period to find their position taken by another controller, the second controller shall relinquish the position to the original controller.  
@@ -259,11 +259,11 @@ C5 - 管制席位遵循“先到先得”原则。经所属分部批准后，其
 
 >C6 - Only approved positions and their corresponding frequencies may be opened by controllers. Controllers may only open a position they are authorized to, in accordance with global and local policy. See the Global Ratings Policy (https://www.vatsim.net/documents/global-ratings-policy) and the Transfer and Visiting Controller Policy (https://www.vatsim.net/documents/transf ... ler-policy) for more information.  
 
-C6 - 管制员仅可以使用被批准的席位及其对应频率提供管制服务。管制员需要按总部及分部政策，在他们被批准/许可的席位提供管制服务。详情见Global Ratings Policy (https://www.vatsim.net/documents/global-ratings-policy)以及Transfer and Visiting Controller Policy (https://www.vatsim.net/documents/transf ... ler-policy)
+C6 - 管制员仅可以使用被批准的席位及其对应频率提供管制服务。管制员需要按总部及分部政策，在他们被批准/许可的席位提供管制服务。详情见[Global Ratings Policy](https://www.vatsim.net/documents/global-ratings-policy)以及[Transfer and Visiting Controller Policy](https://www.vatsim.net/documents/transfer-and-visiting-controller-policy)
 
 >C7 - A controller may make one additional connection to the VATSIM Network to provide an airport voice ATIS at facilities which have an ATIS in real life. There must be an accompanying text version, which shall always be in English. The ATIS shall be formatted in accordance with the ATC Frequency Management and Information Policy (https://www.vatsim.net/air-traffic-control-frequency-and-information-management-policy).  
 
-C7 - 每位管制员仅可以额外建立一个与VATSIM网络的连接用于为一个机场提供语音航行情报通波服务，且该机场必须在真实中存在此服务。此外，通波必须包含一个英文的文字版本。通波需要按照ATC Frequency Management and Information Policy (https://www.vatsim.net/air-traffic-control-frequency-and-information-management-policy)中所要求的格式书写。
+C7 - 每位管制员仅可以额外建立一个与VATSIM网络的连接用于为一个机场提供语音航行情报通波服务，且该机场必须在真实中存在此服务。此外，通波必须包含一个英文的文字版本。通波需要按照[ATC Frequency Management and Information Policy](https://www.vatsim.net/air-traffic-control-frequency-and-information-management-policy)中所要求的格式书写。
 
 >C8 - Controllers shall set an appropriate visibility range for their position. The maximum ranges for a given position are as follows:  
 
