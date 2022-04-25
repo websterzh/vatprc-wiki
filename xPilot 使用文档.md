@@ -269,7 +269,7 @@ VATSIM上的每个管制员都维护其管制席信息（或文本ATIS）。要�
 | Other Details        | 其他情报 详见[新版飞行计划规范及指南](https://forum.vatprc.net/topic/2888-vatsim%E6%96%B0%E7%89%88%E9%A3%9E%E8%A1%8C%E8%AE%A1%E5%88%92%E8%A7%84%E8%8C%83%E5%8F%8A%E6%8C%87%E5%8D%97/) |
 | Voice Rules          | 通讯方式             |
 
-以下为三种 `Voice` 方式的释义：
+以下为三种 `Voice Rules` 方式的释义：
 | 通讯方式     | 代码 | 描述                                     |
 | ------------ | ---- | ---------------------------------------- |
 | Voice        | /v/  | 可以接受语音管制并通过语音回复           |
@@ -517,6 +517,3 @@ X-Plane通常还会在  `X-Plane 11\Output\crash_reports` 中生成X-Plane闪退
 ### 错误：Error connecting to voice server. Please check your VATSIM credentials and try again.
 
 如果您最近创建或重新激活了您的VATSIM帐户，您需要等待几分钟，以便您的帐户与服务器同步；在某些情况下，同步时长长达24小时。在同步您的帐户之前，您将无法使用语音，仅可使用文本。您还必须参加并通过**P0 : Basic VATSIM会员**考试。否则，请检查您的凭据并重试；密码区分大小写。
-
-
-
