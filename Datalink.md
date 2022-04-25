@@ -69,50 +69,5 @@ TDLS 自动将塔台生成的信息通过数据链通信传送给飞机。TDLS �
 
 > + *PBCS 概念包括在本地和区域基础上的实施后监测计划，并进行全球信息交流；而 PBN 概念包括飞机能力的实时监测和警报功能。* 
 
-#### 典型的RCP和RSP规范（以北大西洋空域为例）
-The provision of PBCS in the NAT HLA applies RCP 240 and RSP 180 specifications.
 
-An RCP specification includes the communication performance requirements that are allocated to system components in terms of the communications to be provided as needed for the proposed operation in the context of a particular airspace concept. . These requirements include:
 
-+ the associated transaction time (maximum time for a transmission/response)
-+ continuity (percent probability that the transaction time will be met)
-+ availability (percent probability that the communication can be initiated)
-+ integrity (acceptable failure rate/flight hour)
-The RCP 240 specification requires:
-
-maximum transaction time - 240 seconds
-+ continuity - 99.9%
-+ availability - 99.99%
-+ integrity - 10-5
-Likewise, an RSP specification includes surveillance performance requirements that are allocated to system components in terms of the surveillance to be provided. 
-
-These requirements include
-
-+ maximum data delivery time - 180 sec
-+ continuity -99%
-+ availability - -99.99%
-integrity - 10-5
-
-在北大西洋空域中提供PBCS适用RCP 240和RSP 180规范。
-
-RCP规范包括分配给系统组件的通信性能要求，即在特定空域概念的背景下，根据建议的操作需要提供的通信。这些要求包括：
-
-+ 相关的数据传输时间（传输/响应的最大时间）
-+ 连续性（满足通讯时间的百分比概率）
-+ 可用性（可以启动通信的百分比概率）
-+ 完整性（可接受的故障率/飞行小时）。
-
-RCP 240规范要求：
-
-最大数据传输时间 - 240秒
-+ 连续性 - 99.9
-+ 可用性 - 99.99
-+ 完整性 - 10-5
-同样，一个RSP规范包括监视性能要求，这些要求在要提供的监视方面分配给系统组件。
-
-这些要求包括
-
-+ 最大数据传输时间 - 180秒
-+ 连续性 -99%
-+ 可用性 -99.99%
-完整性 - 10-5
