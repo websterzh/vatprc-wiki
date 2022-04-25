@@ -48,3 +48,71 @@ PDC 是一种基于订阅方式的服务，可在滑行前高效提供文本形�
 #### TDLS （Tower Data Link System） 塔台数据链系统 
 
 TDLS 自动将塔台生成的信息通过数据链通信传送给飞机。TDLS 系统可为 CPDLC-DCL 和 PDC 提供链路。TDLS 系统与本地气象数据、飞行数据的接口可为飞行机组提供 PDC、D-ATIS 和 CPDLC-DCL 服务。 
+
+### PBCS简介
+#### PBCS的概念
+国际民航组织（ICAO）规定：
+> *The performance-based communication and surveillance (PBCS) concept provides objective operational criteria to evaluate different and emerging communication and surveillance technologies, intended for evolving air traffic management (ATM) operations. The PBCS also provides a framework in which all stakeholders (regulators, air traffic service providers, operators, communication service providers (CSP), and manufacturers) continue to collaborate in optimizing the use of available airspace while identifying and mitigating safety risks.*
+
+> *基于性能的通信和监视（PBCS）概念提供了客观的操作标准，以评估不同的和新兴的通信和监视技术，旨在不断发展空中交通管理（ATM）业务。PBCS还提供了一个框架，所有利益相关者（监管者、空中交通服务提供商、运营商、通信服务提供商（CSP）和制造商）继续合作，优化现有空域的使用，同时识别和减少安全风险。*
+
+#### PBCS和PBN的区别
+> *The PBCS concept is aligned with that of performance-based navigation (PBN). While the PBN concept applies required navigation performance (RNP) and area navigation (RNAV) specifications to the navigation element, the PBCS concept applies required communication performance (RCP) and required surveillance performance (RSP) specifications to communication and surveillance elements, respectively. However, there are some differences between the PBCS and PBN concepts:*
+
+> + *the PBCS concept applies RCP and RSP specifications, which allocate criteria to ATS provision, including communication services, aircraft capability, and the aircraft operator; whereas the PBN concept applies RNP/RNAV specifications, which allocate criteria only to the aircraft capability and the aircraft operator;* 
+
+> + *the PBCS concept includes post-implementation monitoring programmes, on a local and regional basis, with global exchange of information; whereas the PBN concept includes real time monitoring and alerting functionality in the aircraft capability.* 
+
+> *PBCS的概念与基于性能的导航(PBN)的概念是一致的。PBN概念将所需的导航性能（RNP）和区域导航（RNAV）规范应用于导航要素，而PBCS概念将所需的通信性能（RCP）和所需的监视性能（RSP）规范分别应用于通信和监视要素。然而，PBCS和PBN概念之间有一些区别。*
+
+> + *PBCS 概念采用 RCP 和 RSP 规格，将标准分配给 ATS 的提供，包括通信服务、飞机能力和飞机操作员；而 PBN 概念采用 RNP/RNAV 规格，仅将标准分配给飞机能力和飞机操作员* 
+
+> + *PBCS 概念包括在本地和区域基础上的实施后监测计划，并进行全球信息交流；而 PBN 概念包括飞机能力的实时监测和警报功能。* 
+
+#### 典型的RCP和RSP规范（以北大西洋空域为例）
+The provision of PBCS in the NAT HLA applies RCP 240 and RSP 180 specifications.
+
+An RCP specification includes the communication performance requirements that are allocated to system components in terms of the communications to be provided as needed for the proposed operation in the context of a particular airspace concept. . These requirements include:
+
++ the associated transaction time (maximum time for a transmission/response)
++ continuity (percent probability that the transaction time will be met)
++ availability (percent probability that the communication can be initiated)
++ integrity (acceptable failure rate/flight hour)
+The RCP 240 specification requires:
+
+maximum transaction time - 240 seconds
++ continuity - 99.9%
++ availability - 99.99%
++ integrity - 10-5
+Likewise, an RSP specification includes surveillance performance requirements that are allocated to system components in terms of the surveillance to be provided. 
+
+These requirements include
+
++ maximum data delivery time - 180 sec
++ continuity -99%
++ availability - -99.99%
+integrity - 10-5
+
+在北大西洋空域中提供PBCS适用RCP 240和RSP 180规范。
+
+RCP规范包括分配给系统组件的通信性能要求，即在特定空域概念的背景下，根据建议的操作需要提供的通信。这些要求包括：
+
++ 相关的数据传输时间（传输/响应的最大时间）
++ 连续性（满足通讯时间的百分比概率）
++ 可用性（可以启动通信的百分比概率）
++ 完整性（可接受的故障率/飞行小时）。
+
+RCP 240规范要求：
+
+最大数据传输时间 - 240秒
++ 连续性 - 99.9
++ 可用性 - 99.99
++ 完整性 - 10-5
+同样，一个RSP规范包括监视性能要求，这些要求在要提供的监视方面分配给系统组件。
+
+这些要求包括
+
++ 最大数据传输时间 - 180秒
++ 连续性 -99%
++ 可用性 -99.99%
+完整性 - 10-5
