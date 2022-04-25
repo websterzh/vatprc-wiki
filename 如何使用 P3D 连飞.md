@@ -58,11 +58,34 @@ AI Manager 内置了 One Click Installer (OCI)，一个让您只需点几下鼠�
  
 ### 下载
 
-进入[官网下载页面](https://www.alpha-india.net/ai-manager/)，￼找到 `Downloads` 区域，点击您想下载的版本即可下载 AI Manager。
+进入[官网下载页面](https://www.alpha-india.net/ai-manager/)，找到 `Downloads` 区域，点击您想下载的版本即可下载 AI Manager。
 
 ### 安装
 
+解压下载完成的压缩包到合适的位置即可。
+
 ### 设置
+
+本文档中的设置教程较为简略，您可以自行从其他渠道获取更详细的 AI Manager 设置和使用教程。
+
+1. **（如您已拥有 AVSIM Library 账号请略过此步骤）**
+前往 [AVSIM Library](https://library.avsim.net/register.php) 注册账号。
+2. 将 `AIGTech - AI Manager.exe` 设置为以管理员身份运行以便使用。 ![Image1](imagelink)
+3. 双击运行 `AIGTech - AI Manager.exe`，软件初始化速度较慢，请耐性等待。
+4. 软件启动后点击界面左侧 `Settings` 按钮，此时AIM处于 `Flight Simulator` 页面。
+AIM 会自动识别您已安装的飞行模拟器版本和文件夹位置，不过仍建议您自行检查相关信息是否正确。 ![Image2](imagelink)
+5. 点击上方的 `Cookies` 按钮。如果您想让 AI Manager 能够自动下载各航空公司的涂装，您需要点击 `Login` 按钮登录您的 AVSIM Library 账号。
+在登陆页面打开的过程中，您可能会收到一系列询问您是否运行页面脚本的弹窗，您都需要点击 `是` 按钮以确保登陆成功。登录成功后，您应该能如图所示看到 `Status: LOGGED IN`。点击右上角 `Save` 按钮进行保存。![Image3](imagelink) ![Image4](imagelink)
+6. 点击上方 `AIGAIM - OCI` 按钮。点击 `Setup` 按钮选择您喜欢的且**剩余可用磁盘空间较为充足**的位置，您会看到 AIM 自动创建了一个新的子文件夹在您选择的位置下。该文件夹就是以后 AIM 下载和安装映射机模、涂装等文件的地方。如您只计划使用免费的映射机模与涂装，您还可以勾选 `Use Freeware only` 。点击右上角 `Save` 按钮进行保存。 ![Image5](imagelink)
+
+至此，您完成了 AI Manager 的简单设置。接下来是 AI 交通的简单下载安装教程。
+
+1. 点击左侧 `Flightplans` 按钮，再点击上部 `Online` 按钮。此处就是 AIM 按航空公司所提供的飞行计划。在下载的飞行计划的过程中，AIM 也会自动下载和安装对应航空公司的机模与涂装。
+2. 找到您想安装的航空公司，依次点击 `Install` 、 `Install using OCI` 、 `Install`。![image6](imagelink)
+待 `Flightplan Installation` 窗口消失且您选择的航空公司从列表中消失，相关机模、该航空公司的涂装与飞行计划就已经安装好了。
+3. 重复此操作直到您完成所有您需要的航空公司下载与安装。
+4. 启动 vPilot，软件会自动读取您安装的 AI 机模与涂装并在您日后的飞行中按照模型匹配规则自动完成映射。
+关于 vPilot 的映射设置，您可以移步查阅 [vPilot 使用文档](https://github.com/websterzh/vatprc-wiki/blob/vPilot/vPilot%20%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.md)中的相关内容获取更详细的信息。
 
 ## 机模
 
