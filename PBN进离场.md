@@ -49,6 +49,8 @@
 
 
 ## RNP进近
+RNP进近包括RNP(GNSS)、RNAV(GNSS)、RNP(AR)等一系列进近方式。
+
 因eAIP公开的VATPRC空域内RNP进近有限，此处仅以A320进近大连周水子机场的`RNP-Y 10号进近`举例。
 
 ![image](https://user-images.githubusercontent.com/40542435/165061735-9f969729-92cd-483f-82c8-46373560811f.png)
@@ -61,5 +63,5 @@
 当飞机通过`VIP`点（Vertical Interception Point）或`FAP`点（Final Approach Path）时，将激活`FINAL APP`模式，飞机建立稳定下滑。
 ![image](https://user-images.githubusercontent.com/40542435/165062200-07d1c6c9-55dd-4cbb-bdab-f8f80fe7b8c4.png)
 
-当飞机接近决断高度时，`FINAL APP`模式将脱开，机组接管继续着陆。
+当飞机接近决断高度时，`FINAL APP`模式将脱开，机组脱开自动驾驶，手动落地。
 ![image](https://user-images.githubusercontent.com/40542435/165062752-c5dc2f5b-3d25-4af3-b8db-a0b128c5b92b.png)
