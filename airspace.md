@@ -108,8 +108,8 @@ For charts and more info please visit www.vatprc.net
 
 在申请放行时，正确的表述为呼号+停机位+意图，例如：
 
-> *“放行你好，国航4115，通波H已抄收，停机位502，申请放行去北京首都。” *  
-> *"Delivery, Air China 4115 at stand/gate 502, with information H, request clearance to Beijing Capital (Intl.) Airport."*
+> *“放行你好，国航4115，通波H已抄收，波音738，停机位502，申请IFR放行去北京首都。” *  
+> *"Delivery, Air China 4115 at stand/gate 502, Boeing 738 with information H, request IFR clearance to Beijing Capital (Intl.) Airport."*
 
 根据放行排队的繁忙程度，管制员可能会给出“稍等放行”或“放行排队第XX个，稍等我叫你”等类似的指令，请耐心等待管制员呼叫。
 
@@ -312,6 +312,12 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 管制员一般会在TD前几十海里就会发布下高指令，请务必注意守听。
 
+> *“国航4115， 准备好下高报”*  
+> *"Air China 4115, report when ready for descend."*
+
+> *“国航4115， 准备好后下到92。”*  
+> *"Air China 4115, when ready descend and maintain 9200m."*
+
 > *“国航4115， 下到8400米保持。”*  
 > *"Air China 4115, descend and maintain 8400m."*
 
@@ -357,6 +363,8 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 
 > *“国航4115，雷达服务终止，联系塔台118.1，再见。”*  
 > *"Air China 4115, radar service terminated, contact tower 118.1, goodday."*
+
+关于*雷达服务终止*，参见*其他情况下的联系*。
 
 #### 最终进近和落地
 
@@ -446,5 +454,7 @@ Make sure you have listened to the valid ATIS before requesting a clearance
   
 #### 雷达服务终止（ADS-B服务终止）
   CAAC规定，当雷达管制员要把某架航空器的管制权移交给非雷达管制员时，实施移交前要确保该航空器与任何其它受管制航空器之间具有非雷达间隔。雷达管制服务中断或终止时应当立即通知航空器。这就是为什么进近管制员在将航空器移交给塔台时会加上一句“雷达服务终止”（在ADS-B管制区为“ADS-B服务终止”）。有些时候在区调管制员间相互移交时也会报告一句“雷达服务中止”，这意味着当前区域管制室提供的雷达服务中止，接下来的雷达管制服务将由另一个区域管制室提供。
+  
+  **请注意，“雷达服务终止”不意味着“管制服务结束”，尤其当机组正在接受区域管制员的Top-down Service时。“雷达服务终止”仅代表当前席位不为机组提供雷达管制服务，机组可能进入了ADS-B管制空域或是无雷达的塔台管制空域，机组在大多数时候仍需要接受管制服务。**
   
 #### 待补充
