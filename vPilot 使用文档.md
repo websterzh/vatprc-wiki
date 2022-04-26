@@ -400,7 +400,7 @@ vPilot 支持以下 `.` 命令，可以在主消息区域下方的命令行或�
 | .wx 机场ICAO代码            | 请求机场 ID 的天气（METAR）。                                | .wx ZSHC                        |
 | .metar 机场ICAO代码         | 请求机场 ID 的天气（METAR）。                                | .meter ZSHC                     |
 | .wallop 消息内容            | 向网络上的所有 Supervisors 发送指定消息。（注：.wallop 指令不仅限用于“投诉”，同样可用于向 Supervisors 寻求“帮助”） | .wallop we need help            |
-| .copy                       | Copies the contents of the active tab to your clipboard.不懂 谁来解释下 |                                 |
+| .copy                       | 将当前选项卡中所有聊天记录复制到剪贴板 |                                 |
 | .clear                      | Clears the contents of the active tab.不懂 谁来解释下        |                                 |
 | .reloadrules                | 重新加载模型匹配规则。                                       |                                 |
 | .sq 应答机代码              | 将您的应答机设置为指定的代码。 也可以使用 .xpdr、.xpndr、.x 或 .squawk。 | .sq  2000                       |
