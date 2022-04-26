@@ -17,10 +17,15 @@
 不同于P3D或FSX，vPilot对于MSFS的模型匹配机制有着明显的不同。
 
 在 `Settings` 中我们可以看到，对于MSFS的模型匹配，vPilot并不会对您模拟器所安装的AI机模/涂装进行扫描。也就是说，如果您希望在MSFS上使用vPilot的模型匹配功能，您需要通过客制化模型匹配规则来实现。
-![image](https://user-images.githubusercontent.com/25072307/165242311-afa50c70-630e-4e85-b782-5d29394abbea.png)
+![QQ截图20220426160108](https://user-images.githubusercontent.com/25072307/165251775-45d15387-a7c2-4972-b4f1-ff3a8597905f.jpg)
+
 
 根据客制化模型匹配规则的介绍，您可以根据您的需求自行创建一个规则文件，也可以从网络上下载规则文件。除此之外，您也可以使用第三方的软件（如：[Model Matching Magic](https://flightsim.to/file/15266/model-matching-magic)(flightsim.to)）对您已经安装到MSFS的机模/涂装进行扫描，并根据您的选择生成一个相应的模型匹配规则。
+
+有关AIG机模的安装请参阅P3D to VATSIM.
 
 下面我们将对本软件进行一个简单的介绍。
 
 ### 使用Model Matching Magic创建规则文件
+
+启动软件后，将自动识别您的Community文件夹路径。如果
