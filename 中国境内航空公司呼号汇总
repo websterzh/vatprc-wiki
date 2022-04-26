@@ -115,8 +115,8 @@ VATSIM 批准的 虚拟航空公司[列表](https://my.vatsim.net/virtual-airlin
 | SJX      | 星宇航空（STARLUX Airlines）          | -        | STARWALLKER |
 | UNI      | 立荣航空（UNI Air）                   | -        | GLORY       |
 | TTW      | 台湾虎航（TigerAir Taiwan）           | -        | SMART CAT   |
-| FEA      | 远东航空（Far Eastern Air Transport） | -        | FAR EASTERN |
-| TNA      | 复兴航空（TransAsia Airways）         | -        | TransAsia   |
+| FEA      | 远东航空（Far Eastern Air Transport） | 远东        | FAR EASTERN |
+| TNA      | 复兴航空（TransAsia Airways）         | -        | TRANSASIA   |
 
 ## 中国香港航空公司
 
