@@ -2,29 +2,29 @@
 
 xPilot是一个X-Plane机组客户端，可以让您连接到VATSIM网络，以便您可以在网络上飞行，并实时接收虚拟空中交通管制服务。
 
-本文档翻译自 [xPilot官方文档](https://beta.xpilot-project.org/#/?id=what-is-xpilot)
++ 本文档翻译自 [xPilot官方文档](https://beta.xpilot-project.org/#/?id=what-is-xpilot)
 
-本文内容仅供参考，随着时间推移可能会有部分内容落后于官方文档，请以最新的官方文档为准。
++ 本文内容仅供参考，随着时间推移可能会有部分内容落后于官方文档，请以最新的官方文档为准。
 
-[xPilot官网](https://beta.xpilot-project.org/)
++ [xPilot官网](https://beta.xpilot-project.org/)
 
-[xPilot Github](https://github.com/xpilot-project/xpilot)
++ [xPilot Github](https://github.com/xpilot-project/xpilot)
 
-[xPilot Discord](https://vats.im/xpilot-discord)
++ [xPilot Discord](https://vats.im/xpilot-discord)
 
-[X-Plane 11 官方手册](https://www.x-plane.com/manuals/desktop/index.html)
++ [X-Plane 11 官方手册](https://www.x-plane.com/manuals/desktop/index.html)
 
 ## 系统要求
 
-Windows 10或更高版本 64位
++ Windows 10或更高版本 64位
 
-macOS 10.14或更高版本 64位
++ macOS 10.14或更高版本 64位
 
-Linux 64位
++ Linux 64位
 
-X-Plane 11.50 或更高版本
++ X-Plane 11.50 或更高版本
 
-CSL模型。推荐[Bluebell OBJ8 CSL](https://forums.x-plane.org/index.php?/files/file/37041-bluebell-obj8-csl-packages/)。
++ CSL模型。推荐[Bluebell OBJ8 CSL](https://forums.x-plane.org/index.php?/files/file/37041-bluebell-obj8-csl-packages/)。
 
 如果对X-Plane硬件要求有疑问，请查看X-Plane官方的[X-Plane 11系统要求](http://www.x-plane.com/kb/x-plane-11-system-requirements/)。
 
