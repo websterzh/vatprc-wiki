@@ -6,26 +6,26 @@
 
 ## 目录
 
-1. [连飞软件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#连飞软件)
-   - [下载](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#下载)
-   - [安装](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#安装)
-   - [设置](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#设置)
-   - [使用](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#使用)
-2. [映射插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#映射插件)
-   - [简介](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#简介)
-   - [下载](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#下载-1)
-   - [安装](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#安装-1)
-   - [设置](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#设置-1)
-3. [机模插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#机模插件)
-4. [地景插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#地景插件)
-5. [天气插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#天气插件)
-6. [后推插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#后推插件)
+1. [连飞软件](#连飞软件)
+   - [下载](#下载)
+   - [安装](#安装)
+   - [设置](#设置)
+   - [使用](#使用)
+2. [映射插件](#映射插件)
+   - [简介](#简介)
+   - [下载](#下载-1)
+   - [安装](#安装-1)
+   - [设置](#设置-1)
+3. [机模插件](#机模插件)
+4. [地景插件](#地景插件)
+5. [天气插件](#天气插件)
+6. [后推插件](#后推插件)
 
 ## 连飞软件
 
 vPilot 是一个用于将 FSX, P3D 或 MSFS 连接到 VATSIM 连飞网络的一个免费软件。
 
-本教程只介绍了 vPilot 的基本操作。您可以通过阅读 [vPilot 官方文档](https://vpilot.rosscarlson.dev/Documentation)或[本 wiki 中的 vPilot 官方文档翻译](https://github.com/websterzh/vatprc-wiki/blob/vPilot/vPilot%20使用文档.md)以获取更详细的信息。
+本教程只介绍了 vPilot 的基本操作。您可以通过阅读 [vPilot 官方文档](https://vpilot.rosscarlson.dev/Documentation)或[本 wiki 中的 vPilot 官方文档翻译](./vPilot%20使用文档.md)以获取更详细的信息。
 
 ### 下载
 
@@ -72,22 +72,22 @@ AI Manager 内置了 One Click Installer (OCI)，一个让您只需点几下鼠�
 
 1. **（如您已拥有 AVSIM Library 账号请略过此步骤）**
 前往 [AVSIM Library](https://library.avsim.net/register.php) 注册账号。
-2. 将 `AIGTech - AI Manager.exe` 设置为以管理员身份运行以便使用。 ![1](https://user-images.githubusercontent.com/93370202/165091155-234d51fe-eb60-4029-8cb2-8001014a772a.jpg)
+2. 将 `AIGTech - AI Manager.exe` 设置为以管理员身份运行以便使用。 ![1](images/1.jpg)
 3. 双击运行 `AIGTech - AI Manager.exe`，软件初始化速度较慢，请耐性等待。
 4. 软件启动后点击界面左侧 `Settings` 按钮，此时AIM处于 `Flight Simulator` 页面。
-AIM 会自动识别您已安装的飞行模拟器版本和文件夹位置，不过仍建议您自行检查相关信息是否正确。 ![2](https://user-images.githubusercontent.com/93370202/165091185-260fd671-f586-4858-a4fd-3a9417baf8ff.jpg)
+AIM 会自动识别您已安装的飞行模拟器版本和文件夹位置，不过仍建议您自行检查相关信息是否正确。 ![2](images/2.jpg)
 5. 点击上方的 `Cookies` 按钮。如果您想让 AI Manager 能够自动下载各航空公司的涂装，您需要点击 `Login` 按钮登录您的 AVSIM Library 账号。
-在登陆页面打开的过程中，您可能会收到一系列询问您是否运行页面脚本的弹窗，您都需要点击 `是` 按钮以确保登陆成功。登录成功后，您应该能如图所示看到 `Status: LOGGED IN`。点击右上角 `Save` 按钮进行保存。![3](https://user-images.githubusercontent.com/93370202/165091224-56859092-1263-47d5-bccc-a11bbf1c02d4.jpg)![4](https://user-images.githubusercontent.com/93370202/165091257-d1047174-05fa-4a76-8c6f-9d621cb5df71.jpg)
-6. 点击上方 `AIGAIM - OCI` 按钮。点击 `Setup` 按钮选择您喜欢的且**剩余可用磁盘空间较为充足**的位置，您会看到 AIM 自动创建了一个新的子文件夹在您选择的位置下。该文件夹就是以后 AIM 下载和安装映射机模、涂装等文件的地方。如您只计划使用免费的映射机模与涂装，您还可以勾选 `Use Freeware only` 。点击右上角 `Save` 按钮进行保存。 ![5](https://user-images.githubusercontent.com/93370202/165091289-06e86199-6c2e-4f05-b54f-e43d0c4768f7.jpg)
+在登陆页面打开的过程中，您可能会收到一系列询问您是否运行页面脚本的弹窗，您都需要点击 `是` 按钮以确保登陆成功。登录成功后，您应该能如图所示看到 `Status: LOGGED IN`。点击右上角 `Save` 按钮进行保存。![3](images/3.jpg)![4](images/4.jpg)
+6. 点击上方 `AIGAIM - OCI` 按钮。点击 `Setup` 按钮选择您喜欢的且**剩余可用磁盘空间较为充足**的位置，您会看到 AIM 自动创建了一个新的子文件夹在您选择的位置下。该文件夹就是以后 AIM 下载和安装映射机模、涂装等文件的地方。如您只计划使用免费的映射机模与涂装，您还可以勾选 `Use Freeware only` 。点击右上角 `Save` 按钮进行保存。 ![5](images/5.jpg)
 
 至此，您完成了 AI Manager 的简单设置。接下来是 AI 交通的简单下载安装教程。
 
 1. 点击左侧 `Flightplans` 按钮，再点击上部 `Online` 按钮。此处就是 AIM 按航空公司所提供的飞行计划。在下载的飞行计划的过程中，AIM 也会自动下载和安装对应航空公司的机模与涂装。
-2. 找到您想安装的航空公司，依次点击 `Install` 、 `Install using OCI` 、 `Install`。![6](https://user-images.githubusercontent.com/93370202/165091329-4c5c8fb7-01f3-4c4f-99e2-73bc1ea7ecf7.jpg)
+2. 找到您想安装的航空公司，依次点击 `Install` 、 `Install using OCI` 、 `Install`。![6](images/6.jpg)
 待 `Flightplan Installation` 窗口消失且您选择的航空公司从列表中消失，相关机模、该航空公司的涂装与飞行计划就已经安装好了。
 3. 重复此操作直到您完成所有您需要的航空公司下载与安装。
 4. 启动 vPilot，软件会自动读取您安装的 AI 机模与涂装并在您日后的飞行中按照模型匹配规则自动完成映射。
-关于 vPilot 的映射设置，您可以移步查阅 [vPilot 使用文档](https://github.com/websterzh/vatprc-wiki/blob/vPilot/vPilot%20%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.md)中的相关内容获取更详细的信息。
+关于 vPilot 的映射设置，您可以移步查阅 [vPilot 官方文档](https://vpilot.rosscarlson.dev/Documentation)或[本 wiki 中的 vPilot 官方文档翻译](./vPilot%20使用文档.md)以获取更详细的信息。
 
 ## 机模
 
