@@ -1,0 +1,135 @@
+# 中国境内航空公司呼号汇总
+
+请机组尽可能的使用现实中 **真实存在** 或 **真实存在过** 亦或是  **VATSIM 官方批准的虚拟航空公司** 呼号连线，对于 **现实中不存在的** 或 **现实中未曾存在过的** 抑或是 **未经过 VATSIM 官方批准的虚拟航空公司** 呼号，管制员有权利不承认其呼号。
+
+VATSIM 批准的 虚拟航空公司[列表](https://my.vatsim.net/virtual-airlines)
+
+## 中国大陆航空公司
+
+注意，中国大陆航空公司的中文呼号仅限在中国大陆使用，在国外和港澳台飞行时请使用英文呼号和英文陆空对话，即使该在线管制员为PRC管制员。
+
+| ICAO代码 | 航司名称             | 中文呼号    | 英文呼号                |
+| -------- | -------------------- | ----------- | ---------------------- |
+| AYE      | 云南英安航空         | 英安        | AIR YING AN             |
+| BDJ      | 北京金鹿公务         | 皇冠        | CROWN JET               |
+| BGC      | 北京国都公务航空     | 燕都        | YANDU                   |
+| BJN      | 北京航空             | 京华        | AIR JINGHUA             |
+| CAO      | 中国国际货运航空     | 凤凰        | AIR CHINA FREIGHT       |
+| CBG      | 北部湾航空           | 浪花        | GREEN CITY              |
+| CBJ      | 首都航空             | 神鹿        | CAPITAL JET             |
+| CCA      | 中国国际航空         | 国航/国际   | AIR CHINA               |
+| CCD      | 大连航空             | 响箭        | XIANGJIAN               |
+| CCO      | 中航货运             | 远望        | AVIC CARGO              |
+| CCS      | 商飞快线             | 圆梦        | COMAC EXPRESS           |
+| CDC      | 浙江长龙航空         | 华龙        | LOONG AIR               |
+| CDG      | 山东航空             | 山东        | SHANDONG                |
+| CES      | 中国东方航空         | 东方        | CHINA EASTERN           |
+| CFA      | 中国飞龙通用航空     | 飞龙        | FEILONG                 |
+| CFI      | 中国民航飞行校验中心 | 校飞        | CHINA FLIGHT INSPECTION |
+| CFJ      | 福建航空             | 福州        | FUJIAN                  |
+| CGH      | 桂林航空             | 超越        | WELKIN                  |
+| CGN      | 长安航空             | 旭日        | CHANG'AN                |
+| CGZ      | 多彩贵州航空         | 黔兴        | COLORFUL                |
+| CHB      | 西部航空             | 西部        | WEST CHINA              |
+| CHH      | 海南航空             | 海南        | HAINAN                  |
+| CJX      | 江西航空             | 仙鹤        | AIR CRANE               |
+| CKK      | 中国货运航空         | 货航        | CARGO KING              |
+| CNM      | 国航内蒙古           | 蒙元        | MENGYUAN                |
+| CNW      | 西北国际货运         | 隋唐        | TANG                    |
+| CQH      | 春秋航空             | 春秋        | AIR SPRING              |
+| CQN      | 重庆航空             | 重庆        | CHONGQING               |
+| CSC      | 四川航空             | 四川        | SICHUAN                 |
+| CSG      | 中国南方货运航空     | 开拓        | SOUTHERN CARGO          |
+| CSH      | 上海航空             | 上航        | SHANGHAI AIR            |
+| CSN      | 中国南方航空         | 南方        | CHINA SOUTHERN          |
+| CSS      | 顺丰航空             | 顺丰        | SHUN FENG               |
+| CSY      | 珠海中航通航         | 双阳        | SHUANGYANG              |
+| CSZ      | 深圳航空             | 深圳        | SHENZHEN                |
+| CTJ      | 天津货运航空         | 劝业        | TIANJIN CARGO           |
+| CUA      | 中国联航             | 联航        | CHINA UNITED            |
+| CUH      | 乌鲁木齐航空         | 楼兰        | LOULAN                  |
+| CWR      | 北京京城国际商务航空 | 环球        | CITY WORLD              |
+| CWU      | 武汉航空             | 武汉        | WUHAN AIR               |
+| CXA      | 厦门航空             | 白鹭        | XIAMEN AIR              |
+| CXI      | 山西航空             | 山西        | SHANXI                  |
+| CXJ      | 新疆航空             | 新疆        | XINJIANG                |
+| CXN      | 雄安航空             | 自强        | STRONG                  |
+| CYZ      | 邮政航空             | 邮政        | CHINA POST              |
+| DBH      | 东北航空             | 东北        | DONGBEI AIR             |
+| DER      | 上海金鹿公务         | 金鹿        | DEER JET                |
+| DKH      | 吉祥航空             | 吉祥        | AIR JUNEYAO             |
+| DLC      | 德宏南亚通用航空     | 翱翔        | SOAR COPTER             |
+| EPA      | 东海航空             | 东海        | DONGHAI AIR             |
+| EPB      | 东海公务机           | 东捷        | DONG JET                |
+| FTU      | 中国民航飞行学院     | 飞院        | FLIGHT UNIVWESITY       |
+| FZA      | 福州航空             | 涌泉        | STRAIT AIR              |
+| GCR      | 天津航空             | 渤海        | BOHAI                   |
+| GDC      | 大新华航空           | 大新华      | GRAND CHINA             |
+| GSC      | 银河货运航空         | 银河        | GRANDSTAR CARGO         |
+| GWL      | 长城航空             | 长城        | GREAT WALL              |
+| HAH      | 汉华公务机           | 汉马        | HANMA                   |
+| HBH      | 河北航空             | 河北        | HEBEI AIR               |
+| HFJ      | 懿丰公务航空         | 盘古        | PANGU                   |
+| HHG      | 快乐公务航空         | 瑞能        | HANERGY JET             |
+| HLF      | 中州航空             | 牡丹        | HOMELAND                |
+| HTK      | 宁夏货运航空         | 灵雀        | LINGBIRD                |
+| HTU      | 红土航空             | 乐途        | HONG LAND               |
+| HXA      | 华夏航空             | 华夏        | CHINA EXPRESS           |
+| HYT      | 圆通航空             | 速派        | QUICK AIR               |
+| JAE      | 翡翠航空             | 翡翠        | JADE CARGO              |
+| JBE      | 北京华龙商务航空     | 北极熊      | SINO JET                |
+| JGJ      | 陕西精功通用航空     | 精功        | GLOBAL JINGGONG         |
+| JOY      | 幸福航空             | 幸福        | JOY AIR                 |
+| JSU      | 江苏公务航空         | 苏润        | SU JET                  |
+| JYH      | 九元航空             | 如意        | TRANS JADE              |
+| KNA      | 昆明航空             | 昆航        | KUNMING AIR             |
+| KPA      | 鲲鹏航空             | 鲲鹏        | KUNPENG                 |
+| KXA      | 江西快线             | 快线        | FINDER AIR              |
+| LHA      | 中原龙浩航空         | 木棉        | AIR CANTON              |
+| LKE      | 祥鹏航空             | 祥鹏        | LUCKY AIR               |
+| MSF      | 民生国际通用航空     | 民生        | MINSHENG                |
+| MZT      | 中一太客商务航空     | 中太        | MZT                     |
+| NMG      | 天骄航空             | 牧歌        | TIANJIAO AIR            |
+| NSJ      | 南山公务机           | 南山        | NANSHAN                 |
+| OKA      | 奥凯航空             | 奥凯        | OKAY JET                |
+| OTC      | 湖南航空             | 乐程        | AIR TRAVEL              |
+| OTT      | 一二三航空           | 齐嘉        | OTT AIRLINES            |
+| QDA      | 青岛航空             | 胶澳        | SKY LEGEND              |
+| QSR      | 耀莱通用航空         | 耀莱        | SPARKLE ROLL            |
+| RLH      | 瑞丽航空             | 森地        | SENDI                   |
+| SNG      | 龙江航空             | 雪雕        | SNOW EAGLE              |
+| TBA      | 西藏航空             | 西藏        | TIBET AIR               |
+| UEA      | 成都航空             | 锦绣        | UNITED EAGLE            |
+| UNA      | 亚联公务机           | 亚联        | UNITED ASIA             |
+| UTP      | 友和道通             | 友和        | UNI TOP                 |
+| XAI      | 尊翔公务航空         | 爱客        | PEX AIR                 |
+| YZR      | 金鹏航空             | 扬子江/金鹏 | YANGTZE RIVER           |
+
+## 中国台湾航空公司
+
+| ICAO代码 | 航司名称                              | 中文呼号 | 英文呼号    |
+| :------- | ------------------------------------- | -------- | ----------- |
+| CAL      | 中华航空（China Airlines）            | -        | DYNASTY     |
+| EVA      | 长荣航空（EVA Air）                   | -        | EVA         |
+| MDA      | 台湾华信航空（Mandarin Airlines）     | -        | MANDARIN    |
+| SJX      | 星宇航空（STARLUX Airlines）          | -        | STARWALLKER |
+| UNI      | 立荣航空（UNI Air）                   | -        | GLORY       |
+| TTW      | 台湾虎航（TigerAir Taiwan）           | -        | SMART CAT   |
+| FEA      | 远东航空（Far Eastern Air Transport） | -        | FAR EASTERN |
+| TNA      | 复兴航空（TransAsia Airways）         | -        | TransAsia   |
+
+## 中国香港航空公司
+
+| ICAO代码 | 航司名称                            | 英文呼号         |
+| -------- | ----------------------------------- | ---------------- |
+| AHK      | 香港华民航空（Air Hong Kong）       | AIR HONG KONG    |
+| CPA      | 国泰航空（Cathay Pacific）          | CATHAY           |
+| CRK      | 香港航空（Hong Kong Airlines）      | BAUHINIA         |
+| HKC      | 香港货运航空（Hong Kong Air Cargo） | MASCOT           |
+| HKE      | 香港快运（HK Express）              | HONGKONG SHUTTLE |
+
+## 中国澳门航空公司
+
+| ICAO代码 | 航司名称               | 英文呼号  |
+| -------- | ---------------------- | --------- |
+| AMU      | 澳门航空（Air  Macau） | AIR MACAU |
