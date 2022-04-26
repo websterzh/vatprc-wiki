@@ -90,7 +90,7 @@ Controller: Taxi via `ALPHA TOO`, `ALPHA`, `BRAVO FOW-er`, `KILO`, `KILO WUN` to
 管制员：修正海压`幺-洞-幺-两`， 地面风`幺-拐-洞`，`两`米每秒，跑道`幺-拐`左，可以起飞。  
 Controller: QNH `WUN ZE-RO WUN TOO`, wind `WUN SEV-EN ZE-RO`, `TOO` meters per second, runway `WUN SEV-EN` left, cleared for takeoff.  
 
-*注：本例中的“QNH”为固定搭配，不能按照上节所介绍的字母读法将其分别读出。即仅需读出字母即可，而不是“QUEBEC NOVEMBER HOTEL”。另外，跑道编号中的L（左）、C（中）、R（右）需要读成“Left”、“Center”、“Right”，而不是“LIMA”、“CHARLIE”、“ROMEO”。*
+*注：本例中的“QNH”为固定搭配，不能按照上节所介绍的字母读法将其分别读出。即仅需读出字母即可，而不是“QUEBEC NOVEMBER HOTEL”。另外，跑道编号中的L（左）、C（中）、R（右）需要读成“Left”、“Center”、“Right”，而不是“LIMA”、“CHARLIE”、“ROMEO”。*  
 &nbsp;
 
 >爬升至7200米，指示空速不小于270节，并调频124.550MHz联系上海区域的指令。
@@ -98,6 +98,7 @@ Controller: QNH `WUN ZE-RO WUN TOO`, wind `WUN SEV-EN ZE-RO`, `TOO` meters per s
 管制员：上升至`拐-两`，表速不小于`两-拐-洞`，联系上海区域`幺-两-四-点-五-五（洞）`。  
 Controller: Climb to and maintain `TOO TOU-SAND SEV-EN HUN-dred` meters, speed `TOO SEV-EN ZE-RO` (knots) or greater, contact Shanghai Control on `WUN TOO FOW-er DAY-SEE-MAL FIFE FIFE (ZE-RO)`.
 
-*注：括号内的内容表示可以省略。*
+*注：括号内的内容表示可以省略。*  
+&nbsp;
 
 # 固定搭配及专有名词缩写
