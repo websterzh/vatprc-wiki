@@ -42,29 +42,40 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
 
 + Airbus
-
   - A300 ：[iniSimulations A300-600R(F)](https://store.inibuilds.com/products/a300)
-
+  
   - A310 ：[iniSimulations A310-300](https://store.inibuilds.com/products/a310)
-
+  
   - A320 ：[Toliss A319](https://store.x-plane.org/Airbus-A319-by-Toliss_p_762.html), [FlightFactor A320U](https://store.x-plane.org/A320-Ultimate_p_688.html), [ToLiss A321](https://store.x-plane.org/Airbus-A321-by-Toliss_p_1174.html)
-
+  
   - A340 ：[Toliss A340](https://store.x-plane.org/Airbus-A340-600-by-Toliss_p_1459.html)
-
+  
   - A350 ：[FlightFactor A350](https://store.x-plane.org/Airbus-A350-XWB-Advanced_p_348.html)
-
+  
+    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/A321.jpg)
+    
+    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/A359.png)
+    
     
 
 - Boeing
-
   - B737 家族 : [IXEG 737 Classic](https://www.x-aviation.com/catalog/product_info.php/take-command-ixeg-737-classic-p-122), [Level UP Boeing 737NG](https://forum.thresholdx.net/files/file/1298-boeing-737ng-series/)
-  - B747 家族 : [Felis-747-200](https://store.x-plane.org/Boeing-747-200-Classic_p_1491.html)
-  - B757 家族 : [FlightFactor B757](https://store.x-plane.org/757-Professional_c_10.html)
-  - B767 家族 : [FlightFactor B767](https://store.x-plane.org/767-Professional_c_181.html)
-
   
-
+  - B747 家族 : [Felis-747-200](https://store.x-plane.org/Boeing-747-200-Classic_p_1491.html)
+  
+  - B757 家族 : [FlightFactor B757](https://store.x-plane.org/757-Professional_c_10.html)
+  
+  - B767 家族 : [FlightFactor B767](https://store.x-plane.org/767-Professional_c_181.html)
+  
+    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/B757.jpg)
+  
+    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/B742.jpg)
+  
+  
+  
 + [Embraer](https://store.x-plane.org/Embraer-Fleet-by-X-Crafts_p_998.html)
+
+  ![IMAGE](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/E145.png)
 
 
 
@@ -102,6 +113,34 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
 [Navigraph](https://navigraph.com/)
 
++ Navigraph Charts
+
+  用于查看航路图，航图
+
+  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Navigraph_Charts.png)
+
+
+
++ Navigraph FMS Data Manager
+
+  用于更新导航数据
+
+  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Navigraph_FMS_Data.png)
+
+
+
+### Active Sky XP
+
+Active Sky XP首次将广受欢迎的Active Sky气象引擎引入X-Plane平台。通过X-Plane 11的天气API使用天气界面，实现了真实的天气体验。
+
+[Active Sky XP](https://secure.simmarket.com/hifi-tech-active-sky-xp-(zh_12147).phtml)
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/ASXP.png)
+
+
+
+
+
 
 ### Avitab
 
@@ -114,34 +153,35 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 下载最新版本的Avitab
 解压文件并将文件夹移动到`X-Plane/Resources/Plugins`目录中
 启动X-Plane
-在plugins菜单中找到Avitab来打开平板电脑
+在plugins菜单中找到Avitab以打开平板电脑
+
+![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Plugins_Avitab.png)
+
+
 
 
 ### Better Pushback
-
 一个X-Plane 11飞行模拟器的后推插件。它提供俯视图来规划后推路线，当然，它也可以把你向前拖，或者执行任意复杂的推回操作。为了增加沉浸感，它可以用各种语言和口音与你交谈，模拟世界各地的地面工作人员。
 
-**如何安装Better Pushback
+**如何安装Better Pushback**
 
 下载最新版本的[Better Pushback](https://github.com/skiselkov/BetterPushbackC/releases)
 解压文件并将文件夹移动到`X-Plane/Resources/Plugins`目录中
 
+![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Plugins_Better_Pushback.png)
 
 
-**如何使用Better Pushback
+
+**如何使用Better Pushback**
 
 在plugins菜单中找到Better Pushback
 
 + Pre-Plan pushback 设置后推路线
+
 + Start pushback 开始后推
+
 + Stop pushback 停止后推
 
+  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Better_Pushback.png)
 
-### GroundHandling
-
-[GroundHandling](https://store.x-plane.org/Ground-Handling-Deluxe_p_415.html)
-
-
-### SAM WorldJetways
-
-[SAM WorldJetways](https://store.x-plane.org/SAM-WorldJetways_p_1131.html)
+  
