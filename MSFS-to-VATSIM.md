@@ -98,5 +98,15 @@
     
     有关正则表达式的使用方法，请参阅网上介绍。
     
+    将匹配规则添加完成后，Model Matching Magic需要重新对机模库进行一次扫描，以应用这些匹配。
     
+    扫描的过程中，Model Matching Magic将会使用您所填写的正则表达式，通过每个涂装在其Aircraft.cfg文件中的Title栏内容对其机型进行判断。
+
+一切完成后，点击界面下方的 `Generate Vmr File` 生成匹配规则文件。生成的匹配规则文件会被保存在与ModelMatchingMagic.exe相同的目录下。
+
+### 在vPilot中添加客制化模型匹配规则
+    
+跳转vPilot使用手册
+
+### 启动MSFS
     
