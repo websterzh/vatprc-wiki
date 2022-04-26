@@ -111,7 +111,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 ![QQ图片20220425144756](https://user-images.githubusercontent.com/104274235/165035677-bdb72f14-e844-407d-8317-6c4b28dd04e8.png)
 
-有关模型匹配如何在 vPilot 中工作的更多信息，请参阅下面的模型匹配部分。 对于在您系统上每个受支持的模拟器，您将拥有一个选项卡。
+有关模型匹配如何在 vPilot 中工作的更多信息，请参阅下面的[模型匹配](#模型匹配)部分。 对于在您系统上每个受支持的模拟器，您将拥有一个选项卡。
 #### The Model Matching - Advanced
 
 ![QQ图片20220425144809](https://user-images.githubusercontent.com/104274235/165035703-432a1485-6d67-434e-8818-56b6a94cf4ef.png)
