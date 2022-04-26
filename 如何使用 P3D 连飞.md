@@ -6,20 +6,20 @@
 
 ## 目录
 
-1. 连飞软件
-   - 下载
-   - 安装
-   - 设置
-   - 使用
-2. 映射插件
-   - 简介
-   - 下载
-   - 安装
-   - 设置
-3. 机模插件
-4. 地景插件
-5. 天气插件
-6. 后推插件
+1. [连飞软件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#连飞软件)
+   - [下载](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#下载)
+   - [安装](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#安装)
+   - [设置](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#设置)
+   - [使用](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#使用)
+2. [映射插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#映射插件)
+   - [简介](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#简介)
+   - [下载](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#下载-1)
+   - [安装](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#安装-1)
+   - [设置](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#设置-1)
+3. [机模插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#机模插件)
+4. [地景插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#地景插件)
+5. [天气插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#天气插件)
+6. [后推插件](https://github.com/websterzh/vatprc-wiki/blob/P3D-to-VATSIM/如何使用%20P3D%20连飞.md#后推插件)
 
 ## 连飞软件
 
