@@ -126,7 +126,7 @@
     
 这些云组报告将以高度递增的方式给出。例如`FEW005 SCT010 SCT018CB BKN025`
 
-+ 当天空无云且不符合`CAVOK` 的条件，云组编码以`SKC `(sky clear)表示。
++ 当天空无云但不符合`CAVOK` 的条件时，云组编码以`SKC`(sky clear)表示。
 
 + 当5000英尺以下或最高的扇区安全高度以下(两者中较高者)无云且无积雨云或浓积云时报告`NSC` (no significant cloud)。但是，无论积雨云或浓积云的高度如何,这些云的云量，云底高和云的类型必须报告。
 
@@ -311,7 +311,7 @@ METAR ZLGM 261200Z AUTO 30011G16MPS 9999 // ////// 17/M06 Q1014=
 ### 概念
 当在两次例行观测之间的时段内，出现下列情况时，需要进行SPECI报： 
 
-+ 当能见度(跑道视程)、 云、风达到或通过本场特选报规定的数值,或达到、通过本场运行最低标准时
++ 当能见度(跑道视程)、 云、风达到或通过本场特选报规定的数值，或达到、通过本场运行最低标准时
 
 + 某些要素达到或通过经空中交通管制部或其他部门]和气象部门]商定的数值时。
 
@@ -388,7 +388,11 @@ SCT010 SCT020CB BECMG 2724/2801 2000 RA BR OVC010=
 
 ## 重要气象情报（SIGMET）
 ### 概念
-（待补充）
+根据ICAO（国际民航组织）的定义，SIGMET（Significant Meteorological information）是气象监视机构就可能影响航空器运行安全的特定航路天气现象的发生或预计发生发布的信息。SIGMET一共有三种类型，包括WS SIGMET、WV SIGMET、WC SIGMET。
+
+其中，WS可以提供的信息包括TS/Thunderstorm、TURB/Turbulence、ICE/Icing、MTW/Mountain Wave、DS/Duststorm、SS/Sandstorm、RDOACT/Radioactive Cloud；WV可以提供的信息包括VA/Volcanic Ash；WC可以提供的信息包括Tropical cyclone。
+
+这些SIGMET报可以为机组提供航路过程中的重要天气信息，以提醒机组提前规划避开危险天气。
 ### SIGMET报模板
 ![image](https://user-images.githubusercontent.com/101052757/165291174-724f7a77-5c23-4c62-b287-e6d6e2b909de.png)
 
