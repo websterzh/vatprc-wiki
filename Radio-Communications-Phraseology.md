@@ -19,37 +19,37 @@
 ## 数字、符号读法  
 
   | 数字/符号 | 中文读法 | 英文读法 |
-  | --- | --- | --- |
-  | 0 | 洞 | `ZE-RO` |
-  | 1 | 幺 | `WUN` |
-  | 2 | 两 | `TOO` |
-  | 3 | 三 | `TREE` |
-  | 4 | 四 | `FOW-er` |
-  | 5 | 五 | `FIFE` |
-  | 6 | 六 | `SIX` |
-  | 7 | 拐 | `SEV-en` |
-  | 8 | 八 | `AIT` |
-  | 9 | 九 | `NIN-er` |
-  | . | 点 | `DAY-SEE-MAL`(Decimal) / `POINT` |
-  | -（用于温度） | 零下 | `MINUS` / `NEGATIVE` |
-  | °（用于航向） | 度 | `DEGREES` |
-  | °C（用于温度） | 摄氏度 | `DEGREES CELSIUS` |
+  | --- | :---: | :---: |
+  | 0 | `洞` | `ZE-RO` |
+  | 1 | `幺` | `WUN` |
+  | 2 | `两` | `TOO` |
+  | 3 | `三` | `TREE` |
+  | 4 | `四` | `FOW-er` |
+  | 5 | `五` | `FIFE` |
+  | 6 | `六` | `SIX` |
+  | 7 | `拐` | `SEV-en` |
+  | 8 | `八` | `AIT` |
+  | 9 | `九` | `NIN-er` |
+  | . | `点` | `DAY-SEE-MAL`(Decimal) / `POINT` |
+  | -（用于温度） | `零下` / `负` | `MINUS` / `NEGATIVE` |
+  | °（用于航向） | `度` | `DEGREES` |
+  | °C（用于温度） | `摄氏度` | `DEGREES CELSIUS` |
 
   *注：上述英文读法仅代表发音，不用于书写。另外，除用作高度时以外，所有数字/数字组合都需要按上表中所标注的读法，将每个数字分别读出。*
 
 ## 高度读法（部分）  
 
   | 高度 | 中文读法 | 英文读法 |
-  | --- | --- | --- |
-  | 600米 | 六百 | `SIX HUN-dred METERS` |
-  | 1200米 | 幺两 | `WUN TOU-SAND TOO HUN-dred METERS` |
-  | 2700米 | 两拐 | `TOO TOU-SAND SEV-en HUN-dred METERS` |
-  | 3600米 | 三千六 | `TREE TOU-SAND SIX HUN-dred METERS` |
-  | 7500米 | 拐五 、 拐千五 | `SEV-EN TOU-SAND FIFE HUN-dred METERS` |
-  | 10100米 | 幺洞幺 | `TEN TOU-SAND WUN HUN-dred METERS` / `WUN ZE-RO TOU-SAND WUN HUN-dred METERS` |
-  | 11000米 | 幺幺洞 | `ELEVEN TOU-SAND METERS` / `WUN WUN TOU-SAND METERS` |
-  | 6000英尺 | 六千英尺 | `SIX TOU-SAND FEET` |
-  | FL190 | 高度层幺九洞 | `FLIGHT LEVEL WUN NIN-er ZE-RO` |
+  | --- | :---: | :---: |
+  | 600米 | `六百` | `SIX HUN-dred METERS` |
+  | 1200米 | `幺两` | `WUN TOU-SAND TOO HUN-dred METERS` |
+  | 2700米 | `两拐` | `TOO TOU-SAND SEV-en HUN-dred METERS` |
+  | 3600米 | `三千六` | `TREE TOU-SAND SIX HUN-dred METERS` |
+  | 7500米 | `拐五` / `拐千五` | `SEV-EN TOU-SAND FIFE HUN-dred METERS` |
+  | 10100米 | `幺洞幺` | `TEN TOU-SAND WUN HUN-dred METERS` / `WUN ZE-RO TOU-SAND WUN HUN-dred METERS` |
+  | 11000米 | `幺幺洞` | `ELEVEN TOU-SAND METERS` / `WUN WUN TOU-SAND METERS` |
+  | 6000英尺 | `六千英尺` | `SIX TOU-SAND FEET` |
+  | FL190 | `高度层幺九洞` | `FLIGHT LEVEL WUN NIN-er ZE-RO` |
   
   *注：上述英文读法仅代表发音，不用于书写。书写高度时应使用阿拉伯数字及高度单位，如：1200m，9000ft，FL320。*
   
@@ -58,7 +58,7 @@
   与上面两个小节不同的是，英文字母读法采用以读单词替代读字母的方式，而非数字使用的类似注音的方式。
 
   | 字母 | 读法 || 字母 | 读法 |
-  | --- | --- |---| --- | --- |
+  | --- | :---: |---| --- | :---: |
   | A | `ALPHA` || N | `NOVEMBER` |
   | B | `BRAVO` || O | `OSCAR` |
   | C | `CHARLIE` || P | `PAPA` |
@@ -113,7 +113,7 @@
 
 ## 专有名词中英文读法
 | 专有名词 | 中文读法 | 英文读法 | 注释 |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | --- |
 | 修正海压 | `修正海压` | `QNH` ||
 | 标准气压 | `标准气压` | `(on) standard` | 英文通话时应读为 高度（按“[高度读法](#高度读法部分)”读出） + `on standard`，如：<br />>`3600 meters on standard` |
 | 盲降 | `盲降` | `ILS` ||
