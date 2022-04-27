@@ -108,7 +108,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 请注意，如果您设置键盘键用于 PTT ，并且您以管理员身份运行 FSX/P3D/MSFS，则还必须以管理员身份运行 vPilot 才能识别按键。
 
-如果您不想在 VATSIM 上使用语音，请按 `Clear Current PTT Assignment` 按钮。
+如果您不想在 VATSIM 上使用语音，请按 `Clear Current PTT Assignment` 按钮将PTT的映射删除。
 ### The Model Matching Tabs
 
 ![QQ图片20220425144756](https://user-images.githubusercontent.com/104274235/165035677-bdb72f14-e844-407d-8317-6c4b28dd04e8.png)
