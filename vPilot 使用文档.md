@@ -285,7 +285,7 @@ vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DA
 **译者注：由于上述说明与VATSIM Code of Conduct（下称CoC）中的[B4](/../master/COC_translate_full.md#b4)项产生冲突，请机组依照CoC中的规定，在航空器运动过程中启用应答机的C模式（除非管制员要求将应答机调至Standby）。**
 
 您可以通过三种方式使用 vPilot 设置应答机模式。
-- 如果飞行器集成了 SquawkBox 应答器，则当您在 模拟器 中的飞机面板切换模式时，vPilot 将检测应答器模式的变化。也是就，当 模拟器 应答机处于 C 模式时，您会看到 vPilot 主窗口上的 `mode C` 按钮绿色亮起。
+- 如果您所使用的机模插件集成了 SquawkBox 应答器，则当您在 模拟器 中的相应面别更改应答机模式时，vPilot 将会检测该变化。也是就，当 模拟器的应答机开启了 C 模式时，vPilot也会相应的将主窗口上的 `mode C` 按钮亮起。
 - 如果飞行器不支持 SquawkBox 集成，那么您需要手动在 vPilot 管理应答器模式，只需单击 vPilot 主窗口上的 `mode C` 按钮即可。 `mode C` 按钮绿色表示应答机已经处于 C 模式，否则则处于 Standby 模式。
 - 最后一种方法是使用 模拟器 中的菜单 Add-ons 。当 vPilot 运行时，此菜单中会出现 `Squawk Mode C`  `Squawk Standby` 选项。
 
