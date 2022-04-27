@@ -155,7 +155,7 @@
 | --- | :---: | :---: | --- |
 | 修正海压 | `修正海压` | `QNH` ||
 | 标准气压 | `标准气压` | `(on) standard` | 英文通话时应读为 高度（按“[高度读法](#高度读法部分)”读出） + `on standard`，如：<br />>`3600 meters on standard` |
-| 盲降 | `盲降` | `ILS` ||
+| 仪表着陆系统 | `盲降` | `ILS` ||
 | 甚高频全向信标台 | `VOR` | `VOR` ||
 | 无方向信标台 | `NDB` | `NDB` ||
 | 测距仪 | `测距` / `DME` | `DME` | 中文通话中与距离搭配使用时读作`测距`，如：<br />>距大王庄VOR`测距`十海里报告。<br />>Report ten (nautical miles) `DME` to VYK VOR.<br /><br />用作表示基于陆基导航设施的进近方式时，读作 `DME`，如：<br />>可以 `VOR` `DME` 进近。<br />>Cleared for `VOR` `DME` approach. |
