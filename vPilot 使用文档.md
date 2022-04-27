@@ -106,7 +106,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 在此部分，您可以选择要用于 PTT 的键盘键或操纵杆/按钮。 只需按下标有 `Set new PTT Key or Button` 的按钮，然后在键盘键或操纵杆上按下要用于 PTT 的按键/按钮。 vPilot 将检测并相应地更新 `Current PTT Assignment` 的映射。
 
-请注意，如果您设置键盘键用于 PTT ，并且您以管理员身份运行 FSX/P3D/MSFS，则还必须以管理员身份运行 vPilot 才能识别按键。
+请注意，如果您的PTT使用的时键盘按键，当您以管理员身份运行 FSX/P3D/MSFS时，必须同样以管理员身份运行 vPilot 才可以保证vPilot正确识别该按键。
 
 如果您不想在 VATSIM 上使用语音，请按 `Clear Current PTT Assignment` 按钮将PTT的映射删除。
 ### The Model Matching Tabs
