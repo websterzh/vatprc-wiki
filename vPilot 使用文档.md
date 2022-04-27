@@ -140,7 +140,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 ![QQ图片20220425144830](https://user-images.githubusercontent.com/104274235/165035795-9d29283b-636d-4395-8eaa-095ed4b81ca2.png)
 
-在这里，您可以选择让 vPilot 在您的飞机离地时自动将应答机 C 模式。 如果您的飞机集成有 SquawkBox 转发器，则应不选中此复选框，因为 vPilot 将能够直接从飞机面板读取应答机模式。
+在这里，您可以选择让 vPilot 在您的飞机离地时自动开启应答机的C 模式。 如果您的飞机集成有 SquawkBox 转发器，则应不选中此复选框，因为 vPilot 将能够直接从飞机面板读取应答机模式。
 
 勾选 `Keep window visible` 可以将您的 vPilot 主窗口保持在其他窗口前端。 请注意，当 FSX 在全屏模式下运行时，这个功能将不起作用。
 
