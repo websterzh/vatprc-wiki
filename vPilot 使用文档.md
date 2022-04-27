@@ -128,7 +128,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 ![QQ图片20220425144820](https://user-images.githubusercontent.com/104274235/165035751-7836d7a8-b35b-474e-b4e5-47660f8d0403.png)
 
-在这里，您可以限制 vPilot 显示在您模拟器里的飞机数量。 如果您在拥挤的区域发现帧率下降，你可以降低这些数字。
+在这里，您可以限制 vPilot 显示在您模拟器里的飞机数量。 如果您在航空器较多的区域发现帧率下降，你可以通过降低这个值来减少您模拟器中显示的航空器数量。
 ### Updates
 
 ![QQ图片20220425144824](https://user-images.githubusercontent.com/104274235/165035772-9837c121-c3e9-4f53-b26d-d924c5d7f7bc.png)
