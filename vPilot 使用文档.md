@@ -52,6 +52,8 @@
 
 第一次运行 vPilot 时，您将看到一个窗口弹出，该消息表明您尚未完全配置 vPilot，单击 `是(Y)` 打开设置窗口并配置 vPilot。
 
+![QQ图片20220424160545](https://user-images.githubusercontent.com/104274235/165445007-3ed5e4ca-35f1-4872-a407-b37263f78945.png)
+
 vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 如果模拟器尚未运行，它将每隔 10 秒重试一次。当最终建立与模拟器的连接时，vPilot会在主消息区域显示一条消息（以 Lockheed Martin Prepar3D v5为例）。
 
 ![QQ图片20220425135712](https://user-images.githubusercontent.com/104274235/165033579-de11e382-795c-4cf5-a2fc-ffdb2ddfac0c.png)
