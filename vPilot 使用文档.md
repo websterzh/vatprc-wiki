@@ -270,7 +270,7 @@ vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DA
 
 ## 连接到 VATSIM
 
-要连接到 VATSIM ，请单击 `Connect` 按钮。 您将看到 `Connect` 窗口。 输入您的呼号和机型。 SELCAL 代码是可选的。
+要连接到 VATSIM ，请单击 `Connect` 按钮。 此时，vPilot将会弹出 `Connect` 对话框。您需要在这里输入您的呼号以及机型ICAO代码，并输入您希望使用的SELCAL代码或留空。
 
 ![QQ图片20220425144516](https://user-images.githubusercontent.com/104274235/165035208-c064313e-a983-4f38-a7ed-779f31434456.png)
 
