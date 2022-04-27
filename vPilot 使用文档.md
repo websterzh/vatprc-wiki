@@ -135,7 +135,7 @@ vPilot 启动后，它会立即尝试通过 SimConnect 连接到模拟器 。 �
 
 如果您勾选了 `Check for vPilot updates` ， vPilot 将会在每次启用时自动检查可用更新。 有关更新的详细信息，请参阅下载更新部分。 此选项应保持启用状态，以确保您知道何时发布新版本的 vPilot 。注：由于 Velocity 的实施，请确保您的 vPilot 版本已更新至 v3.x版本 ，否则将无法连接到 VATSIM连飞网络。
 
-此选项卡还允许您选择从 `Stable` 还是 `Beta` 更新下载。 大多数用户因选择 `Stable` 。 如果您想获得最新可用的 vPilot 版本，您可以将此设置更改为 `Beta` ，但 vPilot 的 Beta 版本尚未经过彻底测试，可能存在BUG。
+此选项卡还允许您选择从 `Stable` 还是 `Beta` 更新下载。 大多数用户应选择 `Stable` 。 如果您想获得最新可用的 vPilot 版本，您可以将此设置更改为 `Beta` ，但 vPilot 的 Beta 版本尚未经过彻底测试，可能存在BUG。
 ### Miscellaneous
 
 ![QQ图片20220425144830](https://user-images.githubusercontent.com/104274235/165035795-9d29283b-636d-4395-8eaa-095ed4b81ca2.png)
