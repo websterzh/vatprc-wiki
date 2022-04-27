@@ -158,7 +158,7 @@
 | 仪表着陆系统 | `盲降` | `ILS` ||
 | 甚高频全向信标台 | `VOR` | `VOR` ||
 | 无方向信标台 | `NDB` | `NDB` ||
-| 测距仪 | `测距` / `DME` | `DME` | 中文通话中与距离搭配使用时读作`测距`，如：<br />>距大王庄VOR`测距`幺-洞海里报告。<br />>Report WUN ZE-RO (nautical miles) `DME` to VYK VOR.<br /><br />用作表示基于地面啊导航设施的进近方式时，读作 `DME`，如：<br />>可以 `VOR` `DME` 进近。<br />>Cleared for `VOR` `DME` approach. |
+| 测距仪 | `测距` / `DME` | `DME` | 中文通话中，与距离搭配使用时读作`测距`，如：<br />>距大王庄VOR`测距`幺-洞海里报告。<br />用作表示基于地面导航设施的进近方式时，读作 `DME`，如：<br />>可以 `VOR` `DME` 进近。|
 | 广播式自动相关监视 | `ADS-B` | `ADS-B` ||
 | | | |
 
