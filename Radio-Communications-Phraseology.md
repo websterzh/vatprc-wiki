@@ -6,7 +6,7 @@
   + [高度读法](#高度读法部分)
   + [英文字母读法](#英文字母读法)
   + [情景应用](#情景应用)
-+ 固定搭配及专有名词缩写
++ [固定搭配及专有名词中英文读法](#固定搭配及专有名词中英文读法)
 
 # 前言
 
@@ -73,7 +73,7 @@
   | L | `LIMA` || Y | `YANKEE` |
   | M | `MIKE` || Z | `ZULU` |
   
-  *注：书写单独的英文字母时，直接写出字母即可，不要使用上表中列出的读法。另外，英文字母只有被使用于非固定搭配中（如滑行道编号，停机位编号，导航台名称，机场代码等）时，才需要将每个字母单独按照上表所标注的读法分别读出。固定搭配（如跑道编号、导航点名称、专有名词缩写等）中的英文字母则按固定搭配的读法读出。详细介绍见*
+  *注：书写单独的英文字母时，直接写出字母即可，不要使用上表中列出的读法。另外，英文字母只有被使用于非固定搭配中（如滑行道编号，停机位编号，导航台名称，机场代码等）时，才需要将每个字母单独按照上表所标注的读法分别读出。固定搭配（如跑道编号、导航点名称、专有名词缩写等）中的英文字母则按固定搭配的读法读出。详细介绍见“[固定搭配及专有名词缩写](#固定搭配及专有名词缩写)”*
   
 ## 情景应用
 
@@ -81,24 +81,43 @@
 
 >滑行路线为 `A2` > `A` > `B4` > `K` > `K1` 至停机位 `227` 的滑行指令。  
 
-管制员：滑行经过 `ALPHA-两`，`ALPHA`，`BRAVO-四`，`KILO`，`KILO-幺`，进位`两-两-拐`。  
-Controller: Taxi via `ALPHA TOO`, `ALPHA`, `BRAVO FOW-er`, `KILO`, `KILO WUN` to stand `TOO TOO SEV-EN`.  
+\>管制员：滑行经过 `ALPHA-两`，`ALPHA`，`BRAVO-四`，`KILO`，`KILO-幺`，进位`两-两-拐`。  
+\>Controller: Taxi via `ALPHA TOO`, `ALPHA`, `BRAVO FOW-er`, `KILO`, `KILO WUN` to stand `TOO TOO SEV-EN`.  
 &nbsp;
 
 >风向为170度，风速为2米/秒，修正海压为1012百帕时，跑道17L的起飞指令。
 
-管制员：修正海压`幺-洞-幺-两`， 地面风`幺-拐-洞`，`两`米每秒，跑道`幺-拐`左，可以起飞。  
-Controller: QNH `WUN ZE-RO WUN TOO`, wind `WUN SEV-EN ZE-RO`, `TOO` meters per second, runway `WUN SEV-EN` left, cleared for takeoff.  
+\>管制员：修正海压`幺-洞-幺-两`， 地面风`幺-拐-洞`，`两`米每秒，跑道`幺-拐`左，可以起飞。  
+\>Controller: QNH `WUN ZE-RO WUN TOO`, wind `WUN SEV-EN ZE-RO`, `TOO` meters per second, runway `WUN SEV-EN` left, cleared for takeoff.  
 
 *注：本例中的“QNH”为固定搭配，不能按照上节所介绍的字母读法将其分别读出。即仅需读出字母即可，而不是“QUEBEC NOVEMBER HOTEL”。另外，跑道编号中的L（左）、C（中）、R（右）需要读成“Left”、“Center”、“Right”，而不是“LIMA”、“CHARLIE”、“ROMEO”。*  
 &nbsp;
 
 >爬升至7200米，指示空速不小于270节，并调频124.550MHz联系上海区域的指令。
 
-管制员：上升至`拐-两`，表速不小于`两-拐-洞`，联系上海区域`幺-两-四-点-五-五（洞）`。  
-Controller: Climb to and maintain `TOO TOU-SAND SEV-EN HUN-dred` meters, speed `TOO SEV-EN ZE-RO` (knots) or greater, contact Shanghai Control on `WUN TOO FOW-er DAY-SEE-MAL FIFE FIFE (ZE-RO)`.
+\>管制员：上升至`拐-两`，表速不小于`两-拐-洞`，联系上海区域`幺-两-四-点-五-五（洞）`。  
+\>Controller: Climb to and maintain `TOO TOU-SAND SEV-EN HUN-dred` meters, speed `TOO SEV-EN ZE-RO` (knots) or greater, contact Shanghai Control on `WUN TOO FOW-er DAY-SEE-MAL FIFE FIFE (ZE-RO)`.
 
 *注：括号内的内容表示可以省略。*  
 &nbsp;
 
-# 固定搭配及专有名词缩写
+# 固定搭配及专有名词中英文读法
+
+以下介绍了一些常用的固定搭配以及专用名词和缩写。除特殊标注外，固定搭配及专有名词应遵循“所见即所读”的原则，不需要考虑上文提到的数字、符号及英文字母读法。
+
+## 固定搭配
+| 固定搭配 | 释义 | 注释 |
+| --- | --- | --- |
+| 跑道编号 | 数字及数字后的字母（L/C/R） | 数字应按“数字及符号读法”逐个读出，结尾的字母（如有）应读为左（Left），中（Center）或右（Right) |
+|  |  |  |
+
+## 专有名词中英文读法
+| 专有名词 | 中文读法 | 英文读法 | 注释 |
+| --- | --- | --- | --- |
+| 修正海压 | `修正海压` | `QNH` ||
+| 标准气压 | `标准气压` | `(on) standard` | 英文通话时应读为 高度（按“高度读法”读出） + `on standard`，如：`3600 meters on standard` |
+| 盲降 | `盲降` | `ILS` ||
+| 甚高频全向信标台 | `VOR` | `VOR` ||
+| 无方向信标台 | `NDB` | `NDB` ||
+| 测距仪 | `测距`<br />`DME` | `DME` | 中文通话中与距离搭配使用时读作`测距`，如：距大王庄VOR`测距`10海里报告（英文：Report 10 `DME` to VYK VOR）；<br />与VOR、NDB、ILS或其他导航设施搭配使用时，读作 `DME`，如表示VOR/DME进近方式时：可以 `VOR` `DME` 进近。 |
+| 广播式自动相关监视 | `ADS-B` | `ADS-B` ||
