@@ -274,7 +274,7 @@ vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DA
 
 ![QQ图片20220425144516](https://user-images.githubusercontent.com/104274235/165035208-c064313e-a983-4f38-a7ed-779f31434456.png)
 
-当您准备好接入 VATSIM 时，按下 `Connect` 按钮。 如果连接成功，您将在主消息区域看到一条消息， `Connect` 按钮此时将呈绿色亮起，并显示为 `Disconnect` 。 如果您所在位置范围内有管制员在线，它们将出现在管制员列表中，您可以调整频率以便与管制员通信。
+当您准备好接入 VATSIM 时，按下 `Connect` 按钮。 如果连接成功，您将在主消息区域看到一条连接成功的消息， 并且`Connect` 按钮将呈绿色亮起，并显示为 `Disconnect` 。 如果您所在位置范围内有管制员在线，他们的呼号及频率将出现在管制员列表中，以便您联系相应的管制员。
 
 有关使用共享驾驶舱/ shared cockpit mode（observer）模式的详细信息，请参见下文。
 
