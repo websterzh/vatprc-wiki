@@ -301,6 +301,9 @@ vPilot在进行第一步的过程中，会首先寻找 `CallsignPrefix` 为“DA
 
 ![QQ图片20220425140134](https://user-images.githubusercontent.com/104274235/165034000-c90fba17-af49-4d97-a65c-d76af78748f8.png)
 
+![QQ图片20220427232900](https://user-images.githubusercontent.com/104274235/165555099-e377c679-a57b-485a-a746-b83344fd0d00.png)
+
+
 当接入语音且您在您所在的频率上发送或接收语音时，`TX/RX` 会亮起。
 
 ![QQ图片20220425141346](https://user-images.githubusercontent.com/104274235/165034041-08e4ff94-7be9-491e-9b94-ed5fae7ddcd4.png)
@@ -452,6 +455,9 @@ vPilot 支持以 Observer 连接，这样您的飞机就不会出现在网络上
 ## 常见问题
 
 掉线
+
+![QQ图片20220427232916](https://user-images.githubusercontent.com/104274235/165555132-4fe12d80-d3f1-4ffa-a5d4-cf5f8c632eb8.png)
+
 
 afv掉线
 
