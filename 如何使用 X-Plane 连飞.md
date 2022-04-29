@@ -51,17 +51,18 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
   - A340 ：[Toliss A340](https://store.x-plane.org/Airbus-A340-600-by-Toliss_p_1459.html)
   
   - A350 ：[FlightFactor A350](https://store.x-plane.org/Airbus-A350-XWB-Advanced_p_348.html)
-  
-    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/A321.jpg)
     
     
+    ![A321](https://user-images.githubusercontent.com/80950615/165933171-31d4f8ff-0846-4452-83a1-650c3bca7c18.jpg)
+
     
-    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/A359.png)
     
+    ![A359](https://user-images.githubusercontent.com/80950615/165933204-2e709bf7-47b0-41e3-b792-efa6dbaeb88e.png)
+
     
-    
-    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Beluga.png)
-    
+
+    ![Beluga](https://user-images.githubusercontent.com/80950615/165933217-d60afde8-716d-4c03-95de-51567615d6e7.png)
+
     
 
 - Boeing
@@ -75,30 +76,35 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
   
   - B767 家族 : [FlightFactor B767](https://store.x-plane.org/767-Professional_c_181.html)
   
-    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/B757.jpg)
   
+    ![B757](https://user-images.githubusercontent.com/80950615/165933256-d051b50a-c516-4036-ba83-c947dfce9114.jpg)
+
+    
+    ![B742](https://user-images.githubusercontent.com/80950615/165933292-8b9507c1-9481-4a76-aa4a-63e7b1edd970.jpg)
     
     
-    ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/B742.jpg)
-  
-  
+    ![B727](https://user-images.githubusercontent.com/80950615/165933338-1e9161cd-3d52-49c4-aaa5-f89667babafe.jpg)
+
+
   
 + [Embraer](https://store.x-plane.org/Embraer-Fleet-by-X-Crafts_p_998.html)
 
-  ![IMAGE](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/E145.png)
+  ![E145](https://user-images.githubusercontent.com/80950615/165933368-fd80ab30-5fad-4903-87e9-974cc62a4390.png)
+
 
 
 
 + [Dash8 Q400](https://store.x-plane.org/FlyJSim-Q4XP_p_1511.html)
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Q400.jpg)
+  ![Q400](https://user-images.githubusercontent.com/80950615/165933379-8ecdea83-b95b-4078-af48-c662b2abeeef.jpg)
+
 
 
 
 + [Hot Start Challenger 650](https://www.x-aviation.com/catalog/product_info.php/take-command-hot-start-challenger-650-p-212)
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/CL650.jpg)
-
+  ![CL650](https://user-images.githubusercontent.com/80950615/165933411-75d9d450-d2af-4196-ba27-0a341d006f9f.jpg)
+  
 
 
 ## 地景
@@ -122,11 +128,11 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
 + [AMJ Scenery Studio](https://secure.simmarket.com/amjscenerystudio-(zh_1543).mhtml)
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/AMJ_Hongqiaoi.jpg)
+  ![AMJ_Hongqiao](https://user-images.githubusercontent.com/80950615/165933456-65905806-994c-4c2e-8dfd-2d31e626582e.jpg)
 
-  
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/AMJ_Shanghai.jpg)
+  ![AMJ_Shanghai](https://user-images.githubusercontent.com/80950615/165933469-8591bea4-be40-4cf0-ad4c-3424fc4aeef4.jpg)
+
 
 
 
@@ -142,7 +148,8 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
   用于查看航路图，航图
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Navigraph_Charts.png)
+  ![Navigraph_Charts](https://user-images.githubusercontent.com/80950615/165933507-3f050861-6dbc-4508-bd6a-49a1e2a34537.png)
+
 
 
 
@@ -150,7 +157,8 @@ xPilot是一个X-Plane飞行员客户端，可以让您连接到VATSIM网络，�
 
   用于更新导航数据
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Navigraph_FMS_Data.png)
+  ![Navigraph_FMS_Data](https://user-images.githubusercontent.com/80950615/165933514-1a7ad3eb-de3c-47cf-9bcb-2d7c64283529.png)
+
 
 
 
@@ -160,7 +168,7 @@ Active Sky XP首次将广受欢迎的Active Sky气象引擎引入X-Plane平台�
 
 [Active Sky XP](https://secure.simmarket.com/hifi-tech-active-sky-xp-(zh_12147).phtml)
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/ASXP.png)
+![ASXP](https://user-images.githubusercontent.com/80950615/165933566-257af69f-9c6f-405c-aa1b-7939a61479c3.png)
 
 
 
@@ -180,8 +188,7 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 启动X-Plane
 在plugins菜单中找到Avitab以打开平板电脑
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Plugins_Avitab.png)
-
+![Plugins_Avitab](https://user-images.githubusercontent.com/80950615/165933601-e07dcb0d-901b-4b5b-8ef8-6d849ab85841.png)
 
 
 
@@ -193,7 +200,7 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 下载最新版本的[Better Pushback](https://github.com/skiselkov/BetterPushbackC/releases)
 解压文件并将文件夹移动到`X-Plane/Resources/Plugins`目录中
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Plugins_Better_Pushback.png)
+![Plugins_Better_Pushback](https://user-images.githubusercontent.com/80950615/165933611-955c0d84-541f-4700-9ab8-ef7f45f37d40.png)
 
 
 
@@ -207,4 +214,4 @@ AviTab是X-Plane飞行模拟器的插件。Avitab模拟了一台平板电脑，�
 
 + Stop pushback 停止后推
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/X-Plane-to-Vatsim/images/Better_Pushback.png)
+![Better_Pushback](https://user-images.githubusercontent.com/80950615/165933639-2468d5da-1b9a-4542-8a32-2e4592d57291.png)
