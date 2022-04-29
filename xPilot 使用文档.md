@@ -54,12 +54,14 @@ xPilot客户端安装目录
 X-Plane 11 目录
 
 选择安装X-Plane 11的文件夹路径以安装xPilot插件。
+
 ![XplanePath](https://user-images.githubusercontent.com/80950615/165933938-4c6940d4-3ada-4ca7-9629-9c483033a14e.png)
 
 
 
 
 现在启动X-Plane并开始飞行。 如果您正确安装了xPilot插件，您将在X-Plane插件菜单下看到一个新的xPilot子菜单。
+
 ![PluginMenu](https://user-images.githubusercontent.com/80950615/165933970-0beb38b5-8167-492f-ac6a-a660ba13a6fa.png)
 
 
