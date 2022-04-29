@@ -26,9 +26,9 @@
 - 一类则是Jeppesen这类分幅绘制程序的，优点是便于查找自己想要的程序，缺点则是文件数量的大幅度增加。
 而且仔细观察我们会发现，在Lido和Jeppesen的航图上均配备了RVSM高度对照表（因为管制给出的高度指令均为米制高度层），而CAAC的AIP仅给出了米制高度 ~~垃圾AIP~~
 
-- P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内容不清楚的飞友们可至VATPRC官方网站的[RVSM空域](https://www.vatprc.net/rvsm)部分进行学习。
+**P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内容不清楚的飞友们可至VATPRC官方网站的[RVSM空域](https://www.vatprc.net/rvsm)部分进行学习。**
 ## 3.如何订阅/获取航图？
-目前主流的航图供应商有Navigraph和Aerosoft两家，分别提供Jeppesen和Lido航图，并且各自提供了对应的导航数据。（Navigraph甚至还有可用于飞行计划制作的Simbrief）
+目前主流的航图供应商有Navigraph和Aerosoft两家，分别提供Jeppesen和Lido航图，并且各自提供了对应的导航数据。（Navigraph甚至还有可用于飞行计划制作的[Simbrief](https://www.simbrief.com/home/)）
 ### [Navigraph订阅](https://navigraph.com/products/subscriptions):
 >
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Navigraph%20Subscription.jpg)
@@ -48,17 +48,26 @@
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Pilot%20Center%20Charts.jpg)
 此处也附上其余地区的AIP查询地址，有需要的飞友可以自行进入这些链接查询该地区的AIP航图，图源水印。
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP%20LINK.PNG)
+## 4.航图的结构
+
 ## 4.航图的阅读
 没错，一位飞行员不光得有航图，还得会看航图。由于英语的全球化推行，使用英语绘制航图也是ICAO规章中所要求的。那么航图怎么读呢？
-此处我们以中国民用航空局发行的China AIP为例，分**机场部分**和**仪表部分**对厦门高崎国际机场的航图进行说明。
+此处我们以中国民用航空局发行的China AIP为例，分**机场部分**和**仪表部分**对厦门高崎国际机场的航图进行翻译。
+在开始翻译之前，让我们先看看China AIP的结构：
+**本图节选自《中华人民共和国航空资料汇编》编写规范（文号：MH/T 4047-2017）**
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP%E8%88%AA%E5%9B%BE%E7%BB%93%E6%9E%84.jpg)
 
-***所有翻译部分均以蓝色或黑色进行标注，解读内的()代表该部分配有注释，可在每一部分的最下方找到对应的注释***
+熟悉了航图的结构后，我们就可以根据我们的需求，在AIP资料中快速找到自己所需要的那张航图，从而大大提高飞行效率。
+
+同时我们也强烈建议，在飞行前就准备好自己本次飞行中所需要的航图资料，避免临时翻找航图而影响飞行的情况的发生。
+
+***所有翻译部分均以蓝色、黑色或红色进行标注，这依据航图的背景颜色所决定。解读内的()代表该部分配有注释，可在每一部分的最下方找到对应的注释***
 
 厦门高崎机场配有以下航图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM%20ALL.jpg)
-![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM%20ALL-1.
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM%20ALL-1.jpg)
 ### 机场部分
-首先我们打开ADC（Aerodrome Chart，机场图），以下为翻译
+首先我们打开ADC（Aerodrome Chart，机场图），以下为翻译。
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM-1.jpg)
 当熟悉了机场图的结构之后，我们再来看APDC（AIRCRAFT PARKING CHART)就会简单很多了。
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM-2.jpg)
@@ -73,7 +82,7 @@
 
 接下来的一张就是机场周边的障碍物信息图，在模拟飞行中因为大部分的地景都没有周边的机场建模，即使有，大多也与航图不符，故在此不做介绍。
 
-对于机场部分，也就是地上的两张航图的介绍就到此结束了，你也可以在飞行员中心寻找其他机场的机场地面图进行解读。
+对于机场部分，也就是地上的两张航图的翻译到此结束了，你也可以在飞行员中心寻找其他机场的机场地面图进行翻译，巩固本节所学。
 
 
 ***
@@ -88,9 +97,10 @@
 >总的来说，PCN代码由五个部分组成：PCN数值、道面类型、土基类型、最大可用胎压和PCN评定方法。将PCN和ACN相结合，机场和飞机运行者就能够很好地了解跑道的承受能力以及在日常使用情况下跑道可以起降什么飞机。
 >
 >例如：肯尼迪国际机场的13R/31L跑道的PCN是 **98 /R/B/W/T**
->那么意味着它的承载能力是98，刚性道面（R），中等土基强度（B），可以承受各种胎压（W），PCN计算方式使用的是技术评定。
+>
+>那么意味着**它的承载能力是98，刚性道面（R），中等土基强度（B），可以承受各种胎压（W），PCN计算方式使用的是技术评定。**
 
-(2)该部分的表达方式为 *跑道长度X跑道宽度*
+(2)该部分的表达方式为：跑道长度X跑道宽度
 
 ### 空中部分
 厦门机场的空中航图部分从ATCSMAC(ATC SURVEILLANCE MINIMUM ALTITUDE CHART)，也就是最低监视引导高度图开始。
@@ -100,20 +110,17 @@
 
 这张图也作为空中部分的其中一张挺好解读的航图，以下是相关内容的翻译。
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM-6.jpg)
-这张航图的作用在图中的翻译想必也非常直白了，当然实际管制过程中如果遇到管制员给出了与航图中对应区域不同的高度，请及时与管制员确认。
+这张航图的作用在图中的翻译想必也非常直白了。当然，在连线飞行中，**如果遇到管制员给出了与航图中对应区域不同的高度，请及时与管制员确认。**
 
-看完这张简单的航图后，让我们再来进阶一下 ——解读我们最常用的进离场图。
-打开SID RNAV RWY05，也就是05号跑道的RNAV程序离场图。
+看完这张简单的航图后，让我们再来进阶一下 ——翻译我们最常用的进离场图。
+打开SID RNAV RWY05，也就是05号跑道的RNAV程序离场图。以下为翻译：
 
-***关于RNAV运行和普通（传统）运行的差别，在先前关于（本处预留链接）中已经提及，此处不再赘述。***
-
-接下来我们来解读这张离场图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/ZSAM-7A.jpg)
 
 在目前，不论是模拟飞行，还是现实飞行，RNAV程序的普及和运行越来越多也越来越广泛。管制员通常优先发布RNAV离场程序。
 如想飞传统程序，或你所驾驶的飞机没有RNAV能力，
 
-***请在申请放行时与管制员沟通，切勿自行随意更改程序！***
+***请在申请放行时与管制员沟通，切勿随意更改程序！***
 
 
 然后打开SID RWY05，也就是传统离场图。
@@ -123,19 +130,19 @@
 传统程序和RNAV程序的不同在于：
 - RNAV程序中由区域导航点之间的连线组成
 - 传统程序以各种基于VOR台的测距点连成。
-在大部分真实的机载数据库中，传统程序并不会进行编码。但在Navigraph所提供的导航数据中，传统程序也像RNAV程序一样进行编码，并且每个点都以坐标在数据中表示了。
-但仍需注意，执行传统程序与执行RNAV程序大有区别。详细的飞行方法可以参见上文提到的链接文章。（本处预留链接）
+在大部分真实的机载数据库中，传统程序并不会进行编码。但在Navigraph所提供的导航数据中，传统程序也像RNAV程序一样进行编码，并且每个点都以坐标的形式在数据中表示。
+**但仍需注意，执行传统程序与执行RNAV程序大有区别。详细的飞行方法可以参见上文提到的链接文章。（本处预留链接）**
 
 仪表进场图的判读方法和仪表离场图的判读大同小异。为节省篇幅，本处不再进行翻译。
 
 紧接着我们就来到了6张IAC图(Instrument Approach Chart,仪表进近图)。
 想必此时有人会问，为何仪表进近图里头有Y和Z，甚至可能还有W等等。这些字母的含义是什么？
 
-其实，Y和Z，他们分别代表了一条跑道中不同的进近程序。他们的距离，决断高，下滑角度，跑道入口高度有可能不同。
-通常来说，按照从Z往前的排列顺序，也代表了第一套、第二套，第三套等等的进近程序。
-依照境内目前的排列顺序，通常Z代表RNAV程序，Y代表传统程序。*具体情况具体考虑，请以航图为准。*
+Y和Z分别代表了一条跑道中不同的进近程序。他们的距离，决断高，下滑角度，跑道入口高度有可能不同。通常来说，按照从Z往前的排列顺序，也代表了第一套、第二套，第三套等等的进近程序。
+依照境内目前的排列顺序，通常Z代表RNAV程序，Y代表传统程序。
+***具体情况具体考虑，请以航图为准。***
 
-同时，在飞行中，*如果你执行的是RNAV程序，那么你的进近程序一定也是选择对应的RNAV进近程序。如果无法执行，应立即通知管制员。*
+同时，在飞行中，**如果你执行的是RNAV程序，那么你的进近程序一定也是选择对应的RNAV进近程序。如果无法执行，应立即通知管制员。**
 
 就以本文的例子——厦门机场为例，你执行了TEBON-91A的进场程序，那么你的进近程序就是ILS/DME z RWY05程序，而不是另一套ILS/DME y程序。
 
@@ -155,16 +162,45 @@
 
 (2)：此类下划线高度表示“该点飞行高度在300米（也就是1000英尺）以上。其余的一些可能遇到的高度见下表
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/%E9%AB%98%E5%BA%A6%E5%AF%B9%E7%85%A7.png)
->从上至下的翻译分别为：窗口高度（在某高度至某高度之间）、在某高度之上、在某高度之下、强制高度（必须以某高度通过这个点）、推荐高度（推荐以某高度通过这个点）
+从上至下的翻译分别为：
+ -窗口高度（在某高度至某高度之间）
+ -在某高度之上
+ -在某高度之下
+ -强制高度（必须以某高度通过这个点）
+ -推荐高度（推荐以某高度通过这个点）
 
-(3)：此类导航点为飞越点，表示飞机要飞越这个导航点之后转弯。其余的导航点见下表
+(3)(4)：这些点分别代表报告点和导航点，具体的解释请看下图：
 - 报告点
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/%E6%8A%A5%E5%91%8A%E7%82%B9.jpg)
   - 两个实心的为强制报告点
   - 两个空心的为非强制报告点
 - 区域导航点
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/%E5%8C%BA%E5%9F%9F%E5%AF%BC%E8%88%AA%E7%82%B9.jpg)
+ 这里有配翻译就不另行翻译了。。。
+
+(5): 该部分代表每个点所对应的高度。
+例如：在IF点，飞机高度在800米；在FAF点，高度为600米；在距离本场台（厦门VOR）3.8海里处，高度为330米。
+
+(6): 机场的下滑台可能会因为不工作而无法提供下滑指引，则该提供了距离盲降台对应海里处的高度指示，从而引导机组下降。在模拟飞行中通常不会发生这种情况。
+
+(7)：该处的椭圆表示飞机在该导航点的盘旋方式。盘旋分为内圈和外圈。在PMDG的数据里，外圈也被定义为"INBOUNDCOURSE"。
+在本例中，AM406盘旋时的外圈航向为231，内圈航向为051；以此类推，AM502盘旋时的外圈航向为142，内圈航向为322。
 
 
+那么，空中部分的解读也到此结束了。你也可以翻阅其他机场的航图，自行解读一遍。只有反复的练习和应用才能将知识化为内在。
 
+当然，AIP中的航图远不及此。但我相信，如果你能将本部分中所有航图的解读理解下来，再去阅读其它的航图也是轻而易举的。
+
+**祝飞行顺利！**
+### 附录-航图符号
+为补充本教程例子中不足的部分，现在此将China AIP的GEN 2.3-Chart symbols（航图符号）贴在此处。
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/1.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/2.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/3.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/4.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/5.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/6.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/7.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/8.jpg)
 
 
