@@ -45,7 +45,7 @@ VATPRC直接管辖以下九大飞行情报区，分部的管制员团队将向�
 ![image](https://user-images.githubusercontent.com/101052757/165520991-42b7b748-ba1c-4508-8b05-9d27b2dc02cd.png)
 
 
-此外，VATPRC目前暂时代管蒙古国的ZMUB Ulaanbaatar 乌兰巴托情报区。有关乌兰巴托情报区的内容，参见*乌兰巴托飞行情报区*
+此外，VATPRC目前暂时代管蒙古国的ZMUB Ulaanbaatar 乌兰巴托情报区。有关乌兰巴托情报区的内容，参见*[乌兰巴托飞行情报区](./ZMUB.md)*
 
 
 注意：
