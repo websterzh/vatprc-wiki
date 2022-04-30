@@ -263,7 +263,7 @@ Make sure you have listened to the valid ATIS before requesting a clearance
 > 机组：*“可以推出开车，头朝北，跑道17L，国航4115.”*  
 > Crew:*"pushback and start up is approved, face north, runway 17L, Air China 4115"*
 
-有些时候，管制员不会给出推开的朝向，这意味着机组可以自行决定推开的方向，一般的参考方向是机头朝向起飞跑道位置。
+有些时候，管制员不会给出推开的朝向，这意味着机组可以自行决定推开的方向，一般的参考方向是机头朝向起飞跑道位置。但仍建议机组查阅机场AD的 `3.7 航空器进出停机位的滑行限制` 章节，例如北京大兴机场部分后推程序，以免与其他机组产生不必要的冲突。
 
 机组在推开完成后，应当尽可能快的完成滑行前的准备工作并且申请滑行。
 
