@@ -132,21 +132,26 @@
 首次运行时，您需要先登录您的Navigraph账号。  
 
 ![image](https://user-images.githubusercontent.com/25072307/166431855-39ed683a-52bc-4c69-ac8b-bd18c2d0774a.png)
+
 单击页面中的 `Sign In`，应用将会使用您的默认浏览器将您跳转至登陆页面。
 
 ![image](https://user-images.githubusercontent.com/25072307/166431983-b210f3b6-409a-4d3a-be6a-910c917c6ab7.png)
+
 输入您的账号和密码后，点击 `Sign In`。
 
 ![image](https://user-images.githubusercontent.com/25072307/166432027-6b99ce1d-c985-4724-9c8b-4827307e6dfa.png)
+
 登录成功后，页面将会提示您已登陆成功。这时，浏览器会跳出一个弹窗，询问您是否要打开Navdata Center，您需要选择 `Open Navigraph Navdata Center`回到应用中。
 
 ![image](https://user-images.githubusercontent.com/25072307/166432066-53da0f49-9071-44de-94e2-768319f9798e.png)
+
 此时，应用界面将会显示您已安装的模拟器，以及相应的导航数据。
 
 安装导航数据时，可以在右侧找到最新版本数据，如：AIRAC Cycle XXXX rev.X  
-> Cycle XXXX 表示导航数据周期。XXXX前两位表示数据生效的年份，后两位表示此数据为该年的第几期。通常情况下，AIRAC的更新周期为28天，即每28天更新一期数据。
-> rev.X 表示该导航数据的修正版本。在每期数据发布后，数据供应商可能会根据实际情况对该期数据修正、补充；同时Navigraph也会对于已发布的数据中出现的错误进行更正。每次修正、补充后，都会发布一个修正版本，并在版本号中标明修正的次数。
-> 如 AIRAC Cycle 2202 rev.5 表示2022年第2期数据，第五版。
+
+>+ Cycle XXXX 表示导航数据周期。XXXX前两位表示数据生效的年份，后两位表示此数据为该年的第几期。通常情况下，AIRAC的更新周期为28天，即每28天更新一期数据。  
+>+ rev.X 表示该导航数据的修正版本。在每期数据发布后，数据供应商可能会根据实际情况对该期数据修正、补充；同时Navigraph也会对于已发布的数据中出现的错误进行更正。每次修正、补充后，都会发布一个修正版本，并在版本号中标明修正的次数。  
+>+ 如 AIRAC Cycle 2202 rev.5 表示2022年第2期数据，第五版。  
 
 点击右侧的`INSTALL`，Navdata Center将会自动将该期数据安装到MSFS中。
 
