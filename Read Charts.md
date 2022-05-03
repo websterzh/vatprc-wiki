@@ -1,34 +1,26 @@
-# 关于航图的那些事
-***事先声明：本文所有涉及到的航行资料均已脱敏处理，请放心食用。***
-## 1.什么是航图？为什么需要航图？
-以下引用维基百科对于航图的介绍
->航图是一种用于辅助飞机导航的地图，跟船舶的海图、汽车驾驶者的地图原理相似。透过使用这些航图，机师能够判断自己驾驶的飞机所在方位、安全飞行高度、飞行最佳路径、沿途导航设备，以及飞机失事时最佳迫降机场/场地；
+# 关于航图
+***请注意，本文所有涉及到的航行资料均已进行脱敏处理。***
+## 什么是航图？为什么需要航图？
+> 航图是一种用于辅助飞机导航的地图，跟船舶的海图、汽车驾驶者的地图原理相似。透过使用这些航图，机师能够判断自己驾驶的飞机所在方位、安全飞行高度、飞行最佳路径、沿途导航设备，以及飞机失事时最佳迫降机场/场地；
 >
 >航图还提供其他例如：无线电频率、空界。航图通常分为跨海洋航行的长途航图和显示所有陆块的航图。而详细的航图适用于不同阶段的飞行，可能是某机场设施概览文书中覆盖整个大陆的不同的路线图（例如，全球性导航图）。
 
-由维基的介绍我们可知，航图可以告诉我们怎么去到想去的地方，它可以告诉你如何从你的机位到跑道头，从跑道头到离场点，从某一个航点到某一个航点……显而易见，我们需要航图来辅助我们的飞行。
-## 2.世界上的航图千千万，我该用哪种航图？
-目前主流的航图有Jeppesen、Lido两种。当然，每个国家/地区也有发行各自的AIP。例如，中华人民共和国发行的AIP，中国人民共和国香港特别行政区发行的Hongkong AIP等等。
-（题外话，澳门机场的RNAV进离场航图在China AIP中也有绘制）
-
-以下是广州白云国际机场的航图对比Jeppesen、Lido、China AIP，大家可以先看看航图，想必此时你的内心对每款航图的差异及使用体验也有了大致的概念。
+航图可以告诉我们怎么去到想去的地方，它可以告诉你如何从你的机位到跑道头，从跑道头到离场点，从某一个航点到某一个航点……显而易见，我们需要航图来辅助我们的飞行。
+## 如何选择航图
+目前主流的航图种类包括Jeppesen,Lido和当地空域管理部门发布的AIP等。
+以下是三种不同种类航图（Jeppesen、Lido、China AIP）的概览：
 
 - 广州白云01号RNAV离场 AIP航图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP-GG7G-1920.jpg)
 - 广州白云01号 龙门/英德方向RNAV离场 Jeppesen航图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/JEPP%20GG-1920.jpg)
-- 广州白云02L/02R RNAV离场 Lido航图（图源自Pochun Yeung）
+- 广州白云02L/02R RNAV离场 Lido航图
 ![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Lido%20GG01.jpg)
 
-从以上这些航图我们不难看出，航图好像被分成了两个派系：
-- 一类是Lido、CAAC这类把所有程序绘制入一张航图之中的，优点是省纸，减少对存储空间的占用；缺点则是航图的集块现象会挺严重的。。。尤其是CAAC的AIP，在那千丝万屡中找到自己要飞的那个程序还是蛮痛苦地说。。。。
+根据以上我们不难看出，不同发行商出版的航图在图样、呈现方式和绘制风格上都有较大的不同，但是他们所要表达的空域信息都是完全相同的，不存在一个多一个少的情况。我们推荐机组根据自身需求来选择使用何种航图。
 
-- 一类则是Jeppesen这类分幅绘制程序的，优点是便于查找自己想要的程序，缺点则是文件数量的大幅度增加。
-而且仔细观察我们会发现，在Lido和Jeppesen的航图上均配备了RVSM高度对照表（因为管制给出的高度指令均为米制高度层），而CAAC的AIP仅给出了米制高度 ~~垃圾AIP~~
-
-**P.S:对于中国大陆使用的RVSM高度层在此不多介绍，若对相关内容不清楚的飞友们可至VATPRC官方网站的[RVSM空域](https://www.vatprc.net/rvsm)部分进行学习。**
-## 3.如何订阅/获取航图？
-目前主流的航图供应商有Navigraph和Aerosoft两家，分别提供Jeppesen和Lido航图，并且各自提供了对应的导航数据。（Navigraph甚至还有可用于飞行计划制作的[Simbrief](https://www.simbrief.com/home/)）
+## 如何订阅/获取航图
+在模拟飞行界，目前主流的付费航图供应商有Navigraph和Aerosoft，分别提供Jeppesen和Lido航图，并且各自提供了对应的导航数据。
 ### [Navigraph订阅](https://navigraph.com/products/subscriptions):
 >
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Navigraph%20Subscription.jpg)
@@ -43,11 +35,57 @@
 >Aerosoft也仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付
 
 ### 各地区发行的AIP
->中国大陆所发行的China AIP在其注册及订阅实际上是需要资质的，但VATPRC已在[飞行员中心](https://pilot.vatprc.net/#/)为大家提供了当前数据周期的AIP航图！大家可以使用自己的VATSIM CID登录后查阅相关航图。
->不知道啥是数据周期的飞友可以查看[维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E8%A1%8C%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96)上的相关介绍
+>VATPRC为机组提供中国内地的AIP航图，具体请参阅[飞行员中心](https://pilot.vatprc.net/#/)
+>关于航图的数据周期，参看[维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E8%A1%8C%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96)相关内容
 >![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Pilot%20Center%20Charts.jpg)
-此处也附上其余地区的AIP查询地址，有需要的飞友可以自行进入这些链接查询该地区的AIP航图，图源水印。
-![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP%20LINK.PNG)
+
+大部分国家或地区的空域管理部门都会发行所属空域的AIP航图，参见下表。部分国家/地区的AIP网站可能需要特殊授权进行访问，编者不保证可用性。
+
+|  国家（地区）   | 网站地址  |
+|  ----  | ----  |
+| 中国香港  | www.ais.gov.hk |
+| 中国澳门 | https://www.aacm.gov.mo/index.php?r=reference/fly&pageid=98 |
+| 中国台湾 | http://eaip.caa.gov.tw/eaip/ |
+| 日本 | https://aisjapan.mlit.go.jp/Login.do |
+| 韩国 | http://aim.koca.go.kr/eaipPub |
+| 菲律宾 | http://ats.caap.gov.ph/ |
+| 印度尼西亚 | https://aimindonesia.dephub.go.id |
+| 泰国 | https://ais.caat.or.th/term-condition |
+| 马来西亚 | https://aip.caam.gov.my/aip/eAIP/history-en-MS.html |
+| 新加坡 | https://www.caas.gov.sg/ |
+| 印度 | https://aim-india.aai.aero/eaip/ |
+| 马尔代夫 | http://www.aviainfo.gov.mv/ |
+| 斯里兰卡 | https://www.airport.lk/aasl/AIS/web.Home.htm |
+| 柬埔寨 | http://www.civilaviation.gov.kh/km/2014-04-07-07-52-5/aip-cambodia |
+| 越南 | https://vnaic.vn/index.php?option=com_content&view=category&id=53:aip&layout=blog&Itemid=92&lang=en |
+| 缅甸 | https://www.ais.gov.mm/eAIP/2018-02-15/html/index-en-GB.html |
+| 阿联酋 | https://www.gcaa.gov.ae/en/ais/Pages/default.aspx |
+| 孟加拉国 | http://www.caab.gov.bd/aip/ |
+| 文莱 | http://www.dca.gov.bn/|
+| 尼泊尔 | https://e-aip.caanepal.gov.np/ |
+| 蒙古 | https://www.ais.mn/index |
+| 澳大利亚 | https://www.airservicesaustralia.com/aip/aip.asp |
+| 新西兰 | https://www.aip.net.nz/disclaimer?BackURL= |
+| 俄罗斯 | http://www.caiga.ru/common/AirInter/validaip/html/eng.htm |
+| 法国 | https://www.sia.aviation-civile.gouv.fr/ |
+| 英国 | https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/ |
+| 德国 | https://ais.dfs.de/pilotservice/service/information/aip_online/aip_online.jsp |
+| 捷克 | https://aim.rlp.cz/ais_data/aip/control/aip_obsah_en.htm |
+| 意大利 | https://www.enav.it/en/what-we-do/we-create-solutions-for-international-markets/aeronautical-information |
+| 荷兰 | https://www.lvnl.nl/eaip/2021-10-21-AIRAC/html/index-en-GB.html |
+| 西班牙 | https://aip.enaire.es/AIP/ |
+| 瑞典 | https://aro.lfv.se/Editorial/View/IAIP |
+| 丹麦 | https://aim.naviair.dk/en/ |
+| 冰岛 | https://eaip.isavia.is/ |
+| 比利时/卢森堡 | https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/html/index-en-GB.html |
+| 芬兰 | https://www.ais.fi/ais/aip/en/index.htm |
+| 奥地利 | https://www.austrocontrol.at/en/pilots/pre-flight_preparation/aim_products/aip |
+| 波兰 | https://www.ais.pansa.pl/en/publications/aip-ifr/ |
+| 挪威 | https://avinor.no/en/ais/aipnorway/ |
+| 匈牙利 | https://ais-en.hungarocontrol.hu/aip/ |
+| 白俄罗斯 | https://www.ban.by/en/aeronautical-information-aip |
+| 加拿大 | https://www.navcanada.ca/en/aeronautical-information/aip-canada.aspx |
+| 美国 | https://www.faa.gov/air_traffic/publications/atpubs/aip_html/ |
 ## 4.航图的结构
 
 ## 4.航图的阅读
