@@ -484,7 +484,7 @@ vPilot 支持以 Observer 连接，这样您的航空器就不会出现在网络
 此段文字意为：
 - 连接失败。请确保受支持的模拟器正在运行
 
-> *解决方法：首先请检查您模拟器是否受  vPilot 支持并启动且加载至飞行状态，如您的模拟器已加载且一切正常，那么 FSX/P3D 可以尝试重装 `模拟器根目录/redist\Interface\FSX-SP2-XPACK\retail\lib`下的 `SimConnect.msi` ；***MSFS通过啥连接？@卢总 1554 寿司***
+> *解决方法：首先请检查您模拟器是否受  vPilot 支持并启动且加载至飞行状态，如您的模拟器已加载且一切正常，那么 FSX/P3D 可以尝试重装 `模拟器根目录\redist\Interface\FSX-SP2-XPACK\retail\lib`下的 `SimConnect.msi` ；***MSFS通过啥连接？@卢总 1554 寿司***
 
 
 ### Unknown command：
