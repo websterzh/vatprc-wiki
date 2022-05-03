@@ -30,7 +30,11 @@
      
    + **Vatspy** （https://vatspy.rosscarlson.dev/ ）
 
-     Vatspy是一款体积小巧但五脏俱全的连飞地图软件，同时也是使用率最高的连飞地图软件。
+     Vatspy 是一款体积小巧但五脏俱全的连飞地图软件，同时也是使用率最高的连飞地图软件。
+     
+   + **VATprism** （https://vatprism.org/ ）
+
+     VATprism 是一个VATSIM地图和VATSIM数据浏览器，该软件允许用户查看在线的管制员、飞行员以及历史航迹。
      
    + **Vattastic**（http://vattastic.com/ ）
 
@@ -38,4 +42,4 @@
      
    + **SimAware** (https://map.vatsim.net/ )
 
-     SimAware也是一个用于在线浏览连飞地图的网站，其提供的功能更多，布局也更简洁。
+     SimAware 是一个用于在线浏览连飞地图的网站，其提供的功能更多，布局也更简洁。
