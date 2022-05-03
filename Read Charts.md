@@ -35,9 +35,9 @@
 >Aerosoft也仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付
 
 ### 各地区发行的AIP
->VATPRC为机组提供中国内地的AIP航图，具体请参阅[飞行员中心](https://pilot.vatprc.net/#/)
->关于航图的数据周期，参看[维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E8%A1%8C%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96)相关内容
->![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Pilot%20Center%20Charts.jpg)
+VATPRC飞行员中心提供中国内地的AIP航图，参见[飞行员中心](https://pilot.vatprc.net/#/ )
+
+关于航图的数据周期，参看[维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E8%A1%8C%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96)相关内容
 
 大部分国家或地区的空域管理部门都会发行所属空域的AIP航图，参见下表。部分国家/地区的AIP网站可能需要特殊授权进行访问，编者不保证可用性。
 
@@ -86,18 +86,12 @@
 | 白俄罗斯 | https://www.ban.by/en/aeronautical-information-aip |
 | 加拿大 | https://www.navcanada.ca/en/aeronautical-information/aip-canada.aspx |
 | 美国 | https://www.faa.gov/air_traffic/publications/atpubs/aip_html/ |
-## 4.航图的结构
 
-## 4.航图的阅读
-没错，一位飞行员不光得有航图，还得会看航图。由于英语的全球化推行，使用英语绘制航图也是ICAO规章中所要求的。那么航图怎么读呢？
-此处我们以中国民用航空局发行的China AIP为例，分**机场部分**和**仪表部分**对厦门高崎国际机场的航图进行翻译。
-在开始翻译之前，让我们先看看China AIP的结构：
-**本图节选自《中华人民共和国航空资料汇编》编写规范（文号：MH/T 4047-2017）**
-![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP%E8%88%AA%E5%9B%BE%E7%BB%93%E6%9E%84.jpg)
+## 航图的阅读
+正确阅读航图以获取所有有效的信息是非常重要的技能。
+此处我们以中国民用航空局发行的China AIP为例，分**机场部分**和**仪表部分**对厦门高崎国际机场的航图进行判读。
 
-熟悉了航图的结构后，我们就可以根据我们的需求，在AIP资料中快速找到自己所需要的那张航图，从而大大提高飞行效率。
-
-同时我们也强烈建议，在飞行前就准备好自己本次飞行中所需要的航图资料，避免临时翻找航图而影响飞行的情况的发生。
+熟悉了航图的结构后，我们就可以根据我们的需求，在AIP资料中快速找到自己所需要的那张航图，从而大大提高飞行效率。同时建议机组在飞行前就准备好自己本次飞行中所需要的航图资料，避免临时翻找航图而影响飞行的发生。
 
 ***所有翻译部分均以蓝色、黑色或红色进行标注，这依据航图的背景颜色所决定。解读内的()代表该部分配有注释，可在每一部分的最下方找到对应的注释***
 
