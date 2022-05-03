@@ -1,4 +1,4 @@
-# 前言
+  # 前言
 
 本文旨在介绍使用Microsoft Flight Simulator（又称Microsoft Flight Simulator 2020或MSFS2020，以下简称MSFS）进行连线飞行，以及在此过程中可能涉及到的有关MSFS或其他相关软件的使用方法，并非MSFS或其他所提到的相关软件的使用教程。
 
@@ -62,31 +62,31 @@
       如下图所示，金鹏航空的部分涂装呼号代码被识别为了“YZRC”：
       ![image](https://user-images.githubusercontent.com/25072307/165262596-7f856f00-000f-44ae-8d7d-8b45e1811604.png)
     
-      根据模型匹配规则，这样会导致vPilot无法正常将这些涂装匹配至呼号前缀为“YZR”的航空器上。
-    
+      根据模型匹配规则，这样会导致vPilot无法正常将这些涂装匹配至呼号前缀为“YZR”的航空器上。  
+    <br />
       这种情况下，我们可以通过表格上方的 `Airline Code` 标签页，手动添加关联的呼号代码。以金鹏航空为例：
       ![image](https://user-images.githubusercontent.com/25072307/165266602-59beb403-105b-4882-b053-9a17366b0252.png)
     
-      *注：所有被用户手动修改的内容都将会显示为红色，以示区分。*
-    
-      这样一来，生成后的匹配文件会同时将连线时呼号前缀为“YZRC”和“YZR”的航空器用涂装名中包含“Suparna Airlines Cargo”的涂装进行匹配。
-    
-      *注意：这样做并不会改变扫描结果，所以在列表中的呼号代码不会发生改变。*
-      &nbsp;
+      *注：所有被用户手动修改的内容都将会显示为红色，以示区分。*  
+    <br />
+      这样一来，生成后的匹配文件会同时将连线时呼号前缀为“YZRC”和“YZR”的航空器用涂装名中包含“Suparna Airlines Cargo”的涂装进行匹配。    
+    <br />
+      *注意：这样做并不会改变扫描结果，所以在列表中的呼号代码不会发生改变。*  
+    <br />
     
     + 对于呼号代码为空的涂装  
     
-      呼号代码为空的涂装，Model Matching Magic会自动将该涂装排除。如果您希望使用这些涂装，需要手动取消对它的排除，并自行在表格内添加其呼号。
-    
-      **注意：通航涂装通常情况下不会包含呼号代码，这种情况下仅需取消对其的排除，不需要手动添加呼号代码。**
-    
+      呼号代码为空的涂装，Model Matching Magic会自动将该涂装排除。如果您希望使用这些涂装，需要手动取消对它的排除，并自行在表格内添加其呼号。  
+    <br />
+      *注意：通航涂装通常情况下不会包含呼号代码，这种情况下仅需取消对其的排除，不需要手动添加呼号代码。*  
+    <br />
   + 预设机型匹配  
   
     当Model Matching Magic无法正确识别涂装的机型代码时，该涂装的机型代码也会为空。
     
     与呼号代码不同的是，您可以通过自定义规则，在扫描时将其于正确的机型代码匹配。
     
-    在Aircraft Types标签页内，您可以手动添加您希望添加的机型，以及匹配规则（正则表达式）。：
+    在Aircraft Types标签页内，您可以手动添加您希望添加的机型，以及匹配规则（正则表达式）:
     ![image](https://user-images.githubusercontent.com/25072307/165269707-739c2ff5-4623-453c-a338-b9a09a47f997.png)
     
     假如您希望添加一个对于B737MAX 7的匹配，写入的格式如下表：
@@ -108,5 +108,47 @@
     
 跳转vPilot使用手册
 
-### 启动MSFS
-    
+## 导航数据
+
+在您使用MSFS进行连飞之前，请确保您的MSFS（若执飞的机模使用非MSFS导航数据，请确保该机模的导航数据为最新版本）安装了最新的导航数据。
+
+由于空域的不断调整，如果您使用较久或者空域大改以前的导航数据，可能会导致您无法执行部分程序或航路。若您使用的航路中有很大一部分都属于废弃的数据，可能会被管制员拒绝放行，并要求您更新您的导航数据。
+
+与P3D，FSX和X-Plane不同的是，安装、更新MSFS的导航数据需要使用Navigraph专为MSFS推出的Navdata Center进行。下面将对Navdata Center进行简单的介绍。
+
+### 下载及安装Navigraph Navdata Center
+
+与FMS Data Manager一样，Navdata Center需要前往Navigraph网站下载。
+
+登录到Navigraph之后，点击网页右上角的用户名 > `Your Account` 进入您的用户页面。
+![image](https://user-images.githubusercontent.com/25072307/166431708-6c7713c6-232a-463a-91b9-5dc4ede020db.png)
+
+点击左侧列表中 `Downloads` > `Navdata` 前往下载页面，在右侧的列表中点击 `Navdata Center for Windows` 右侧的 `Download` 下载该软件，并根据安装包内的提示进行安装。
+![image](https://user-images.githubusercontent.com/25072307/166431832-8d513ffa-3afb-4074-8803-911ebeb76d8a.png)
+
+
+### 使用Navdata Center安装及更新导航数据
+
+首次运行时，您需要先登录您的Navigraph账号。  
+
+![image](https://user-images.githubusercontent.com/25072307/166431855-39ed683a-52bc-4c69-ac8b-bd18c2d0774a.png)
+单击页面中的 `Sign In`，应用将会使用您的默认浏览器将您跳转至登陆页面。
+
+![image](https://user-images.githubusercontent.com/25072307/166431983-b210f3b6-409a-4d3a-be6a-910c917c6ab7.png)
+输入您的账号和密码后，点击 `Sign In`。
+
+![image](https://user-images.githubusercontent.com/25072307/166432027-6b99ce1d-c985-4724-9c8b-4827307e6dfa.png)
+登录成功后，页面将会提示您已登陆成功。这时，浏览器会跳出一个弹窗，询问您是否要打开Navdata Center，您需要选择 `Open Navigraph Navdata Center`回到应用中。
+
+![image](https://user-images.githubusercontent.com/25072307/166432066-53da0f49-9071-44de-94e2-768319f9798e.png)
+此时，应用界面将会显示您已安装的模拟器，以及相应的导航数据。
+
+安装导航数据时，可以在右侧找到最新版本数据，如：AIRAC Cycle XXXX rev.X  
+> Cycle XXXX 表示导航数据周期。XXXX前两位表示数据生效的年份，后两位表示此数据为该年的第几期。通常情况下，AIRAC的更新周期为28天，即每28天更新一期数据。
+> rev.X 表示该导航数据的修正版本。在每期数据发布后，数据供应商可能会根据实际情况对该期数据修正、补充；同时Navigraph也会对于已发布的数据中出现的错误进行更正。每次修正、补充后，都会发布一个修正版本，并在版本号中标明修正的次数。
+> 如 AIRAC Cycle 2202 rev.5 表示2022年第2期数据，第五版。
+
+点击右侧的`INSTALL`，Navdata Center将会自动将该期数据安装到MSFS中。
+
+---
+更新导航数据时，点击新周期的数据右侧的 `UPDATE` 即可将导航数据更新至最新的周期。
