@@ -175,9 +175,9 @@ For Charts and more info please visit www.vatprc.net
 
 有些时候，机组可能会发现在线管制员列表中出现了一个不是很常见的呼号：PRC_FSS。 
 
-PRC_FSS是一个经VATSIM批准的飞行服务站，呼号为“北京飞服(Beijing Control)”。PRC_FSS的水平范围覆盖北京、沈阳、上海、广州、武汉、昆明、兰州、乌鲁木齐、三亚共计9个情报区。  
+PRC_FSS是一个经VATSIM批准的飞行服务站，呼号为“北京飞服(Beijing Control)”。PRC_FSS的水平范围覆盖北京、沈阳、上海、广州、昆明、兰州、乌鲁木齐、三亚共计8个情报区。  
 
-通常情况下，PRC_FSS的垂直范围为7800米及以上：也就是说，只要机组的高度在7800米以下，不论是放行、滑行、起飞还是落地，都不需要联系PRC_FSS。  
+通常情况下，PRC_FSS的垂直范围为7800米及以上：也就是说，只要机组的高度在7800米以下，不论是放行、滑行、起飞还是落地，都不需要联系PRC_FSS。这也是PRC_FSS不覆盖武汉情报区的原因。 
 
 在少数情况下，PRC_FSS可能会酌情向下延伸自己的垂直范围，例如下面的ATC Info中所示：  
 
@@ -234,13 +234,13 @@ For charts and more info please visit www.vatprc.net
 ![hoppie1](https://user-images.githubusercontent.com/101052757/165075004-4f91557f-eebb-48a6-97e0-3c5bee72e868.png)
 
 
-在中国大陆的机场内，较为常见的DCL放行格式如下：
+在VATPRC管辖的机场内，较为常见的DCL放行格式如下：
 ```
-PDC BEGIN 13:10:04 CCA4115 CLRD TO ZBAA OFF 17L VIA SASAN81D SQUAWK 6037 ADT 0000 NEXT FREQ 121.900 DEP FREQ 120.300 
-ATIS A INITIAL ALT 1200M  
+1310 220503 ZSPD PDC 001 CCA4115 CLRD TO ZBAA OFF 17L VIA SAS81D SQUAWK 6037 ADT 1315 NEXT FREQ 121.900 
+INITIAL ALT 1200M FL 11300M DEP FREQ 120.300
 **DO NOT reply to this message please readback runway designator and initial altitude in frequency 121.600**
 ```
-*“PDC发布于世界协调时13时10分04秒，国航4115可以放行去ZBAA，跑道17L，SASAN81D离场，应答机6037，下一联系频率121.900，离场频率120.300，通波Alpha有效，起始高度1200m。不要直接回复本消息，请在频率121.600复述跑道编号和起始高度。”*
+*“PDC发布于2022年5月3日，世界协调时13时10分，国航4115可以放行去ZBAA，跑道17L，SASAN81D离场，应答机6037，预计离场时间1315分，下一联系频率121.900，起始高度1200m。巡航高度11300m，离场频率120.300。不要直接回复本消息，请在频率121.600复述跑道编号和起始高度。”*
 
 **为了减少频率占用，请注意仔细阅读PDC信息以及其要求的复述内容。** 如上文中：
 
