@@ -44,7 +44,8 @@ xPilot客户端安装目录
 
 选择一个文件夹以安装xPilot客户端.
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/InstallDirectory.png)
+![InstallDirectory](https://user-images.githubusercontent.com/80950615/165933919-c4100e7e-e43b-4b88-bdcf-b22e6e57bda4.png)
+
 
 
 
@@ -54,15 +55,16 @@ X-Plane 11 目录
 
 选择安装X-Plane 11的文件夹路径以安装xPilot插件。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/XplanePath.png)
-
+![XplanePath](https://user-images.githubusercontent.com/80950615/165933938-4c6940d4-3ada-4ca7-9629-9c483033a14e.png)
 
 
 
 
 现在启动X-Plane并开始飞行。 如果您正确安装了xPilot插件，您将在X-Plane插件菜单下看到一个新的xPilot子菜单。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/PluginMenu.png)
+![PluginMenu](https://user-images.githubusercontent.com/80950615/165933970-0beb38b5-8167-492f-ac6a-a660ba13a6fa.png)
+
+
 
 
 
@@ -72,35 +74,38 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 首次启动xPilot时，xPilot将提示您安装CSL模型。 建议您单击 `Yes` 以自动安装和配置Bluebell CSL模型。 如果您选择否，则需要手动安装模型。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/DownloadModels.png)
+![DownloadModels](https://user-images.githubusercontent.com/80950615/165934016-370f8061-fec2-4f95-ad79-46dce383d53e.png)
+
 
 下载约为560 MB，进度栏将显示下载进度。
 
 在下载开始之前，您必须使用VATSIM网络对自己进行身份验证。 单击 `Get Token` 按钮以生成一次性下载令牌。 您的浏览器将跳转至网页。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/ModelDownloadGetToken.png)
+![ModelDownloadGetToken](https://user-images.githubusercontent.com/80950615/165934032-53cef7ed-5d4c-4d4f-a0e3-9ce691c84434.png)
+
 
 
 
 在xPilot客户端中输入token以开始下载。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/ConfirmDownloadToken.png)
+![ConfirmDownloadToken](https://user-images.githubusercontent.com/80950615/165934046-6dd6978f-5893-45ad-a800-f915324ecd89.png)
+
+
+![ModelsDownloading](https://user-images.githubusercontent.com/80950615/165934059-30857792-97ca-48f9-8978-024e70352fcb.png)
 
 
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/ModelsDownloading.png)
 
 
 
 下载完成后，将提示您选择安装X-Plane 11的路径。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/ModelsXplaneFolder.png)
-
+![ModelsXplaneFolder](https://user-images.githubusercontent.com/80950615/165934089-727776cc-a344-442d-a147-ca698a7ebd7d.png)
 
 
 选择X-Plane路径并单击 `OK` 后，模型开始安装。 这会需要几分钟。 过程完成后，模型安装窗口会自动关闭，并在主窗口中显示一条消息，告诉您CSL飞机模型软件包已成功安装。 **您需要重新启动xPilot和X-plane**。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/ModelsInstalling.png)
+![ModelsInstalling](https://user-images.githubusercontent.com/80950615/165934113-19ec0b7a-0d32-4510-b6c3-56c6582121e1.png)
 
 
 
@@ -108,7 +113,7 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 您可以下载并安装更多CSL包。 要启用CSL包，您将需要指定路径到X-Plane（Plugins > xPilot > Settings）中xPilot设置中安装模型的位置。 添加新文件夹路径后，您必须重新启动X-Plane。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/XplaneCSLConfiguration.png)
+![XplaneCSLConfiguration](https://user-images.githubusercontent.com/80950615/165934126-07d93906-040f-4a31-8a68-74b6e391e323.png)
 
 
 
@@ -116,7 +121,8 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 请您务必~~务必务必~~使用管理员身份运行xPilot
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/xPilot_Adm.png)
+![xPilot_Adm](https://user-images.githubusercontent.com/80950615/165934142-6cf326c7-4888-4b0e-8612-22c6a3c5ea09.png)
+
 
 
 
@@ -124,7 +130,8 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 打开xPilot客户端后 您会看到这样的界面
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/xPilot_main.png)
+![xPilot_main](https://user-images.githubusercontent.com/80950615/165934160-d6c06857-9f6f-497c-82ea-3da55f77ddfa.png)
+
 
 
 
@@ -132,7 +139,8 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 要配置xPilot客户端，请单击 `SETTINGS` 。 您将看到如下界面。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/xPilot_Settings.png)
+![xPilot_Settings](https://user-images.githubusercontent.com/80950615/165934179-9c394b78-651c-481c-9027-6aba254e4ea9.png)
+
 
 在连接到Vatsim之前，您必须配置xPilot。
 
@@ -178,7 +186,8 @@ xPilot 需要您必须至少安装一个CSL模型包，CSL模型本质上是X-Pl
 
 要连接到Vatsim，请单击xPlot上方的 `CONNECT` 按钮。 您将看到连接窗口。 在该窗口内您需要填写呼号和执飞航空器的ICAO代码。 SELCAL代码为选填项。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/xPilot_before_connect.png)
+![xPilot_before_connect](https://user-images.githubusercontent.com/80950615/165934194-4f663882-7c6b-4269-8ae6-740bdc910b2d.png)
+
 
 Type Code是您正在飞行的航空器的ICAO代码，通常为3至4个字符。 这将使其他正在进行连飞的Vatsim用户可以在其模拟器中正常的将您以特定的航空器型号显示出来。 xPilot会根据您在Type Code中键入的内容提供可能需要的ICAO代码。 您可以通过ICAO代码，飞机模型或制造商进行搜索，xPilot将为您提供备选的结果列表。
 
@@ -188,10 +197,11 @@ Type Code是您正在飞行的航空器的ICAO代码，通常为3至4个字符�
 
 成功连接后，您的呼号将显示在`Settings`按钮的右侧。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/xPilot_main_connected.png)
+
 
 请注意，有关使用共享驾驶舱（Observer）模式的详细信息，请参阅共享驾驶舱模式。
 
+![xPilot_main_connected](https://user-images.githubusercontent.com/80950615/165934214-148c54cb-4143-4f19-8d03-aa36b31a697d.png)
 
 
 ### 由于低帧速率而断开连接
@@ -206,7 +216,8 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 
 - 当您在模拟器中飞机的应答机面板切换应答机模式时，xPilot 将同步检测应答器模式的变化。也就是说，当模拟器中飞机的应答机处于 Mode C 时，您会看到 xPilot 主窗口上的 `mode C` 按钮绿色亮起，表明此时Xpilot检测到了模拟器内飞机应答机状态的变化。
 
-  ![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/xPilot_ModeC.png)
+
+![xPilot_ModeC](https://user-images.githubusercontent.com/80950615/165934239-7cf4bc3c-9941-4f26-85cb-bc56d9de1a4a.png)
 
   
 
@@ -214,8 +225,8 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 
 这两个选项也适用于 squawk ident（应答机识别）。当您第一次联系某个频率时，管制员可能会要求您应答机识别 。这会使得您在他的管制范围内以不同的方式显示，从而帮助他在他的空域中找到您。如果您被要求应答机识别，您可以按飞机应答机面板上的 ident 按钮，或者点击 xPilot 主窗口上的 `IDENT` 按钮 。当 xPilot 将 ident 信号发送到网络时，xPilot 主窗口上的 `IDENT` 按钮将高亮为绿色。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/xPilot_ModeC_IDENT.png)
 
+![xPilot_ModeC_IDENT](https://user-images.githubusercontent.com/80950615/165934255-47060797-d4c4-4057-bad1-292543b8e4c7.png)
 
 
 ### 与空中交通管制通信
@@ -228,7 +239,8 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 
 **请注意，所有管制员指令应当在`Messages`窗口回复,请勿在私聊窗口回复。**
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/COM1.png)
+
+![COM1](https://user-images.githubusercontent.com/80950615/165934270-f816057f-bd77-4dd9-9447-a2ec32f73013.png)
 
 
 
@@ -253,7 +265,7 @@ VATSIM要求X-Plane用户在飞行期间保持每秒至少20帧的速度。这�
 
 您将会看到如下界面
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/Flightplan.png)
+![Flightplan](https://user-images.githubusercontent.com/80950615/165934293-d1ec602a-15f6-493b-b679-503e8ff24371.png)
 
 
 
@@ -354,7 +366,9 @@ xPilot支持在obs模式下连接，因此您的飞机不会出现在Vatsim网�
 
 每次启动xPilot时，它都会检查是否有新版本可用。如果有新版本可用，系统将提示您下载并安装。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/png/NewVersionAvailable.png)
+![NewVersionAvailable](https://user-images.githubusercontent.com/80950615/165934330-0a725b47-cba8-4b41-b1f1-78d85940f895.png)
+
+
 
 ***注意：由于 [Velocity](https://www.vatprc.net/announcement/3642) 的实施，请确保您的 xPilot 版本已更新至 xPilot v2.0.0-beta.1或更高版本 ，否则将无法连接到 VATSIM网络***
 
@@ -364,7 +378,7 @@ xPilot支持在obs模式下连接，因此您的飞机不会出现在Vatsim网�
 单击`Yes`将开始下载过程。下载完成后，xPilot将关闭，安装程序将打开。
 **安装更新之前必须关闭X-Plane，否则无法正确更新xPilot插件。</u>**
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/NewVersionDownloading.png)
+![NewVersionDownloading](https://user-images.githubusercontent.com/80950615/165934356-c6602e2e-921e-4245-b045-d1bfed61f65b.png)
 
 
 
@@ -398,15 +412,16 @@ xPilot支持在obs模式下连接，因此您的飞机不会出现在Vatsim网�
 
 要将PTT分配给操纵杆按钮，请在列表中查找您要设置的按键并单击编辑
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/X-Plane_Settings_Joystick.png)
+![X-Plane_Settings_Joystick](https://user-images.githubusercontent.com/80950615/165934377-b491bb37-8975-4f7d-9e0d-3bd731dca85d.png)
+
 
 X-Plane Settings Joystick.png
 
 在搜索栏中搜索xPilot并选择 **xPilot: Radio Push-to-Talk (PTT)**
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/X-Plane_Settings_JoystickPTT.png)
+![X-Plane_Settings_JoystickPTT](https://user-images.githubusercontent.com/80950615/165934392-d2e9f36e-483f-42a3-b767-033dbccc6d0f.png)
 
-X-Plane Settings Joystick PTT.png
+
 
 然后单击`Apply`
 
@@ -418,9 +433,8 @@ X-Plane Settings Joystick PTT.png
 
 在X-Plane设置中打开Keyboard菜单。 在搜索栏中搜索”xPilot“并在搜索结果中查找xPilot：Radio Push-to-Talk（PTT） 选项。单击 **+** 按钮，然后按下您想设置为PTT的键盘键。设置键盘键后，单击`Done` 以保存。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/X-Plane_Settings_KeyboardPTT.png)
+![X-Plane_Settings_KeyboardPTT](https://user-images.githubusercontent.com/80950615/165934422-ed4e503e-b006-46ed-bccf-8a91d6127c9c.png)
 
-X-Plane Settings Keyboard PTT.png
 
 完成键盘PTT绑定操作。
 
@@ -432,7 +446,7 @@ xPilot没有需要安装或配置的复杂或特殊模型匹配规则。 在使x
 
 在xPilot插件设置Plugins > xPilot > Settings中，有一个部分可以将路径定义到安装CSL模型集的位置。 您最多可以定义七个不同的路径。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/XplaneCSLConfiguration.png)
+![XplaneCSLConfiguration](https://user-images.githubusercontent.com/80950615/165934455-0274740a-1389-4f87-897c-dfafc65154b3.png)
 
 要定义新路径，请单击“浏览”按钮，然后浏览到文件夹，或手动输入完整路径。 如果有多个子文件夹，xPilot将搜索文件夹以寻找其他模型。
 
@@ -440,7 +454,8 @@ xPilot没有需要安装或配置的复杂或特殊模型匹配规则。 在使x
 
 每次加载xPilot客户端时，都会验证您安装了CSL型号并正确配置。 如果找不到模型，或者该路径无效或未启用，则连接按钮将被禁用，并且在主消息区域中将显示红色错误消息
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/ClientCSLError.png)
+![ClientCSLError](https://user-images.githubusercontent.com/80950615/165934470-599cfa5a-4d0f-4a31-b5d0-ea1eb7d1411d.png)
+
 
 如果看到此错误，请确保安装了CSL包（例如Bluebell CSL），并且该路径在xPilot插件设置中正确配置。 进行更改后，重新启动xPilot和X-Plane。
 
@@ -489,7 +504,7 @@ xPilot没有需要安装或配置的复杂或特殊模型匹配规则。 在使x
 
 附近的ATC窗口按设施类型显示在范围内的控制器；该列表包括呼号、频率和管制员姓名。有两个可用的操作按钮。第一个按钮将请求管制席位信息（管制员ATIS），第二个按钮将把COM1无线电频率调到该管制席的频率。
 
-![image](https://github.com/websterzh/vatprc-wiki/blob/xPilot/images/nearby_atc.png)
+![nearby_atc](https://user-images.githubusercontent.com/80950615/165934494-6424fad1-28e8-4df5-8734-9837208278f0.png)
 
 
 
