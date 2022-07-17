@@ -4,7 +4,7 @@
 欢迎来到VATSIM，在你开始你的第一次连线飞行前，请参阅以下连线飞行基本礼仪。  
 
 ###   
-在连线前，请在VATSIM网络地图上确认你所处的机位上没有其他飞机占用，以免在连线后与他人*穿模*，我们推荐的VATSIM在线地图软件有：[VATspy](https://vatspy.rosscarlson.dev/), [VATprism](https://vatprism.org/), [Simaware](https://simaware.ca/)。而对于iOS用户，则推荐使用VATScope这款App。这些在线地图能够很好的帮助你查看机场情况。在连线后，有关管制空域下的飞行，请参阅《如何在管制空域飞行》。
+在连线前，请在VATSIM网络地图上确认你所处的机位上没有其他飞机占用，以免在连线后与他人*穿模*，我们推荐的VATSIM在线地图软件有：[VATspy](https://vatspy.rosscarlson.dev/), [VATprism](https://vatprism.org/), [Simaware](https://simaware.ca/)。而对于iOS用户，则推荐使用VATScope这款App。这些在线地图能够很好的帮助你查看机场情况。在连线后，有关管制空域下的飞行，请参阅[《如何在管制空域飞行》](https://community.vatprc.net/t/topic/6798/)。
 
 ### 无管制服务下飞行
 
