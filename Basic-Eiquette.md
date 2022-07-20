@@ -12,7 +12,7 @@
 | iOS | VatScope | 软件 | [Appstore](https://apps.apple.com/cn/app/vatscope/id1303293807?l=zhcn) |
 | iOS | VatMap | 软件 | [Appstore](https://apps.apple.com/cn/app/vatmap/id641159906?l=zhcn) |
 | iOS | Vatview | 软件 | [Appstore](https://apps.apple.com/cn/app/vatview/id1562497035?l=zhcn) |
-| Android | VATSCAN | 软件 | [Appstore](https://play.google.com/store/apps/details?id=com.stratospherelabs.vatscan&hl=en_US&gl=US) |
+| Android | VATSCAN | 软件 | [Google Play](https://play.google.com/store/apps/details?id=com.stratospherelabs.vatscan&hl=en_US&gl=US) |
 
 
 ### 无管制服务下飞行
