@@ -9,6 +9,7 @@
 | Windows | VATSpy | 软件 | [下载地址](https://vatspy.rosscarlson.dev/) |
 | Windows | VATPrism | 软件 | [下载地址](https://vatprism.org/) |
 | Windows | Simaware | 网页 | [网页地址](https://simaware.ca/) |
+| Windows | Volanta | 软件/网页 | [网页地址](https://fly.volanta.app/map) |
 | iOS | VatScope | 软件 | [Appstore](https://apps.apple.com/cn/app/vatscope/id1303293807?l=zhcn) |
 | iOS | VatMap | 软件 | [Appstore](https://apps.apple.com/cn/app/vatmap/id641159906?l=zhcn) |
 | iOS | Vatview | 软件 | [Appstore](https://apps.apple.com/cn/app/vatview/id1562497035?l=zhcn) |
