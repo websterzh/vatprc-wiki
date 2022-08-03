@@ -1,0 +1,128 @@
+# 关于航图
+***请注意，本文所有涉及到的航行资料均已进行脱敏处理。***
+## 什么是航图？为什么需要航图？
+> 航图是一种用于辅助飞机导航的地图，跟船舶的海图、汽车驾驶者的地图原理相似。透过使用这些航图，机师能够判断自己驾驶的飞机所在方位、安全飞行高度、飞行最佳路径、沿途导航设备，以及飞机失事时最佳迫降机场/场地；
+>
+>航图还提供其他例如：无线电频率、空界。航图通常分为跨海洋航行的长途航图和显示所有陆块的航图。而详细的航图适用于不同阶段的飞行，可能是某机场设施概览文书中覆盖整个大陆的不同的路线图（例如，全球性导航图）。
+
+航图可以告诉我们怎么去到想去的地方，它可以告诉你如何从你的机位到跑道头，从跑道头到离场点，从某一个航点到某一个航点……显而易见，我们需要航图来辅助我们的飞行。
+## 如何选择航图？
+目前主流的航图种类包括Jeppesen,Lido和当地空域管理部门发布的AIP等。
+以下是三种不同种类航图（Jeppesen、Lido、China AIP）的概览：
+
+- 广州白云01号RNAV离场 AIP航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AIP-GG7G-1920.jpg)
+- 广州白云01号 龙门/英德方向RNAV离场 Jeppesen航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/JEPP%20GG-1920.jpg)
+- 广州白云02L/02R RNAV离场 Lido航图
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Lido%20GG01.jpg)
+
+根据以上我们不难看出，不同发行商出版的航图在图样、呈现方式和绘制风格上都有较大的不同，但是他们所要表达的空域信息都是完全相同的，不存在一个多一个少的情况。我们推荐机组根据自身需求来选择使用何种航图。
+
+## 如何订阅/获取航图
+在模拟飞行界，目前主流的付费航图供应商有Navigraph和Aerosoft，分别提供Jeppesen和Lido航图，并且各自提供了对应的导航数据。
+### [Navigraph订阅](https://navigraph.com/products/subscriptions):
+>
+>![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/Navigraph%20Subscription.jpg)
+>
+>Navigraph仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付
+
+### [Aerosoft订阅](https://www.aerosoft.com/en/flight-simulation/popular-products/navdatapro/)
+> 
+>![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AS%20S1.jpg)
+>![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/AS%20S2.jpg)
+>
+>Aerosoft也仅可通过Paypal或支持Visa/Mastercard/American Express的信用卡进行支付
+
+### 各地区发行的AIP
+VATPRC飞行员中心提供中国内地的AIP航图，参见[飞行员中心](https://pilot.vatprc.net/#/ )
+
+关于航图的数据周期，参看[维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E8%A1%8C%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96)相关内容
+
+大部分国家或地区的空域管理部门都会发行所属空域的AIP航图，参见下表。部分国家/地区的AIP网站可能需要特殊授权进行访问，编者不保证可用性。
+
+|  国家（地区）   | 网站地址  |
+|  ----  | ----  |
+| 中国香港  | https://www.ais.gov.hk |
+| 中国澳门 | https://www.aacm.gov.mo/index.php?r=reference/fly&pageid=98 |
+| 中国台湾 | http://eaip.caa.gov.tw/eaip/ |
+| 日本 | https://aisjapan.mlit.go.jp/Login.do |
+| 韩国 | http://aim.koca.go.kr/eaipPub |
+| 菲律宾 | http://ats.caap.gov.ph/ |
+| 印度尼西亚 | https://aimindonesia.dephub.go.id |
+| 泰国 | https://ais.caat.or.th/term-condition |
+| 马来西亚 | https://aip.caam.gov.my/aip/eAIP/history-en-MS.html |
+| 新加坡 | https://www.caas.gov.sg/ |
+| 印度 | https://aim-india.aai.aero/eaip/ |
+| 马尔代夫 | http://www.aviainfo.gov.mv/ |
+| 斯里兰卡 | https://www.airport.lk/aasl/AIS/web.Home.htm |
+| 柬埔寨 | http://www.civilaviation.gov.kh/km/2014-04-07-07-52-5/aip-cambodia |
+| 越南 | https://vnaic.vn/index.php?option=com_content&view=category&id=53:aip&layout=blog&Itemid=92&lang=en |
+| 缅甸 | https://www.ais.gov.mm/eAIP/2018-02-15/html/index-en-GB.html |
+| 阿联酋 | https://www.gcaa.gov.ae/en/ais/Pages/default.aspx |
+| 孟加拉国 | http://www.caab.gov.bd/aip/ |
+| 文莱 | http://www.dca.gov.bn/|
+| 尼泊尔 | https://e-aip.caanepal.gov.np/ |
+| 蒙古 | https://www.ais.mn/index |
+| 澳大利亚 | https://www.airservicesaustralia.com/aip/aip.asp |
+| 新西兰 | https://www.aip.net.nz/disclaimer?BackURL= |
+| 俄罗斯 | http://www.caiga.ru/common/AirInter/validaip/html/eng.htm |
+| 法国 | https://www.sia.aviation-civile.gouv.fr/ |
+| 英国 | https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/ |
+| 德国 | https://ais.dfs.de/pilotservice/service/information/aip_online/aip_online.jsp |
+| 捷克 | https://aim.rlp.cz/ais_data/aip/control/aip_obsah_en.htm |
+| 意大利 | https://www.enav.it/en/what-we-do/we-create-solutions-for-international-markets/aeronautical-information |
+| 荷兰 | https://www.lvnl.nl/eaip/2021-10-21-AIRAC/html/index-en-GB.html |
+| 西班牙 | https://aip.enaire.es/AIP/ |
+| 瑞典 | https://aro.lfv.se/Editorial/View/IAIP |
+| 丹麦 | https://aim.naviair.dk/en/ |
+| 冰岛 | https://eaip.isavia.is/ |
+| 比利时/卢森堡 | https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/html/index-en-GB.html |
+| 芬兰 | https://www.ais.fi/ais/aip/en/index.htm |
+| 奥地利 | https://www.austrocontrol.at/en/pilots/pre-flight_preparation/aim_products/aip |
+| 波兰 | https://www.ais.pansa.pl/en/publications/aip-ifr/ |
+| 挪威 | https://avinor.no/en/ais/aipnorway/ |
+| 匈牙利 | https://ais-en.hungarocontrol.hu/aip/ |
+| 白俄罗斯 | https://www.ban.by/en/aeronautical-information-aip |
+| 加拿大 | https://www.navcanada.ca/en/aeronautical-information/aip-canada.aspx |
+| 美国 | https://www.faa.gov/air_traffic/publications/atpubs/aip_html/ |
+
+## 航图的识读
+
+### 航图的组成
+每一套航图都有其制作规范，一套中国民用航空局发行的AIP航图按照其规范会有以下内容：
+![AIP组成](https://user-images.githubusercontent.com/60245950/182421005-0867273b-6cca-4d36-bf47-65df04a76081.jpg)
+
+而我们日常的飞行中，我们所查阅的机场航图都有其对应的图号。每张图的图号所对应的内容如下：
+| 航图图号 | 对应图名 |
+| --- | --- |
+| ZXXX-1 | 机场图 |
+| ZXXX-2 | 停机位置图 |
+| ZXXX-4 | 机场障碍物A型图 |
+| ZXXX-5 | 精密进近地形图 |
+| ZXXX-6 | 最低监视引导高度图 |
+| ZXXX-7 | 标准仪表离场图 |
+| ZXXX-9 | 标准仪表进场图 |
+| ZXXX-10 | 仪表进近图 |
+| ZXXX=11 | 目视进近图 |
+| ZXXX-20 | 仪表进近图（RNAV）|
+
+### 航图的阅读
+
+## 附录
+1.航图符号
+为补充本教程例子中不足的部分，现在此将China AIP的GEN 2.3-Chart symbols（航图符号）贴在此处。
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/1.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/2.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/3.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/4.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/5.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/6.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/7.jpg)
+![](https://github.com/websterzh/vatprc-wiki/blob/Charts/images/8.jpg)
+
+2.《中华人民共和国航空资料汇编》编写规范
+正如前文所提，只有严格按照编写规范编写的航图才能作为一套合格可用的航图。这里为大家提供上这份![编写规范](http://www.caac.gov.cn/XXGK/XXGK/BZGF/HYBZ/202111/P020211109574616903568.pdf)供大家进一步学习相关内容。
+请注意，编写规范有可能发生变化，故推荐您通过![此链接](http://www.caac.gov.cn/XXGK/XXGK/)获取到最新版本的编写规范。
+
+3.
