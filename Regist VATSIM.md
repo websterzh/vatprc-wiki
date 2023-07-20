@@ -6,25 +6,30 @@
 
 1. [VATSIM中国分部 - VATSIM People's Republic of China（下称VATPRC）官网](https://www.vatprc.net/)
 
-（PRC主页截图）
+![屏幕截图_20230130_153127](https://github.com/websterzh/vatprc-wiki/assets/77222341/e7d083c5-cfab-4164-a7e0-62d9431368b8)
+
 
 2. [VATSIM中国分部-VATPRC论坛](https://community.vatprc.net/)
 
-（论坛主页截图）
+![屏幕截图 2023-07-20 201653](https://github.com/websterzh/vatprc-wiki/assets/77222341/6f9e3da2-ea27-430e-8983-e0ed8cf18133)
+
 
 ## 注册步骤
 
 1. 进入[VATSIM官方网站](https://vatsim.net/)
 
-（VATSIM官网截图）
+![屏幕截图_20230130_153351](https://github.com/websterzh/vatprc-wiki/assets/77222341/422d4c8a-9e28-4a89-8688-4758a00b9132)
+
 
 2. 点击页面上方的```myVATSIM```，进入注册前页面
 
-（myVATSIM注册页面截图）
+![屏幕截图_20230130_153441](https://github.com/websterzh/vatprc-wiki/assets/77222341/94d0fe79-58b4-421c-a8e2-1105104df5b1)
+
 
 3. 点击绿色```Register```按钮，进入注册页面。
 
-（注册页面截图）
+![屏幕截图_20230130_153531](https://github.com/websterzh/vatprc-wiki/assets/77222341/1df652f9-2698-495f-a284-3877145b1f06)
+
 
 进入注册界面后，**请先阅读页面最上方的淡蓝色背景的注册前须知，仔细阅读后再进行注册。**
 
@@ -62,13 +67,14 @@
 > | Country of Residence | 您的的居住国家/地区 | 从下拉列表中选择对应的国家/地区。 |
 > | State or Province | 您的的居住省份 | 使用拉丁字母填入对应的省份（自治区、直辖市）即可，如广东省则填写为```Guangdong```。|
 > | Password Reminder Word | 密码提醒词 | 如果您将来需要会员部门的帮助，此提醒词将用于验证您的身份，也请您妥善进行保管。 |
-> | Select a Region & Select a Division | 选择您的区域和分部 | 您可自由选择您想加入的[分部](https://vatsim.net/docs/about/regions)，如果您选择加入VATSIM中华人民共和国分部-VATPRC，按照图示选择即可。（选择PRC分部的截图） |
+> | Select a Region & Select a Division | 选择您的区域和分部 | 您可自由选择您想加入的[分部](https://vatsim.net/docs/about/regions)，如果您选择加入VATSIM中华人民共和国分部-VATPRC，按照图示选择即可。![屏幕截图_20230130_163200](https://github.com/websterzh/vatprc-wiki/assets/77222341/4e1bdd70-9cde-408d-b629-a74675f2c802)|
 
 4. 最后，同意下方的条款，再按下```Register```，至此，您已完成了大半部分的注册流程。
 
 5. 接下来，打开您的邮箱，会收到一封来自VATSIM的邮箱地址核实邮件。此时，直接点击邮件上的```Verify```按钮，便可以完成邮箱地址验证。
 
-（邮件截图）
+![屏幕截图_20230130_155927](https://github.com/websterzh/vatprc-wiki/assets/77222341/05154b76-2080-4d42-97fc-af335f44fddb)
+
 
 6. 这个时候，您已经可以在邮件中看到您的VATSIM ID了。此时，您可以先行加入VATSIM 中国分部飞友群（QQ群群号：```127162488```) 与各位飞友交流。
 
