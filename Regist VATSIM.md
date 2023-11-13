@@ -89,7 +89,7 @@
 
 ## 其他可能对您有帮助的网页
 
-[VATPRC Teamspeak服务](https://www.vatprc.net/ts3)。该服务可供您与其他的VATPRC会员在线沟通和协调。
-
+1. [VATPRC Teamspeak服务](https://www.vatprc.net/ts3)。该服务可供您与其他的VATPRC会员在线沟通和协调。
+2. [VATPRC Discord服务](https://discord.gg/497GVnXDUB)。该服务亦可供您与其他的VATPRC会员在线沟通和协调。
 ## 结束语
 本教程到此结束。祝您在[VATSIM](https://www.vatsim.net)和[VATPRC](https://www.vatprc.net)飞行愉快！
