@@ -1,0 +1,16 @@
+{
+  "name": "vatprc-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx honkit serve",
+    "build": "npx honkit build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^5.1.1"
+  }
+}

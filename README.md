@@ -45,6 +45,9 @@
 4. 选择 Commit directly to the `*****` branch.
 5. 提交
 
+### 更新目录
+更新 `SUMMARY.md` 文档即可更新目录。
+
 ## Pull Request 处理流程
 审核人员会定期处理现有的 Pull Request，提出改进意见或通过 Pull Request 将分支合并进入主分支。任何编写人员都可以在 Pull Request 下留言并且进行讨论。
 
