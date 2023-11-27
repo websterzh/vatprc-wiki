@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * 飞行基础
-    * [航空气象学](Weather.md)
+    * [航空气象学](FlightRules/IFR.md)
     * [如何在管制空域飞行](airspace.md)
     * [基本礼仪](Basic-Eiquette.md)
     * [传统进离场](传统进离场.md)
