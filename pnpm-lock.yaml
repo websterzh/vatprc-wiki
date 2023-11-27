@@ -4,6 +4,17 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  honkit-plugin-alert-msg:
+    specifier: ^0.0.2
+    version: registry.npmmirror.com/honkit-plugin-alert-msg@0.0.2
+  honkit-plugin-breadcrumbs:
+    specifier: ^0.0.2
+    version: registry.npmmirror.com/honkit-plugin-breadcrumbs@0.0.2
+  honkit-plugin-toggle-chapters:
+    specifier: ^0.0.1
+    version: registry.npmmirror.com/honkit-plugin-toggle-chapters@0.0.1
+
 devDependencies:
   honkit:
     specifier: ^5.1.1
@@ -886,6 +897,26 @@ packages:
     version: 11.9.0
     engines: {node: '>=12.0.0'}
     dev: true
+
+  registry.npmmirror.com/honkit-plugin-alert-msg@0.0.2:
+    resolution: {integrity: sha512-Ee8p+lQrG2qAkpyGhx1/B80KO3uouJukRC5eZxfIE4VXjSTuQesaxzKc5fqAB9iH7kJ1pqYdxDxcNsOWHPGSOQ==, tarball: https://registry.npmmirror.com/honkit-plugin-alert-msg/-/honkit-plugin-alert-msg-0.0.2.tgz}
+    name: honkit-plugin-alert-msg
+    version: 0.0.2
+    engines: {honkit: '>1.x.x'}
+    dev: false
+
+  registry.npmmirror.com/honkit-plugin-breadcrumbs@0.0.2:
+    resolution: {integrity: sha512-hU3BuLlikt42hgQl3CDavY8owGnXJuRxK0XbitrP1fqcaUgeKCbtONhuPwL+kdlXkeBWXbWig0WWRADOjWEm/g==, tarball: https://registry.npmmirror.com/honkit-plugin-breadcrumbs/-/honkit-plugin-breadcrumbs-0.0.2.tgz}
+    name: honkit-plugin-breadcrumbs
+    version: 0.0.2
+    engines: {honkit: '>1.x.x'}
+    dev: false
+
+  registry.npmmirror.com/honkit-plugin-toggle-chapters@0.0.1:
+    resolution: {integrity: sha512-DgMA6NrQjNZpVwXExCMKczbWYqF7x/cpOXKLj7zeMENOEx6WqmeaILDg9o9tEkmiQO2aoS8WTLZlxhk4q46tVQ==, tarball: https://registry.npmmirror.com/honkit-plugin-toggle-chapters/-/honkit-plugin-toggle-chapters-0.0.1.tgz}
+    name: honkit-plugin-toggle-chapters
+    version: 0.0.1
+    dev: false
 
   registry.npmmirror.com/honkit@5.1.1:
     resolution: {integrity: sha512-dacSCX0bXL4TF7yT4nQ9ZSTofpFhxrljm4sonrnwxPP1RV36mmQVfFagKfImZvGYxr+HR4wDfVnaSjWExTISWQ==, tarball: https://registry.npmmirror.com/honkit/-/honkit-5.1.1.tgz}

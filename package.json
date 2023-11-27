@@ -12,5 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "honkit": "^5.1.1"
+  },
+  "dependencies": {
+    "honkit-plugin-alert-msg": "^0.0.2",
+    "honkit-plugin-breadcrumbs": "^0.0.2",
+    "honkit-plugin-toggle-chapters": "^0.0.1"
   }
 }

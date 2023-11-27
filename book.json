@@ -1,0 +1,7 @@
+{
+    "title": "VATPRC Wiki",
+    "plugins": ["breadcrumbs", "alert-msg", "toggle-chapters"],
+	"pluginsConfig": {
+		"toggle-chapters":{}
+	}
+}
