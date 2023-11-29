@@ -5,7 +5,7 @@
 首先，在连线前，请务必保证你的飞机在停机位上。你可以通过VATSIM网络地图确认你所处的机位上没有其他飞机占用，以免在连线后与他人穿模，给别人和自己造成不好的连飞体验。
 我们推荐的VATSIM在线地图有以下几款，大家可以根据自己的需要进行选用。
 | 平台 | 名称 | 形式 | 地址 |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | Windows | VATSpy | 软件 | [下载地址](https://vatspy.rosscarlson.dev/) |
 | Windows | VATPrism | 软件 | [下载地址](https://vatprism.org/) |
 | Windows | Simaware | 网页 | [网页地址](https://simaware.ca/) |
