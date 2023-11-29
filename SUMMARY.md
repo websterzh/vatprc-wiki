@@ -1,15 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
-* 飞行基础
-    * [航空气象学](Weather.md)
-    * [如何在管制空域飞行](airspace.md)
-    * [基本礼仪](Basic-Eiquette.md)
-    * [传统进离场](传统进离场.md)
-    * [PBN进离场](PBN进离场.md)
-* 软件使用
-    * [vPilot 使用文档](vPilot 使用文档.md)
-    * [xPilot 使用文档](xPilot 使用文档.md)
-    * [如何使用 P3D 连飞](如何使用 P3D 连飞.md)
-    * [如何使用 X-Plane 连飞](如何使用 X-Plane 连飞.md)
+* [项目介绍](README.md)
+* [目录](目录/Outline.md)
+* 飞行教程
+    * 新手入门
+        * 连接到VATSIM网络
+            * [P3D](飞行教程/新手入门/连接到VATSIM网络/P3D/如何使用%20P3D%20连飞.md)
+            * [X-Plane](飞行教程/新手入门/连接到VATSIM网络/X-Plane/如何使用%20X-Plane%20连飞.md)
 
