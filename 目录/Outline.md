@@ -16,7 +16,7 @@
    2. PBN进离场
 
 # 连线相关
-1. COC
+1. [VATSIM 行为守则 (Code of Conduct, CoC)](未分类/COC_translate_full.md)
 2. 基本礼仪
 3. 使用P3D连飞
 4. 使用xp连飞
