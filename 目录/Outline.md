@@ -16,7 +16,7 @@
    2. PBN进离场
 
 # 连线相关
-1. COC
+1. [VATSIM 行为守则 (Code of Conduct, CoC)](未分类/COC_translate_full.md)
 2. [基本礼仪](未分类/Basic-Eiquette.md)
 3. 使用P3D连飞
 4. 使用xp连飞
@@ -26,6 +26,7 @@
 8. 管制空域内飞行和程序管制、ADSB管制
 9. 大流量活动
 10. 数据链
+11. [中国航空公司呼号](未分类/中国航空公司呼号.md)
 
 # 资源
 1. 实用工具和网站
